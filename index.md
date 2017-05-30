@@ -7,11 +7,11 @@ Le dépôt GitHub associé à cette page contient des ressources sous license GP
 ### Niveau d'études et diplômes
 TLS-SEC remplace et valide la dernière année des écoles d'ingénieurs partenaires. Ainsi les étudiants de ces écoles peuvent suivre TLS-SEC à la place de leur dernière année d'école d'ingénieur et obtenir le diplôme de leur école d'origine.
 
-TLS-SEC valide également la majorité du parcours Sécurité (M2) du Master Réseaux et Télécommunications de l'[Université Fédérale Toulouse Midi-Pyrénées](http://www.univ-toulouse.fr/). En passant un examen supplémentaire sur des enseignements suivis en commun avec des étudiants de l'[Université Paul Sabatier](http://www.univ-tlse3.fr/) (50h environ) les étudiants de TLS-SEC pourront donc obtenir un M2 (BAC+5) en informatique.
+TLS-SEC valide également la majorité du parcours Sécurité (M2) du Master Réseaux et Télécommunications de l'[Université Fédérale Toulouse Midi-Pyrénées](http://www.univ-toulouse.fr/). En passant un examen supplémentaire sur des enseignements suivis en commun avec des étudiants de l'[Université Paul Sabatier](http://www.univ-tlse3.fr/) (50h environ) les étudiants des écoles partenaires de TLS-SEC pourront donc obtenir un M2 (BAC+5) en informatique, sauf s'ils sont en contrat de professionnalisation (incompatible avec une inscription en M2 dans nos écoles d'ingénieurs).
 
 ### Formation Continue
-Les enseignements de TLS-SEC, complétés par 200h d'enseignements d'approfondissement permettent aux étudiants de la Formation Continue d'obtenir un [Mastère Spécialisé de la Conférence des Grandes Écoles](http://www.cge.asso.fr/nos-labels/ms) (BAC+6). La formation est structurée de façon à pouvoir la suivre à mi-temps pendant 18 mois (+6 mois de stage en entreprise).
+Les enseignements de TLS-SEC, complétés par 100h d'enseignements d'approfondissement permettent aux étudiants de la Formation Continue d'obtenir un [Mastère Spécialisé de la Conférence des Grandes Écoles](http://www.cge.asso.fr/nos-labels/ms) (BAC+6). Ces étudiants *doivent* suivre la formation à mi-temps (temps plein impossible) pendant 18 mois (dont 4 à 6 mois de stage en entreprise).
 
 ### Ressources 
 
-Voici un [syllabus](https://github.com/carlosaguilarmelchor/tls-sec/blob/master/syllabus.pdf) décrivant le contenu de la formation.
+Voici un [syllabus](https://github.com/TLS-SEC/tls-sec.github.io/blob/master/documents/syllabus.pdf) décrivant le contenu de la formation.
