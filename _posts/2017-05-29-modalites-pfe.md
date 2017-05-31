@@ -3,6 +3,8 @@ layout: default
 title: "Rapport et soutenance du projet de fin d'études"
 ---
 
+### {{post.title}}
+
 Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'études ainsi qu'un modèle de rapport.
 
 Vous devez envoyer un plan du rapport *un mois* avant les soutenances et une version complète et finalisée *une semaine* avant les soutenances.
