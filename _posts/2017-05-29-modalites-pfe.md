@@ -3,7 +3,8 @@ layout: post
 title: "Rapport et soutenance du projet de fin d'études"
 ---
 
-  * Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'études ainsi qu'un modèle de rapport.
+Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'études ainsi qu'un modèle de rapport.
+
   * Vous devez envoyer un plan du rapport *un mois* avant les soutenances et une version complète et finalisée *une semaine* avant les soutenances.
   * Vous pouvez choisir la langue que vous voullez pour la rédaction.
   * Vous trouverez [ici]{{https://github.com/TLS-SEC/tls-sec.github.io/raw/master/documents/Modele_de_rapport_pfe.docx}} un modèle de rapport que vous pouvez suivre.
