@@ -5,5 +5,4 @@ show_downloads: true
 theme: jekyll-theme-dinky
 
 gems:
-  - jekyll-redirect-from
   - jekyll-mentions
