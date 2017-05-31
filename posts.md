@@ -1,4 +1,4 @@
-### Information pour les étudiants de TLS-SEC
+### Informations pour les étudiants de TLS-SEC
 <ul> 
   {% for post in site.posts %} 
     <li> 
