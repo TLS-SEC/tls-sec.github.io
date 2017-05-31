@@ -17,15 +17,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header"><a href={{site.url}}>{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 class="header"><a href={{ site.url }}>{{ site.title | default: site.github.repository_name }}</a></h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
           {% if site.show_downloads %}
             <li><a class="buttons" href="https://github.com/TLS-SEC/tls-sec.github.io/raw/master/documents/syllabus.pdf">Syllabus</a></li>
             <li><a class="buttons" href="https://github.com/TLS-SEC/tls-sec.github.io/raw/master/documents/plaquette.pdf">Plaquette</a></li>
-            <li><a class="buttons" href="{{ site.baseurl }}candidats.html">Infos candidats</a></li>
-            <li><a class="buttons" href="{{ site.baseurl }}posts.html">Infos étudiants</a></li>
+            <li><a class="buttons" href="{{ site.url }}candidats.html">Infos candidats</a></li>
+            <li><a class="buttons" href="{{ site.url }}posts.html">Infos étudiants</a></li>
           {% endif %}
           <!--li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li--!>
         </ul>
