@@ -5,19 +5,19 @@ title: "Rapport et soutenance du projet de fin d'études"
 
 Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'études, un modèle de rapport, ainsi que des informations sur l'organisation des soutenances et l'évaluation du stage.
 
-#### Rapport
+## Rapport
 
   * Vous devez envoyer un plan du rapport *un mois* avant les soutenances et une version complète et finalisée *une semaine* avant les soutenances.
   * Vous pouvez choisir la langue que vous voullez pour la rédaction.
-  * Vous trouverez [ici]{{https://github.com/TLS-SEC/tls-sec.github.io/raw/master/documents/Modele_de_rapport_pfe.docx}} un modèle de rapport que vous pouvez suivre.
+  * Vous trouverez [ici]({{ site.url }}/documents/Modele_de_rapport_pfe.docx) un modèle de rapport que vous pouvez suivre.
   * Le modele de rapport est fourni à titre indicatif. Son objectif est de vous donner une idée des parties qui sont importantes à présenter dans le document. 
   * Bien entendu, vous pouvez aussi basculer sur du latex pour sa rédaction, tout en conservant cet esprit.
 
-#### Soutenance
+## Soutenance
 
 La soutenance sera de 20 minutes avec 10 minutes de questions. Attention, le jury porte une attention particulière à l'utilisaiton de termes corrects en Français (pas de Franglais), notemment si votre rapport était en Anglais.
 
-#### Évaluation
+## Évaluation
 
 Vos stages seront evalues ainsi : 
   * rapport (evaluation fournie par votre tuteur INSA/N7)
