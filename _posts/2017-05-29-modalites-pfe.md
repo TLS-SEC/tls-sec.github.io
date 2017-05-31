@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Rapport et soutenance du projet de fin d'études"
 ---
 
