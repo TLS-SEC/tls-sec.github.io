@@ -1,5 +1,5 @@
 ---
-redirect_from: "/tls-sec"
+redirect_from: "/tls-sec/"
 ---
 
 ### Description
