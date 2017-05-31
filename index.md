@@ -1,8 +1,11 @@
 ### Description
 TLS-SEC (pour Toulouse-Sécurité) est une formation en sécurité des systèmes d'information du groupement d'écoles d'ingénieurs [Toulouse Ingénierie](http://www.univ-toulouse.fr/universite/actualites/le-collegium-toulouse-ingenierie). Elle est plus spécifiquement portée par l'INP Toulouse, l'INSA Toulouse et l'ENAC. 
 
+### Contenu
+
 Le dépôt GitHub associé à cette page contient des ressources sous license GPLv3 de TLS-SEC. L'objectif de celui-ci est de publier des ressources qui peuvent être utiles aux étudiants de TLS-SEC comme à toute personne s'intéressant à la sécurité en tant qu'étudiant ou souhaitant mettre en place une formation en sécurité. Cette page web apporte également quelques compléments d'information qui peuvent être d'intérêt pour les personnes s'intéressant à TLS-SEC. 
 
+Les liens du menu donnent accès à la plaquette de la formation, à un syllabus, et à des informations pour les futurs candidats et étudiants de TLS-SEC.
 
 ### Niveau d'études et diplômes
 TLS-SEC remplace et valide la dernière année des écoles d'ingénieurs partenaires. Ainsi les étudiants de ces écoles peuvent suivre TLS-SEC à la place de leur dernière année d'école d'ingénieur et obtenir le diplôme de leur école d'origine.

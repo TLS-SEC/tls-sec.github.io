@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modalités du rendu du rapport de PFE"
+title: "Rapport et soutenance du projet de fin d'études"
 ---
 
 Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'études ainsi qu'un modèle de rapport.
