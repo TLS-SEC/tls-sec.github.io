@@ -15,7 +15,7 @@ Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'é
 
 ## Soutenance
 
-La soutenance sera de 20 minutes avec 10 minutes de questions. Attention, le jury porte une attention particulière à l'utilisation de termes corrects en Français (pas de Franglais), notamment si votre rapport est en Anglais.
+La soutenance sera de 20 minutes plus 10 minutes de questions. Attention, le jury porte une attention particulière à l'utilisation de termes corrects en Français (pas de Franglais), notamment si votre rapport est en Anglais.
 
 ## Évaluation
 
