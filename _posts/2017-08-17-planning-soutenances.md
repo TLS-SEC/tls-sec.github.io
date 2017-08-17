@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Planning des soutenance du projet de fin d'études"
+title: "Planning des soutenance du projet de fin d'études 2016-17"
 ---
 
 Vous trouverez ici le principe d'organisation des soutenances, les horaires de passage et la composition du jury.
@@ -15,9 +15,9 @@ Chaque slot se repartira ainsi :
   * 30mn delibération
 
 On demande la présence des 3 (ou 4) tuteurs industriels pour toute la durée
-du slot ainsi que la présence des tuteurs academiques correspondant.
+du slot ainsi que la présence des tuteurs académiques correspondant.
 Merci donc de leur faire passer le message et de vérifier avec eux
-qu'ils pourront être présents malgré l'annonce tardive du planning.
+s'ils pourront être présents malgré l'annonce tardive du planning.
 
 Ils nous fourniront leur évaluation de votre travail lors de la soutenance.
 Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
