@@ -44,7 +44,7 @@ Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
 
 14h00-16h00 De Sousa - Poisot - Zourgane (Jury Fasson - Alata - Aguilar)
 
-16h00-18h00 Capircio - Marestin - Rivière (Aguilar - ??? - ???)
+16h00-18h00 Capircio - Marestin - Rivière (Aguilar - Larrieu - ???)
 
 ## Soutenance
 
