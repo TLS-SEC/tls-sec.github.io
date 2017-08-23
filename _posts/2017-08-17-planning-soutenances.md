@@ -44,6 +44,8 @@ Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
 
 14h00-16h00 De Sousa - Poisot - Zourgane (Jury Fasson - Alata - Aguilar)
 
+16h00-18h00 Capircio - Marestin - Rivière (Aguilar - ??? - ???)
+
 ## Soutenance
 
 La soutenance sera de 20 minutes plus 10 minutes de questions. Attention, le jury porte une attention particulière à l'utilisation de termes corrects en Français (pas de Franglais), notamment si votre rapport est en Anglais.
