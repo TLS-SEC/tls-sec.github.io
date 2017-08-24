@@ -7,14 +7,16 @@ Vous trouverez ici le principe d'organisation des soutenances, les horaires de p
 
 # Organisation Soutenances 
 
-Les soutenances sont réparties en slots de 3 soutenances (qui durent 2h au total)
+Les soutenances auront lieu salle B301 à l'ENSEEIHT (2 rue Charles Camichel, bâtiment B, 3ème étage au fond du couloir à droite)
+
+Elles sont réparties en slots de 3 soutenances (qui durent 2h au total)
 Chaque slot se repartira ainsi :
   * 1er soutenance 20mn + 10mn questions
   * 2eme soutenance 20mn + 10mn questions
   * 3eme soutenance 20mn + 10mn questions
   * 30mn delibération
 
-On demande la présence des 3 (ou 4) tuteurs industriels pour toute la durée
+On demande la présence des 3 tuteurs industriels pour toute la durée
 du slot ainsi que la présence des tuteurs académiques correspondant.
 Merci donc de leur faire passer le message et de vérifier avec eux
 s'ils pourront être présents malgré l'annonce tardive du planning.
