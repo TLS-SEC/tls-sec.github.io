@@ -14,7 +14,7 @@ TLS-SEC valide également la majorité du parcours Sécurité (M2) du Master Ré
 
 **Important:** Les étudiants en contrat de professionnalisation ne pourront obtenir que le diplôme d'ingénieur (le contrat est incompatible avec une inscription en M2 dans nos écoles d'ingénieurs).
 
-**Important:** Si vous êtes dans une école qui n'est pas partenaire il est aussi possible de candidater au même titre que les étudiants d'écoles partenaires. Il faudra juste obtenir un accord entre l'ENSEEIHT et l'école de départ pour faire une année d'échange. Vous pouvez dans ce cas obtenir le diplôme d'ingénieur et de Master.
+**Important:** Si vous êtes dans une école qui n'est pas partenaire il est aussi possible de candidater au même titre que les étudiants d'écoles partenaires. Il faudra juste obtenir un accord entre l'INP ENSEEIHT et l'école de départ pour faire une année d'échange. Vous pouvez dans ce cas obtenir le diplôme d'ingénieur et de Master.
 
 #### Apprenti en avant-dernière année d'école d'ingénieur
 
@@ -25,3 +25,4 @@ Cette voie est uniquement ouverte aux apprentis des écoles partenaires. Elle pe
 
 Tout autre étudiant (venant d'une université, ayant déjà obtenu son diplôme d'ingénieur, venant d'une entreprise), qu'il relève de la formation continue ou initiale, devra avoir un niveau BAC+5 (ou BAC+4 justifiant de trois années d'expérience professionnelle). Il pourra obtenir un Mastère Spécialisé (BAC+6) en suivant les cours ingénieur plus environ une centaine d'heures d'enseignement. 
 
+Les frais d'inscription au Mastère Spécialisé sont de 4500 euros pour les étudiants relevant de la formation initiale et de 12000 euros pour les étudiants relevant de la formation continue. Les apprentis diplômés par l'une des écoles d'ingénieurs partenaires l'année de leur candidature à TLS-SEC, peuvent prétendre aux frais d'inscription de la formation initiale (au cas par cas).
