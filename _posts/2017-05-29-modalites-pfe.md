@@ -7,7 +7,7 @@ Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'é
 
 ## Rapport
 
-  * Vous devez envoyer un plan du rapport *un mois* avant les soutenances et une version complète et finalisée *une semaine* avant les soutenances.
+  * Vous devez envoyer *par voie électronique* un plan du rapport *un mois* avant les soutenances et une version complète et finalisée *une semaine* avant les soutenances.
   * Vous devez venir avec un examplaire imprimé et relié le jour de la soutenance
   * Vous pouvez choisir la langue que vous voulez pour la rédaction.
   * Vous trouverez [ici]({{ site.url }}/documents/Modele_de_rapport_pfe.docx) un modèle de rapport que vous pouvez suivre.
