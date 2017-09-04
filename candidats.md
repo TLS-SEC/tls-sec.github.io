@@ -1,6 +1,6 @@
-## Information pour les candidats à TLS-SEC
+## Informations pour les candidats à TLS-SEC
 
-Pour toute information contactez Carlos Aguilar à son adresse mail *prénom point nom* dans le domaine *enseeiht point fr*.
+Pour toute information complémentaire contactez Carlos Aguilar à son adresse mail *prénom point nom* dans le domaine *enseeiht point fr*.
 
 ### Diplômes
 
@@ -18,9 +18,9 @@ TLS-SEC remplace et valide la dernière année des écoles d'ingénieurs partena
 
 TLS-SEC valide également la majorité du parcours Sécurité (M2) du Master Réseaux et Télécommunications de l'[Université Fédérale Toulouse Midi-Pyrénées](http://www.univ-toulouse.fr/). En passant un examen supplémentaire sur des enseignements suivis en commun avec des étudiants de l'[Université Paul Sabatier](http://www.univ-tlse3.fr/) (50h environ) les étudiants des écoles partenaires de TLS-SEC pourront donc obtenir un M2 (BAC+5) en informatique. 
 
-** Important: ** Les étudiants en contrat de professionnalisation dans les écoles partenaires ne pourront obtenir que le diplôme d'ingénieur (le satatut est incompatible avec une inscription en M2 dans nos écoles d'ingénieurs).
+**Important:** Les étudiants en contrat de professionnalisation dans les écoles partenaires ne pourront obtenir que le diplôme d'ingénieur (le satatut est incompatible avec une inscription en M2 dans nos écoles d'ingénieurs).
 
-** Important: ** Si vous êtes dans une école qui n'est pas partenaire il est aussi possible de candidater au même titre que les étudiants d'écoles partenaires. Il faudra juste obtenir un accord entre l'ENSEEIHT et l'école de départ pour faire une année d'échange. Vous pouvez dans ce cas obtenir un diplôme d'ingénieur et de Master.
+**Important:** Si vous êtes dans une école qui n'est pas partenaire il est aussi possible de candidater au même titre que les étudiants d'écoles partenaires. Il faudra juste obtenir un accord entre l'ENSEEIHT et l'école de départ pour faire une année d'échange. Vous pouvez dans ce cas obtenir un diplôme d'ingénieur et de Master.
 
 #### Apprenti en avant-dernière année d'école d'ingénieur
 
