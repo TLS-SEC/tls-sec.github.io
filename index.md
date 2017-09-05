@@ -9,7 +9,7 @@ Les liens du menu donnent accès à la plaquette de la formation, à un syllabus
 
 ### Niveau d'études et diplômes
 
-TLS-SEC permet d'obtenir un diplôme d'ingénieur, un Master, ou un Mastère Spécialisé. Le diplôme auquel vous pouvez prétendre dépend de votre situation initiale et des cours que vous suivez. Plus d'informations [ici](candidats.md).
+TLS-SEC permet d'obtenir un diplôme d'ingénieur, un Master, ou un Mastère Spécialisé. Il est également possible d'avoir un double diplôme ingénieur/Master. Le diplôme auquel vous pouvez prétendre dépend de votre situation initiale et des cours que vous suivez. Plus d'informations [ici](candidats.md).
 
 ### Formation Continue
 Les enseignements de TLS-SEC, complétés par 100h d'enseignements d'approfondissement permettent aux étudiants de la Formation Continue d'obtenir un [Mastère Spécialisé de la Conférence des Grandes Écoles](http://www.cge.asso.fr/nos-labels/ms) (BAC+6). Ces étudiants *doivent* suivre la formation à mi-temps (temps plein impossible) pendant 18 mois (dont 4 à 6 mois de stage en entreprise).

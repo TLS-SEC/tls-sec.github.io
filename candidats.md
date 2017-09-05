@@ -6,7 +6,7 @@ Pour toute information complémentaire contactez Carlos Aguilar sur son adresse 
 
 Le diplôme auquel vous pouvez prétendre dépend de votre situation au moment de votre candidature (c'est-à-dire l'année avant TLS-SEC).
 
-#### Étudiant en avant-dernière année d'école d'ingénieur
+#### Étudiant en quatrième année du cycle ingénieur
 
 TLS-SEC remplace et valide la dernière année des écoles d'ingénieurs partenaires. Ainsi les étudiants de ces écoles peuvent suivre TLS-SEC à la place de leur dernière année d'école d'ingénieur et obtenir le diplôme de leur école d'origine. 
 
@@ -16,12 +16,12 @@ TLS-SEC valide également la majorité du parcours Sécurité (M2) du Master Ré
 
 **Important :** Si vous êtes dans une école qui n'est pas partenaire il est aussi possible de postuler au même titre que les étudiants d'écoles partenaires. Il faudra seulement obtenir un accord entre l'INP ENSEEIHT et l'école de départ pour faire une année d'échange. Vous pouvez dans ce cas obtenir le diplôme d'ingénieur et de Master.
 
-#### Apprenti en avant-dernière année d'école d'ingénieur
+#### Apprenti en quatrième année du cycle ingénieur
 
 Cette voie est uniquement ouverte aux apprentis des écoles partenaires. Elle permet d'obtenir le diplôme d'ingénieur de l'école d'origine. Il est aussi possible d'obtenir le diplôme de Master avec un accord, au cas par cas, de votre entreprise, de l'INP ENSEEIHT et du CFA.
 
 
-#### Autres étudiants
+#### Autres étudiants (professionnels inclus)
 
 Tout autre étudiant (venant d'une université, ayant déjà obtenu son diplôme d'ingénieur, venant d'une entreprise), qu'il relève de la formation continue ou initiale, devra avoir un niveau BAC+5 (ou BAC+4 justifiant de trois années d'expérience professionnelle). Il pourra obtenir un Mastère Spécialisé (BAC+6) en suivant les cours d'ingénieur plus environ une centaine d'heures d'enseignement. 
 
