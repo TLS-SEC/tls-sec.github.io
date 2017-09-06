@@ -5,9 +5,9 @@ title: "Procédure d'inscription"
 
 Vous trouverez ici le protocole à suivre pour vous inscrire à TLS-SEC. 
 
-**Pour les dates et procédures dans les écoles autres que l'INP ENSEEIHT voir avec l'administration associée.**
-
-**Pour les procédures à l'INP ENSEEIHT, un créneau est réservé une fois les cours commencés pour que vous alliez voir la scolarité. Pour avoir cette date, veuillez vous référer au post sur le calendrier de l'INP ENSEEIHT.**
+**Important :**
+  * pour les dates et procédures dans les écoles autres que l'INP ENSEEIHT voir avec l'administration associée ;
+  * pour les procédures à l'INP ENSEEIHT, un créneau est réservé une fois les cours commencés pour que vous alliez voir la scolarité. Pour avoir cette date, veuillez vous référer au post sur le calendrier de l'INP ENSEEIHT.
 
 
 # Étudiants en formation continue 
