@@ -7,7 +7,9 @@ Vous trouverez ici le protocole à suivre pour vous inscrire à TLS-SEC.
 
 **Important :**
   * pour les dates et procédures dans les écoles autres que l'INP ENSEEIHT voir avec l'administration associée ;
-  * pour les procédures à l'INP ENSEEIHT, un créneau est réservé une fois les cours commencés pour que vous alliez voir la scolarité. Pour avoir cette date, veuillez vous référer au post sur le calendrier de l'INP ENSEEIHT.
+  * pour les procédures à l'INP ENSEEIHT, un créneau est réservé une fois les cours commencés pour que vous alliez voir la scolarité. Pour avoir cette date, veuillez vous référer au post sur le calendrier de l'INP ENSEEIHT ;
+  * les étudiants de l'INP ENSEEIHT doivent, en plus de passer à la scolarité sur le créneau réservé, suivre la procédure de réinscription en 3A par voie électronique demandée par leur département.
+
 
 
 # Étudiants en formation continue 
@@ -42,8 +44,6 @@ Vous devez faire à l'INP ENSEEIHT:
   * une inscription administrative payante (complément) en Master 2 Réseaux et Télécommunications, parcours Sécurité des Systèmes d'Information et Réseaux;
   * une inscription pédagogique en dernière année d'ingénieur;
   * une inscription pédagogique en Master 2 Réseaux et Télécommunications, parcours Sécurité des Systèmes d'Information et Réseaux.
-
-**Vous devez suivre la procédure de réinscription en 3A par voie électronique demandée par votre établissement.**
 
 Vous devez également payer 5,10 euros pour la carte étudiant.
 
