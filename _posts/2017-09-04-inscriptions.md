@@ -7,7 +7,7 @@ Vous trouverez ici le protocole à suivre pour vous inscrire à TLS-SEC.
 
 **Important :**
   * pour les dates et procédures dans les écoles autres que l'INP ENSEEIHT voir avec l'administration associée ;
-  * pour les procédures à l'INP ENSEEIHT, un créneau est réservé une fois les cours commencés pour que vous alliez voir la scolarité. Pour avoir cette date, veuillez vous référer au post sur le calendrier de l'INP ENSEEIHT ;
+  * pour les procédures à l'INP ENSEEIHT, un créneau est réservé une fois les cours commencés pour que vous alliez voir la scolarité (pour avoir cette date, veuillez vous référer au post sur le calendrier de l'INP ENSEEIHT) ;
   * les étudiants de l'INP ENSEEIHT doivent, en plus de passer à la scolarité sur le créneau réservé, suivre la procédure de réinscription en 3A par voie électronique demandée par leur département.
 
 
