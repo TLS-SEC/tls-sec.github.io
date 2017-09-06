@@ -39,6 +39,8 @@ Vous devez faire à l'INP ENSEEIHT:
   * une inscription pédagogique en dernière année d'ingénieur;
   * une inscription pédagogique en Master 2 Réseaux et Télécommunications, parcours Sécurité des Systèmes d'Information et Réseaux.
 
+**Vous devez suivre la procédure de réinscription en 3A par voie électronique demandée par votre établissement.**
+
 Vous devez également payer 5,10 euros pour la carte étudiant.
 
 # Autres étudiants
