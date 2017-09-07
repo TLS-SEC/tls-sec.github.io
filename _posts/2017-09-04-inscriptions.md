@@ -11,7 +11,6 @@ Vous trouverez ici le protocole à suivre pour vous inscrire à TLS-SEC.
   * les étudiants de l'INP ENSEEIHT doivent, en plus de passer à la scolarité sur le créneau réservé, suivre la procédure de réinscription en 3A par voie électronique demandée par leur département.
 
 
-
 # Étudiants en formation continue 
 
 Vous devez contacter Sylvie Verlhiac (si vous êtes inscrits par la formation continue de l'INP) ou Jessica Autolitano (si vous êtes inscrits par la formation continue de l'INSA) pour les démarches concernant la formation continue.
