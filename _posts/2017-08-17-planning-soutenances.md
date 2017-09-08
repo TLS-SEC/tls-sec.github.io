@@ -25,6 +25,8 @@ Ils nous fourniront leur évaluation de votre travail lors de la soutenance.
 Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
 évaluation (nous leur fourniront une fiche dans ce cas).
 
+Si votre tuteur à besoin de venir en voiture et de se garer, merci d'envoyer le plus tôt possible un message à la liste de diffusion de l'équipe pédagogique avec Nom, Prénom et adresse mail ainsi que la durée nécessaire.
+
 # Planning soutenances 
 
 ## lundi 11/9 :
