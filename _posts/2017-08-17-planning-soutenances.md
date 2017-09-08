@@ -25,7 +25,7 @@ Ils nous fourniront leur évaluation de votre travail lors de la soutenance.
 Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
 évaluation (nous leur fourniront une fiche dans ce cas).
 
-Si votre tuteur à besoin de venir en voiture et de se garer, merci d'envoyer le plus tôt possible un message à la liste de diffusion de l'équipe pédagogique avec Nom, Prénom et adresse mail ainsi que la durée nécessaire.
+Si votre tuteur à besoin de venir en voiture et de se garer, merci d'envoyer le plus tôt possible un message à la liste de diffusion de l'équipe pédagogique avec Nom, Prénom et adresse mail. Le tuteur pourra aller se garer directement au parking de Saint-Aubin et devra passer à l'accueil de l'ENSEEIHT en arrivant ou en partant pour obtenir un ticket de paiement. Prévenez bien votre tuteur que ce ticket marche comme une carte bleue (à insérer après le vrai ticket de parking à la place de la carte bleue sur la borne de sortie).
 
 # Planning soutenances 
 
