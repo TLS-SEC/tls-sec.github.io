@@ -54,7 +54,4 @@ Un pot sera offert par l'ENSEEIHT (généralement à la fin des soutenances du d
 
 ## Soutenance
 
-La soutenance sera de 20 minutes plus 10 minutes de questions. Attention, le jury porte une attention particulière à l'utilisation de termes corrects en Français (pas de Franglais), notamment si votre rapport est en Anglais.
-
-
-
+Pour des conseils sur le contenu vous pouvez aller [ici](https://tls-sec.github.io/2017/05/29/modalites-pfe.html).
