@@ -18,6 +18,10 @@ Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'é
 
 La soutenance sera de 20 minutes plus 10 minutes de questions. Attention, le jury porte une attention particulière à l'utilisation de termes corrects en Français (pas de Franglais), notamment si votre rapport est en Anglais.
 
+Conseils:
+  * Attention vous présentez votre travail **pas un domaine**
+  * Prenez le temps de décrire les activités d'un niveau ingénieur (réflexion, analyse, prise de hauteur, etc.) plus que les gestes techniques 
+
 ## Évaluation
 
 Vos stages seront évalués ainsi : 
