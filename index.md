@@ -17,4 +17,4 @@ Les enseignements de TLS-SEC, complétés par 100h d'enseignements d'approfondis
 ### Ressources 
 
 Voici un [syllabus](https://github.com/TLS-SEC/tls-sec.github.io/blob/master/documents/syllabus.pdf) décrivant le contenu de la formation.
-Si vous voulez vous préparer avant la rentrée à la formation ou approfondir vos connaissances en sécurité, voici une liste de [ressources proposées par les enseignants](lectures_recommandees.md) et [par les étudiants](documents/Ressources-TLS-SEC.pdf).
+Si vous voulez vous préparer avant la rentrée à la formation ou approfondir vos connaissances en sécurité, voici une liste de [ressources proposées par les enseignants](lectures_recommandees.md) et [par les étudiants](documents/Ressources-TLS-SEC.pdf). En honneur à la flemme d'un ancien étudiant dont on taira le nom, voici aussi un [tableau avec des liens](liens.md).
