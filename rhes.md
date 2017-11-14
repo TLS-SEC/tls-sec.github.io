@@ -5,4 +5,5 @@ Cette page présente des ratés historiques, sur des courts jeux de transparents
 #### Année 2017-2018
 
    * [Bypass WPA authentification with WPS](/documents/RHE/WPS.pdf)
+   * [@rogerkver’s $1,000 wallet obfuscated private key](/documents/RHE/RogerVer.pdf)
 
