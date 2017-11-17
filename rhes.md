@@ -6,4 +6,6 @@ Cette page présente des ratés historiques, sur des courts jeux de transparents
 
    * [Bypass WPA authentification with WPS](/documents/RHE/WPS.pdf)
    * [@rogerkver’s $1,000 wallet obfuscated private key](/documents/RHE/RogerVer.pdf)
+   * [Goto Fail, faille SSL/TLS d'Apple](/documents/RHE/RHE_goto_fail.pdf)
+
 
