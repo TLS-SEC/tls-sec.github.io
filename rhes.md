@@ -8,4 +8,5 @@ Cette page présente des ratés historiques, sur des courts jeux de transparents
    * [@rogerkver’s $1,000 wallet obfuscated private key](/documents/RHE/RogerVer.pdf)
    * [Goto Fail, faille SSL/TLS d'Apple](/documents/RHE/RHE_goto_fail.pdf)
    * [Sweden Data Leak](/documents/RHE/RHE_Sweden_Data_Leak.pdf)
+   * [Exploitation de l'API REST de Wordpress par Type Juggling](/documents/RHE/PHPTypeJuggling.pdf)
 
