@@ -38,7 +38,7 @@ Il y aura une phase de cross-évaluation où deux autres projets longs vous sero
 
 # Dates butoir
 
-- 22/01 Remplir le fichier avec votre binôme, sujet et type de projet long sur le dépôt prive-etudiants.
+- 05/02 Remplir le fichier avec votre binôme, sujet et type de projet long sur le dépôt prive-etudiants.
 
 - 05/02 Début du projet long
 
