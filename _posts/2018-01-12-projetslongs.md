@@ -36,6 +36,10 @@ Le projet se fait par deux, mais dès le début c'est important de décrire comm
 
 Il y aura une phase de cross-évaluation où deux autres projets longs vous seront attribués et où vous devrez les tester et faire une évaluation sur une page. Une partie de votre note correspondra à la qualité de vos rapports de cross-évaluation.
 
+# Soutenances
+
+Les soutenances seront organisées par créneaux de 30 minutes (15 minutes de présentation, 10 minutes de questions, 5 minutes de délibération). Les tranparents et le discours devront être en Anglais, et chaque étudiant devra rendre en début de soutenance un résumé individuel du projet. Ce résumé devra être rédigé en Anglais et être de moins de 1000 mots (1 à 2 pages).
+
 # Dates butoir
 
 - 05/02 Remplir le fichier avec votre binôme, sujet et type de projet long sur le dépôt prive-etudiants.
