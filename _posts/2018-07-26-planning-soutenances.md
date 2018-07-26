@@ -32,25 +32,25 @@ Un pot sera offert par l'ENSEEIHT à la fin des soutenances.
 
 9h-11h:
 
-B122 Mansour (EA) - Girardi (EA) - Cayre (EA) (Alata, Ait-Ameur)
+B122 Mansour - Girardi - Cayre (Alata, Ait-Ameur)
 
 B123 Roudaut - Tripier - Iffrig-Bourfa (Aguilar, Nicomette)
 
 11h-13h:
 
-B122 Gagliardini (NL) - Foucher (VN) - Tran (VN) (Larrieu, Nicomette)
+B122 Gagliardini - Foucher - Tran (Larrieu, Nicomette)
 
-B123 Postic (RG) - Squillaci - Binarahman (Aguilar, Alata, Guivarch)
+B123 Postic - Squillaci - Binarahman (Aguilar, Alata, Guivarch)
 
 14h-16h:
 
-B122 Riviere (VN) - Cusnir (EA) - Charayron (VN) (Alata, Nicomette)
+B122 Riviere - Cusnir - Charayron (Alata, Nicomette)
 
-B123 Barbarin (NL) - Coupet (NL) - Georget (LH) (Larrieu, Hajnal)
+B123 Barbarin - Coupet - Georget (Larrieu, Hajnal)
 
 16h-18h40:
 
-B122 Boyeldieu (YAA) - David (YAA) - Surbayrole (MP) - Camillière (MP/YAA) (Ait-Ameur, Pantel, Hajnal)
+B122 Boyeldieu - David - Surbayrole - Camillière (Ait-Ameur, Pantel, Hajnal)
 
 B123 Beldi - Chauvet - Isnardon - Tanguy (Aguilar, Alata, Nicomette)
 
