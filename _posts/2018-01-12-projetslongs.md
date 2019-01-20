@@ -61,7 +61,8 @@ de nuire.
 
 ### Retours équipe pédagogique
 
-Néant.
+#### Vincent Nicomette
+
 
 ## 3. Clémence Roulin, Jean Verrons
 Stéganographie de format de fichiers
