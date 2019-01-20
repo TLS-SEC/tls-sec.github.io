@@ -63,6 +63,8 @@ de nuire.
 
 #### Vincent Nicomette
 
+Il faudrait l'orienter sécurité IOT et domicile connecté et ca peut être intéressant.
+En revanche, pas de binôme pour ce sujet ?
 
 ## 3. Clémence Roulin, Jean Verrons
 Stéganographie de format de fichiers
