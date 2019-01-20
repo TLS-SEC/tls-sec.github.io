@@ -125,7 +125,10 @@ chemin dans le site pour trouver des pages cachées puis le flag)
 
 ### Retours équipe pédagogique
 
-Néant.
+### Vincent Nicomette
+
+C'est très classique mais ca reste d'actualité malheureusement. Il ne faudrait pas qu'il y ait
+trop du tutos sur ce thème mais je pense qu'on peut en accepter un.
 
 ## 6. Thomas Chamelot, Benjamin Blum, Côme Ruffel
 DPA AES sur FPGA
