@@ -178,6 +178,10 @@ Tout d'abord je n'y connais rien GSM. Ensuite, il faut s'assurer de pouvoir
 mettre en place une infrasctructure de téléphonie mobile réaliste : équipements;
 faisabilité; etc.
 
+#### Vincent Nicomette
+
+Nous ne pourrons pas avoir de matériel, désolé. Ils sont tous occupés actuellement.
+
 ## 8. Maxime Belmon, Anja Olsen
 Architecture générique minimale de sécurité domestique en mode tuto
 
@@ -205,7 +209,9 @@ plus visuelle et synthétique en ouvrant la porte à plus d'évolutions par rapp
 
 ### Retours équipe pédagogique
 
-Néant.
+#### Vincent Nicomette
+
+J'ai l'impression que ce sujet rejoint le premier du groupe précédent.
 
 ## 9. Mathilde Piqueras, Eloise Riviere
 Stegomalwares appliqués aux botnets
@@ -257,7 +263,9 @@ ou autre vuln)
 
 ### Retours équipe pédagogique
 
-Néant.
+#### Vincent Nicomette
+
+Sujet intéressant et d'actualité.
 
 ## 11. Kevyn Ledieu, Ferréol Pennel, Alexis Pernot
 Détournement de drones de loisirs par différents moyens (spoofing GPS, Wifi...)
@@ -268,7 +276,10 @@ Néant.
 
 ### Retours équipe pédagogique
 
-Néant.
+#### Vincent Nicomette
+
+Ca me semble intéressant mais Nico est mieux placé que moi sur le sujet :)
+
 
 ## 12. Antoine Vacher, Florent Fayollas
 Le seigneur des drones - Un drone pour les gouverner tous
@@ -320,6 +331,11 @@ transport)?
 
 On collecte déjà les équipements
 
+#### Vincent Nicomette
+
+Pas possible d'avoir des HackRF désolé.
+
+
 ## 13. Thomas Bailleux, Valentin Rieux
 MiFare Ultralight
 
@@ -329,7 +345,11 @@ Néant.
 
 ### Retours équipe pédagogique
 
-Néant.
+#### Vincent Nicomette
+
+Faudrait quand même une description, même si le sujet semble intéressant.
+On peut l'orienter sur différents aspects je pense (sécurité ou vie privée) et les 
+deux sont intéressants. Vous avez les cartes ?
 
 ## 14. Solal Besnard, Jean Thonphan
 Enchainenement de CTF web, avec coloration RPG.
