@@ -42,7 +42,7 @@ en fait cassables (Cf. le TP que l'on a fait sur le Mersenne twister).
 Cela ferait une bonne démonstration qu'il faut se mefier de l'aléatoire, que ce
 soit en cryptographie que dans d'autres domaines qui utilisent l'aléatoire.
 
-## Nicolas Roels
+## 2.Nicolas Roels
 Obtention d'un accès non autorisé à un réseau local : compromission et
 fuite d'informations
 
@@ -63,7 +63,7 @@ de nuire.
 
 Néant.
 
-## Clémence Roulin, Jean Verrons
+## 3. Clémence Roulin, Jean Verrons
 Stéganographie de format de fichiers
 
 ### Description
@@ -88,7 +88,7 @@ individuellement :
 
 Vous pouvez choisir l'un des deux.
 
-## Elouan Appéré, Benjamin Voisin-Grall
+## 4.Elouan Appéré, Benjamin Voisin-Grall
 la sécurité du processus de Boot dans les environnements embarqués et/ou mobiles
 (smartphones, consoles de jeux, etc.)
 
@@ -112,7 +112,7 @@ Exemples de support :
 Je lui ai dit que je trouvais ça cool et de contacter les anciens étudiants de
 Quarkslab si il en connais.
 
-## Alexa Noel, Hugo Ros
+## 5. Alexa Noel, Hugo Ros
 Mini CTF avec des vulnérabilités webs client/serveur
 
 ### Description
@@ -124,7 +124,7 @@ chemin dans le site pour trouver des pages cachées puis le flag)
 
 Néant.
 
-## Thomas Chamelot, Benjamin Blum, Côme Ruffel
+## 6. Thomas Chamelot, Benjamin Blum, Côme Ruffel
 DPA AES sur FPGA
 
 ### Description
@@ -137,7 +137,7 @@ Néant (titre parlant).
 
 Apport d'un sujet sur le DPA.
 
-## Ismaël Mohamadou Kaka, Rodrigue Leleivai, Florent GALTIER
+## 7. Ismaël Mohamadou Kaka, Rodrigue Leleivai, Florent GALTIER
 Créer un NIDS pour un réseau domestique OU Faire une démonstration d’un IMSI
 Catcher
 
@@ -172,7 +172,7 @@ Tout d'abord je n'y connais rien GSM. Ensuite, il faut s'assurer de pouvoir
 mettre en place une infrasctructure de téléphonie mobile réaliste : équipements;
 faisabilité; etc.
 
-## Maxime Belmon, Anja Olsen
+## 8. Maxime Belmon, Anja Olsen
 Architecture générique minimale de sécurité domestique en mode tuto
 
 ### Description
@@ -201,7 +201,7 @@ plus visuelle et synthétique en ouvrant la porte à plus d'évolutions par rapp
 
 Néant.
 
-## Mathilde Piqueras, Eloise Riviere
+## 9. Mathilde Piqueras, Eloise Riviere
 Stegomalwares appliqués aux botnets
 
 ### Description
@@ -234,7 +234,7 @@ Pour ce qui est de la furtivité, elle peuvent uploader l'application avec
 succes, mais ne jamais utiliser la charger malveillante ? Ou est-ce que
 déontologiquement on est trop limite ?
 
-## Nicolas Dureisseix, Clément Chochoy
+## 10. Nicolas Dureisseix, Clément Chochoy
 Escalade de privilèges virtualisation
 
 ### Description
@@ -253,7 +253,7 @@ ou autre vuln)
 
 Néant.
 
-## Kevyn Ledieu, Ferréol Pennel, Alexis Pernot
+## 11. Kevyn Ledieu, Ferréol Pennel, Alexis Pernot
 Détournement de drones de loisirs par différents moyens (spoofing GPS, Wifi...)
 
 ### Description
@@ -264,7 +264,7 @@ Néant.
 
 Néant.
 
-## Antoine Vacher, Florent Fayollas
+## 12. Antoine Vacher, Florent Fayollas
 Le seigneur des drones - Un drone pour les gouverner tous
 
 ### Description
@@ -314,7 +314,7 @@ transport)?
 
 On collecte déjà les équipements
 
-## Thomas Bailleux, Valentin Rieux
+## 13. Thomas Bailleux, Valentin Rieux
 MiFare Ultralight
 
 ### Description
@@ -325,7 +325,7 @@ Néant.
 
 Néant.
 
-## Solal Besnard, Jean Thonphan
+## 14. Solal Besnard, Jean Thonphan
 Enchainenement de CTF web, avec coloration RPG.
 
 ### Description
@@ -357,7 +357,7 @@ sur la sécurité.
 
 Utilisez de préférence Gotot Engine si possible
 
-## Cros, Tena
+## 15. Cros, Tena
 password fort vs faible outillage
 
 ### Description
