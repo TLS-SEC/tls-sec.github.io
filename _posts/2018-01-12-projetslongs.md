@@ -42,7 +42,7 @@ en fait cassables (Cf. le TP que l'on a fait sur le Mersenne twister).
 Cela ferait une bonne démonstration qu'il faut se mefier de l'aléatoire, que ce
 soit en cryptographie que dans d'autres domaines qui utilisent l'aléatoire.
 
-## 2.Nicolas Roels
+## 2. Nicolas Roels
 Obtention d'un accès non autorisé à un réseau local : compromission et
 fuite d'informations
 
@@ -88,7 +88,7 @@ individuellement :
 
 Vous pouvez choisir l'un des deux.
 
-## 4.Elouan Appéré, Benjamin Voisin-Grall
+## 4. Elouan Appéré, Benjamin Voisin-Grall
 la sécurité du processus de Boot dans les environnements embarqués et/ou mobiles
 (smartphones, consoles de jeux, etc.)
 
