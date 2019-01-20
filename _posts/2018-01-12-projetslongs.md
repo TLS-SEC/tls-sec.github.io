@@ -7,7 +7,7 @@ title: "Projets longs"
 
 Liste pour validation
 
-## Mehrad Rafii, Vincent Duchamp
+## 1. Mehrad Rafii, Vincent Duchamp
 Exploitation de vulnérabilités de PRNG / fonctions cryptographiques dans un jeu
 vidéo
 
