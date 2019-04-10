@@ -25,10 +25,8 @@ Conseils:
 ## Évaluation
 
 Vos stages seront évalués ainsi : 
-  * rapport (évaluation fournie par votre tuteur INSA/N7)
+  * rapport (évaluation fournie par votre tuteur INSA/N7/ENAC)
   * soutenance (évaluation fournie par le jury lors de la soutenance)
   * travail (évaluation fournie par votre tuteur industriel)
 
 Chaque note aura un poids égal.
-
-
