@@ -3,9 +3,11 @@ layout: post
 title: "Projets longs"
 ---
 
+Vous trouverez ici la liste des projets longs de l'année scolaire 2018-2019
+
 # Goupes de projets longs 2018-2019
 
-Liste pour validation
+Liste validée
 
 ## 1. Mehrad Rafii, Vincent Duchamp
 Exploitation de vulnérabilités de PRNG / fonctions cryptographiques dans un jeu
