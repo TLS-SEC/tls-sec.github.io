@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rapport et soutenance du projet de fin d'études"
+category: [procedures]
 ---
 
 Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'études, un modèle de rapport, ainsi que des informations sur l'organisation des soutenances et l'évaluation du stage.

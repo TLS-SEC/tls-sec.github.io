@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Projets longs"
+category: [2018-2019]
 ---
 
 Vous trouverez ici la liste des projets longs de l'année scolaire 2018-2019

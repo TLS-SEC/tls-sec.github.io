@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Procédure d'inscription"
+category: [procedures]
 ---
 
 Vous trouverez ici le protocole à suivre pour vous inscrire à TLS-SEC. 

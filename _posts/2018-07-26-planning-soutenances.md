@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Planning des soutenance du projet de fin d'études 2017-18"
+category: [2017-2018]
 ---
 
 Vous trouverez ici le principe d'organisation des soutenances, les horaires de passage et la composition du jury.

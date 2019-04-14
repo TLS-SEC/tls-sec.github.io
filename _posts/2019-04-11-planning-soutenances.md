@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Planning des soutenance du projet de fin d'études 2018-19"
+category: [2018-2019]
 ---
 
 Vous trouverez ici le principe d'organisation des soutenances, les horaires de
