@@ -31,4 +31,4 @@ Un pot sera offert par l'ENSEEIHT à la fin des soutenances.
 
 À compléter.
 
-Pour des conseils sur le contenu vous pouvez aller [ici](https://tls-sec.github.io/2017/05/29/modalites-pfe.html).
+Pour des conseils sur le contenu vous pouvez aller [ici](https://tls-sec.github.io/procedures/2017/05/29/modalites-pfe.html).
