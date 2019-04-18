@@ -25,8 +25,6 @@ Ils nous fourniront leur évaluation de votre travail lors de la soutenance.
 Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
 évaluation (nous leur fourniront une fiche dans ce cas).
 
-Un pot sera offert par l'ENSEEIHT à la fin des soutenances.
-
 # Planning soutenances
 
 À compléter.
