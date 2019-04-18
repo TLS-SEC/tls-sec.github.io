@@ -1,6 +1,6 @@
 ## Informations pour les candidats à TLS-SEC
 
-Pour toute information complémentaire contactez Carlos Aguilar sur son adresse mail: *prénom point nom* avec le domaine *enseeiht point fr*.
+Pour toute information complémentaire contactez Yamine Aït-Ameur ou Benoît Morgan sur leurs adresses mail: *prénom point nom* avec le domaine *enseeiht point fr*.
 
 ### Diplômes
 
