@@ -27,6 +27,84 @@ Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
 
 # Planning soutenances
 
-À compléter.
-
 Pour des conseils sur le contenu vous pouvez aller [ici](https://tls-sec.github.io/procedures/2017/05/29/modalites-pfe.html).
+
+Jurés :
+  * NL : Nicolas Larrieu
+  * EA : Éric Alata
+  * YAA : Yamine Aït-Ameur
+  * LH : Ladislas Hajnal
+  * VM : Vincent Migliore
+  * VN : Vincent Nicomette
+  * BM : Benoît Morgan
+
+
+## Jury 1 - salle : INSA GEI-17
+
+### 03/09/2019
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
+|-----|---------------------|----------------|----------------|-------|
+|10:00|MOHAMADOU KAKA ISMAEL|Leung Kahim|AIT AMEUR Yamine|BM, YAA|
+|10:45|RAFII MEHRAD|CHARTIER Mathieu|MORGAN Benoit|BM, YAA|
+|11:30|CHAMELOT THOMAS|Hamez Alexandre |MORGAN Benoit|BM, YAA|
+|14:00|BESNARD SOLAL||ALATA Éric|EA, YAA|
+|14:45|BLUM BENJAMIN||ALATA Éric|EA, YAA|
+|15:30|CROS ADRIEN||ALATA Éric|EA, YAA|
+
+### 04/09/2019
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
+|-----|---------------------|----------------|----------------|-------|
+|10:00|VERRONS JEAN|BARVAUX Didier|MORGAN Benoit|BM, YAA|
+|10:45|RUFFEL CÔME|Thomieres  Pierre Adrien|MORGAN Benoit|BM, YAA|
+|11:30|DUREISSEIX NICOLAS|BOIVIN Thierry|MORGAN Benoit|BM, YAA|
+|14:00|FAYOLLAS FLORENT|DEMEYER Alexandre|MORGAN Benoit|BM, YAA|
+|14:45|APPERE ELOUAN|Guilbon Joffrey|MORGAN Benoit|BM, YAA|
+|15:30|BAILLEUX THOMAS|MARION Jean-Yves|MORGAN Benoit|BM, YAA|
+
+## Jury 2 - salle : INSA GEI-204
+
+### 03/09/2019
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
+|-----|---------------------|----------------|----------------|-------|
+|10:00|GALTIER FLORENT|Nicomette Vincent|MORGAN Benoit|VN, VM, EA
+|10:45|ROELS NICOLAS||MIGLIORE Vincent|VN, VM, EA
+|11:30|ROS HUGO||MIGLIORE Vincent|VN, VM, EA
+|14:00|RIEUX VALENTIN|MANA Patrick|MORGAN Benoit|VN, NL, BM
+|14:45|VOISIN-GRALL BENJAMIN|MANA Patrick|MORGAN Benoit|VN, NL, BM
+|15:30|LELEIVAI RODRIGUE|BOUZON Aurélien|MORGAN Benoit|VN, NL, BM
+
+### 04/09/2019
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
+|-----|---------------------|----------------|----------------|-------|
+|10:00|JOANNES BARBARA||NICOMETTE Vincent|VN, VM, EA
+|10:45|NOEL ALEXA||NICOMETTE Vincent|VN, VM, EA
+|11:30|OLSEN ANJA||NICOMETTE Vincent|VN, VM, EA
+|14:00|PIQUERAS MATHILDE||NICOMETTE Vincent|VN, VM, EA
+|14:45|TALEB FAICAL||ALATA Éric|VN, VM, EA
+
+## Jury 3 - salle : INSA GEI-213
+
+### 03/09/2019
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
+|-----|---------------------|----------------|----------------|-------|
+|10:00|VACHER ANTOINE|Larrieu Nicolas|MORGAN Benoit|NL, LH|
+|10:45|RIVIERE ELOISE|Rémy LESIEU|Sylvie CHAMBON|NL, LH|
+|11:30|BELMON MAXIME|Jean-alexandre GICQUEL|Xavier Crégut|NL, LH|
+|14:00|THONGPHAN JEAN||MIGLIORE Vincent|VM, LH|
+|14:45|TENA JULIEN||MIGLIORE Vincent|VM, LH|
+|15:30|DUCHAMP VINCENT||HAJNAL Ladislas|VM, LH|
+
+### 04/09/2019
+					
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
+|-----|---------------------|----------------|----------------|-------|
+|10:00|LEDIEU KEVYN||HAJNAL Ladislas|NL, LH|
+|10:45|PENNEL FERREOL||LARRIEU Nicolas|NL, LH|
+|11:30|PERNOT ALEXIS||HAJNAL Ladislas|NL, LH|
+|14:00|ROULIN CLEMENCE||LARRIEU Nicolas|NL, LH|
+|14:45|CHOCHOY CLEMENT||MORGAN Benoit|NL, LH|
