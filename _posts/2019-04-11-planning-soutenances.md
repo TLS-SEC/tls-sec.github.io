@@ -48,9 +48,9 @@ Jurés :
 |10:00|MOHAMADOU KAKA ISMAEL|Leung Kahim|AIT AMEUR Yamine|BM, YAA|
 |10:45|RAFII MEHRAD|CHARTIER Mathieu|MORGAN Benoit|BM, YAA|
 |11:30|CHAMELOT THOMAS|Hamez Alexandre |MORGAN Benoit|BM, YAA|
-|14:00|BESNARD SOLAL||ALATA Éric|EA, YAA|
-|14:45|BLUM BENJAMIN||ALATA Éric|EA, YAA|
-|15:30|CROS ADRIEN||ALATA Éric|EA, YAA|
+|14:00|JOANNES BARBARA||NICOMETTE Vincent|VN, YAA|
+|14:45|NOEL ALEXA||NICOMETTE Vincent|VN, YAA|
+|15:30|OLSEN ANJA||NICOMETTE Vincent|VN, YAA|
 
 ### 04/09/2019
 
@@ -70,20 +70,20 @@ Jurés :
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
 |-----|---------------------|----------------|----------------|-------|
 |10:00|GALTIER FLORENT|Nicomette Vincent|MORGAN Benoit|VN, VM, EA
-|10:45|ROELS NICOLAS||MIGLIORE Vincent|VN, VM, EA
-|11:30|ROS HUGO||MIGLIORE Vincent|VN, VM, EA
-|14:00|RIEUX VALENTIN|MANA Patrick|MORGAN Benoit|VN, NL, BM
-|14:45|VOISIN-GRALL BENJAMIN|MANA Patrick|MORGAN Benoit|VN, NL, BM
-|15:30|LELEIVAI RODRIGUE|BOUZON Aurélien|MORGAN Benoit|VN, NL, BM
+|10:45|ROELS NICOLAS||MIGLIORE Vincent|VN, VM, EA|
+|11:30|ROS HUGO||MIGLIORE Vincent|VN, VM, EA|
+|14:00|RIEUX VALENTIN|MANA Patrick|MORGAN Benoit|VN, NL, BM|
+|14:45|VOISIN-GRALL BENJAMIN|MANA Patrick|MORGAN Benoit|VN, NL, BM|
+|15:30|LELEIVAI RODRIGUE|BOUZON Aurélien|MORGAN Benoit|VN, NL, BM|
 
 ### 04/09/2019
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
 |-----|---------------------|----------------|----------------|-------|
-|10:00|JOANNES BARBARA||NICOMETTE Vincent|VN, VM, EA
-|10:45|NOEL ALEXA||NICOMETTE Vincent|VN, VM, EA
-|11:30|OLSEN ANJA||NICOMETTE Vincent|VN, VM, EA
-|14:00|PIQUERAS MATHILDE||NICOMETTE Vincent|VN, VM, EA
+|10:00|BESNARD SOLAL||ALATA Éric|VN, VM, EA|
+|10:45|BLUM BENJAMIN||ALATA Éric|VN, VM, EA|
+|11:30|CROS ADRIEN||ALATA Éric|VN, VM, EA|
+|14:00|PIQUERAS MATHILDE||NICOMETTE Vincent|VN, VM, EA|
 |14:45|TALEB FAICAL||ALATA Éric|VN, VM, EA
 
 ## Jury 3 - salle : INSA GEI-213
