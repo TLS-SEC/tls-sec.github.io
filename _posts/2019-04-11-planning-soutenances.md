@@ -45,7 +45,7 @@ Jurés :
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
 |-----|---------------------|----------------|----------------|-------|
-|10:00|MOHAMADOU KAKA ISMAEL|Leung Kahim|AIT AMEUR Yamine|BM, YAA|
+|10:00|MOHAMADOU KAKA ISMAEL|Leung Kahim|AIT AMEUR Yamine|EA, YAA|
 |10:45|RAFII MEHRAD|CHARTIER Mathieu|MORGAN Benoit|BM, YAA|
 |11:30|CHAMELOT THOMAS|Hamez Alexandre |MORGAN Benoit|BM, YAA|
 |14:00|JOANNES BARBARA||NICOMETTE Vincent|VN, YAA|
@@ -69,7 +69,7 @@ Jurés :
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
 |-----|---------------------|----------------|----------------|-------|
-|10:00|GALTIER FLORENT|Nicomette Vincent|MORGAN Benoit|VN, VM, EA
+|10:00|GALTIER FLORENT|Nicomette Vincent|MORGAN Benoit|VN, VM, BM
 |10:45|ROELS NICOLAS||MIGLIORE Vincent|VN, VM, EA|
 |11:30|ROS HUGO||MIGLIORE Vincent|VN, VM, EA|
 |14:00|RIEUX VALENTIN|MANA Patrick|MORGAN Benoit|EA, NL, BM|
