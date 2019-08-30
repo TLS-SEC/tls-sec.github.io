@@ -39,7 +39,7 @@ Jurés :
   * BM : Benoît Morgan
 
 
-## Jury 1 - salle : INSA GEI-17
+## Jury 1 - salle : INSA GEI-17 ou GEI-03
 
 ### 03/09/2019
 
@@ -63,7 +63,7 @@ Jurés :
 |14:45|APPERE ELOUAN|Guilbon Joffrey|MORGAN Benoit|BM, YAA|
 |15:30|BAILLEUX THOMAS|MARION Jean-Yves|MORGAN Benoit|BM, YAA|
 
-## Jury 2 - salle : INSA GEI-204
+## Jury 2 - salle : INSA GEI-215
 
 ### 03/09/2019
 
