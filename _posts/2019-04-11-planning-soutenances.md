@@ -10,7 +10,8 @@ passage et la composition du jury.
 # Organisation Soutenances 
 
 Les soutenances auront lieu les 03/09 et 04/09 à l'INSA de Toulouse (135
-Avenue de Rangueil, 31400 Toulouse), en salles GEI-17, GEI-204 et GEI-213.
+Avenue de Rangueil, 31400 Toulouse). Les salles sont précisées à côté du nom du
+jury.
 
 Chaque de soutenance sera divisé en :
   * 20mn d'exposé
