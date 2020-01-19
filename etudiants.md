@@ -2,7 +2,7 @@
 
 ### Année scolaire 2018-2019
 <ul>
-{% for post in site.categories["2018-2019"] %}
+{% for post in site.categories["2019-2020"] %}
 <li>
   <a href="{{ post.url }}">{{ post.title }}</a>
   {{ post.excerpt }}
