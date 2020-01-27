@@ -10,7 +10,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2019-2020
 
 Liste non validée
 
-## Thomas Hugueville
+## G1 : Thomas Hugueville
 
 Communication radio d'un drone de loisir
 
@@ -37,7 +37,7 @@ Cordialement,
 
 Thomas Hugueville
 
-## Yohan Chenebault
+## G1 : Yohan Chenebault
 
 Backdoor dans la génération de clés cryptographiques (kleptographie)
 
@@ -57,7 +57,7 @@ Backdoor dans la génération de clés cryptographiques (kleptographie)
 Cordialement,
 Yohan Chenebault
 
-## François Conzelmann, Adam Boinet
+## G2 : François Conzelmann, Adam Boinet
 
 Évaluation des sécurités DRM mises en place sur les sites de streaming
 
@@ -75,7 +75,7 @@ Références
 
 1. https://twitter.com/David3141593/status/1080606827384131590
 
-## Nicolas Vial, Guillaume Muh
+## G3 : Nicolas Vial, Guillaume Muh
 
 ### Description
 
@@ -98,7 +98,7 @@ un IPS ou un IDS et ainsi prendre des mesures contre l'attaque ou notifier
 l'administrateur dès qu'une action malveillante est détectée au sein du
 réseau.
 
-## Adrien Le Roho, Florian Durant, Thierry Ropp
+## G4 : Adrien Le Roho, Florian Durant, Thierry Ropp
 
 Notre première idée était d'observer et de comprendre le fonctionnement des
 badges ENAC.
@@ -120,7 +120,7 @@ aussi réaliser un système de relais des données de la carte entre deux
 téléphones, l'un collé au badge et l'autre collé au terminal (cf. figure
 ci-dessous avec un badge au lieu
 
-## Eva Soussi, Paul Gaillard
+## G5 : Eva Soussi, Paul Gaillard
 
 Étudier la sécurité des systèmes de vélo/scooter Indigo
 
@@ -151,7 +151,7 @@ notamment lors du déblocage afin de voir si le vélo peut être débloqué
 en spoofant le signal. Nous pensons accentuer nos recherches sur les
 vélos dans un premier temps
 
-## Alexandre TANEM, Jonathan Amrine
+## G6 : Alexandre Tanem, Jonathan Amrine
 
 Étudier la sécurité des postes autoradios. Notre vecteur
 
@@ -177,35 +177,6 @@ Plusieurs approches pourront être étudiées :
 Ouverture : est-ce qu'un autoradio compromis peut faire des choses intéressantes
 sur le bus CAN de la voiture ?
 
-## Clément Amic
-
-Étude et recherche de vulnérabilités dans les languages de haut niveau
-
-### Description
-
-On sait tous que les langages du Web sont faciles à appendre, sont trop
-permissifs et exploiter des vulnérabilités Web n'est pas souvent difficile.
-Cependant, afin d'outrepasser certaines limites du langage de haut niveau
-(contrôle d'accès aux fichiers, fonctions interdites), il est souvent nécessaire
-d'exploiter une vulnérabilité sur le moteur lui-même.
-
-L'idée de ce projet serait d'au-moins faire un état de l'art sur :
-- Les vulnérabilités existantes,
-- La façon de les exploiter.
-
-Puis d'analyser en détail certains exploits sur (peut être) :
-- VM Flash / ActionScript3 (même si cela n'est plus utilisé)
-- Moteur V8 / JavaScript
-- Moteur PHP
-
-L'objectif final serait d'en faire une démonstration et de montrer l'approche à
-avoir sur ces différents cas.
-
-## Omar Anser, Yacine Anser
-
-La détection de botnet à l'aide de techniques d'apprentissage automatique se
-basant sur des données de requête DNS
-
 ### Description
 
 1. Introduction
@@ -227,7 +198,31 @@ d'apprentissage automatique avec un modèle de détection basé sur les requetes
 DNS. La création d'un émulateur émulant le comportement des botnets récents sera
 réalisé en parallèle.
 
-## Valentin Cayrou, Mael Galliot
+## G7 : Omar Anser, Yacine Anser
+
+La détection de botnet à l'aide de techniques d'apprentissage automatique se
+basant sur des données de requête DNS
+
+1. Introduction
+
+Ces dernières années, les botnets sont devenus l'une des principales menaces à
+la sécurité de l'information. En effet, ces derniers sont en constantes
+évolutions et deviennent de plus en plus sophistiqués. Un certain nombre de
+mesures de détection ont été proposé et implémenté, telles que celles basées sur
+Honeynet ou encore celles basées sur des systèmes de détection d'intrusions
+(IDS). Une autre approche a été avancé ces dernières années qui utilise les
+techniques d'apprentissage automatique avec un modèle de detection basé sur les
+requetes DNS.
+
+2. Objetctif
+
+Réalisation d'un IDS capable de détecter, au sein du réseau observé, la possi
+ble présence d'un botnet ou d'un CC serveur en utilisant les techniques
+d'apprentissage automatique avec un modèle de détection basé sur les requetes
+DNS. La création d'un émulateur émulant le comportement des botnets récents sera
+réalisé en parallèle.
+
+## G8 : Valentin Cayrou, Mael Galliot
 
 Dispositif de contrôle d'accès physique VIGIK
 
@@ -255,7 +250,7 @@ Cordialement
 
 Valentin CAYROU
 
-## Benjamin Bigey, Célia Prat
+## G9 : Benjamin Bigey, Célia Prat
 
 Quelles méthodologies
 pour comprendre les mécanismes de shadowban présents sur reddit ?
@@ -319,7 +314,7 @@ sur une plateforme donnée ?
 Benjamin BIGEY
 Célia PRAT
 
-## Paul Florence, Lucien Menassol
+## G10 : Paul Florence, Lucien Menassol
 
 Développement de modifications de jeux malveillantes
 
@@ -365,7 +360,7 @@ Que pensez-vous de ce sujet ?
 
 Paul
 
-## Olivier Rocher, Jean Tachon, Auriane Dubois
+## G11 : Olivier Rocher, Jean Tachon, Auriane Dubois
 
 Mise en place d'un outil possible de réponse après la détection d'une intrusion
 en cours sur un réseau
@@ -399,7 +394,7 @@ Dans un deuxième temps, l'analyse des moyens utilisés (modes d'attaques,
 habitudes de frappes capturées, etc), doit permettre d'alimenter une base de
 données à fin de préparer un profilage de l'attaquant.
 
-## Rémi Gascou, Jérome Kompé Mampianinazakason
+## G12 : Rémi Gascou, Jérome Kompé Mampianinazakason
 
 Développement d'un CTF d'introduction aux CTFs
 
@@ -430,7 +425,7 @@ informatique.
 d'apprendre des
 techniques et méthodes utiles en CTF.
 
-## Jean-Baptiste PAUX, Baptiste Verstraeten
+## G13 : Jean-Baptiste PAUX, Baptiste Verstraeten
 
 Etude des mécanismes de sécurité et d'isolement des containeurs Docker
 
@@ -449,7 +444,7 @@ POC pour illustrer d'éventuelles vulnérabilités.
 Ressources :
 https://opensource.com/business/14/7/docker-security-selinux
 
-## Augustin Matter, Jean-François Giraud
+## G14 : Augustin Matter, Jean-François Giraud
 
 Étude de la sécurité des protocoles de positi onnement par satellites (GPS,
     Galileo) et proposition de défense.
@@ -462,3 +457,30 @@ Travail à réaliser :
 place.
 - Mise en oeuvre d'une attaque comme exemple.
 - Proposition de contre‐mesures.
+
+## G15 : Roman Suchwalko, Clément Amic, Yassine Bargach
+
+Études de vulnérabilités utilisée pour rooter les smartphones Apple
+
+### Description
+
+En septembre 2019, le chercheur axi0mX a publié une vulnérabilité impactant le
+SecureRom des iPhones 4S (puce A5) aux iPhones X (puce A11), qu'il a découvert
+en observant les modifications qu'Apple a effectuées lors d'une mise à jour
+d'iBoot censée corriger cette faille pour la nouvelle puce. L'exploitation d'une
+chaîne de vulnérabilités au démarrage de ces versions d'iPhones permet de
+jailbreaker (prendre le contrôle du système en s'affranchissant des restrictions
+logiciel d'Apple) efficacement le téléphone. Du fait que cette exploitation
+s'appuie sur un défaut hardware, il n'est pas possible pour Apple de patcher la
+vulnérabilité au moyen de correctifs software. Dans un premier temps, nous
+comparerons les SecureRom des versions vulnérables et non vulnérables afin de
+poser un état de l'art des vulnérabilités connues du système de démarrage de
+l'OS des iPhones. Dans un second temps, nous étudierons la chaîne de
+vulnérabilité checkm8 (race condition, use-after-free, ...) et tenterons de
+reproduire l'exploit sur un téléphone de test en utilisant checkra1n, l'outil
+automatisé de jailbreak exploitant ces vulnérabilités, puis en testant
+directement d'injecter nos payloads. Enfin nous nous attacherons à montrer
+comment Apple a sécurisé le SecureRom dans les puces de nouvelle version, et
+quelles techniques sont mises en place afin de rendre (quasi?)impossible tout
+jailbreak.
+
