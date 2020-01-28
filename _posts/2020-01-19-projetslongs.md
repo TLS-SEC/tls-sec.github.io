@@ -10,34 +10,9 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2019-2020
 
 Liste non validée
 
-## G1 : Thomas Hugueville
+## G1 : Thomas Hugueville, Yohan Chenebault
 
-Communication radio d'un drone de loisir
-
-### Description
-
-Bonjour,
-
-Dans le cadre de mon projet long je souhaiterais travailler sur la
-communication radio d'un drone de loisir.
-
-Je possède un drone communicant en 2.4GHz. Le but serait de pouvoir se
-faire passer pour la radiocommande et contrôler le drone : changer les
-gaz, modifier le mode de vol, activer le killswitch. Mais aussi de se
-faire passer pour le drone qui renvoie de la télémétrie à la radio, par
-exemple le niveau de batterie, qui pourrait induire alors le pilote en
-erreur de manœuvre.
-
-Pour y parvenir il faudrait donc un émetteur/récepteur dans cette bande
-de fréquence.
-
-Ce sujet vous semble-t-il pertinent et réalisable?
-
-Cordialement,
-
-Thomas Hugueville
-
-## G1 : Yohan Chenebault
+Tuteur : Vincent Migliore
 
 Backdoor dans la génération de clés cryptographiques (kleptographie)
 
@@ -59,6 +34,8 @@ Yohan Chenebault
 
 ## G2 : François Conzelmann, Adam Boinet
 
+Tuteur : Benoît Morgan
+
 Évaluation des sécurités DRM mises en place sur les sites de streaming
 
 ### Description
@@ -76,6 +53,8 @@ Références
 1. https://twitter.com/David3141593/status/1080606827384131590
 
 ## G3 : Nicolas Vial, Guillaume Muh
+
+Tuteur : Ladislas Hajnal
 
 ### Description
 
@@ -100,6 +79,8 @@ réseau.
 
 ## G4 : Adrien Le Roho, Florian Durant, Thierry Ropp
 
+Tuteur : Cédric Lefebvre
+
 Notre première idée était d'observer et de comprendre le fonctionnement des
 badges ENAC.
 
@@ -121,6 +102,8 @@ téléphones, l'un collé au badge et l'autre collé au terminal (cf. figure
 ci-dessous avec un badge au lieu
 
 ## G5 : Eva Soussi, Paul Gaillard
+
+Tuteur : Éric Alata
 
 Étudier la sécurité des systèmes de vélo/scooter Indigo
 
@@ -152,6 +135,8 @@ en spoofant le signal. Nous pensons accentuer nos recherches sur les
 vélos dans un premier temps
 
 ## G6 : Alexandre Tanem, Jonathan Amrine
+
+Tuteur : Éric Alata
 
 Étudier la sécurité des postes autoradios. Notre vecteur
 
@@ -200,6 +185,8 @@ réalisé en parallèle.
 
 ## G7 : Omar Anser, Yacine Anser
 
+Tuteur : Vincent Nicomette
+
 La détection de botnet à l'aide de techniques d'apprentissage automatique se
 basant sur des données de requête DNS
 
@@ -223,6 +210,8 @@ DNS. La création d'un émulateur émulant le comportement des botnets récents 
 réalisé en parallèle.
 
 ## G8 : Valentin Cayrou, Mael Galliot
+
+Tuteur : Vincent Migliore
 
 Dispositif de contrôle d'accès physique VIGIK
 
@@ -251,6 +240,8 @@ Cordialement
 Valentin CAYROU
 
 ## G9 : Benjamin Bigey, Célia Prat
+
+Tuteur : Benoît Morgan
 
 Quelles méthodologies
 pour comprendre les mécanismes de shadowban présents sur reddit ?
@@ -316,6 +307,8 @@ Célia PRAT
 
 ## G10 : Paul Florence, Lucien Menassol
 
+Tuteur : Vincent Nicomette
+
 Développement de modifications de jeux malveillantes
 
 ### Description
@@ -362,6 +355,8 @@ Paul
 
 ## G11 : Olivier Rocher, Jean Tachon, Auriane Dubois
 
+Tuteur : Éric Alata
+
 Mise en place d'un outil possible de réponse après la détection d'une intrusion
 en cours sur un réseau
 
@@ -396,6 +391,8 @@ données à fin de préparer un profilage de l'attaquant.
 
 ## G12 : Rémi Gascou, Jérome Kompé Mampianinazakason
 
+Tuteur : Vincent Nicomette
+
 Développement d'un CTF d'introduction aux CTFs
 
 ### Description
@@ -427,6 +424,8 @@ techniques et méthodes utiles en CTF.
 
 ## G13 : Jean-Baptiste PAUX, Baptiste Verstraeten
 
+Tuteur : Vincent Migliore
+
 Etude des mécanismes de sécurité et d'isolement des containeurs Docker
 
 ### Description
@@ -446,6 +445,8 @@ https://opensource.com/business/14/7/docker-security-selinux
 
 ## G14 : Augustin Matter, Jean-François Giraud
 
+Tuteur : Benoît Morgan
+
 Étude de la sécurité des protocoles de positi onnement par satellites (GPS,
     Galileo) et proposition de défense.
 
@@ -459,6 +460,8 @@ place.
 - Proposition de contre‐mesures.
 
 ## G15 : Roman Suchwalko, Clément Amic, Yassine Bargach
+
+Tuteur : Ladislas Hajnal
 
 Études de vulnérabilités utilisée pour rooter les smartphones Apple
 
