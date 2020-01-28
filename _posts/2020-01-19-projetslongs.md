@@ -8,8 +8,6 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2019-2020
 
 # Goupes de projets longs 2019-2020
 
-Liste non validée
-
 ## G1 : Thomas Hugueville, Yohan Chenebault
 
 Tuteur : Vincent Migliore
