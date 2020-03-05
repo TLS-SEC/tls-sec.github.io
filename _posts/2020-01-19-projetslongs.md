@@ -99,38 +99,38 @@ aussi réaliser un système de relais des données de la carte entre deux
 téléphones, l'un collé au badge et l'autre collé au terminal (cf. figure
 ci-dessous avec un badge au lieu
 
-## G5 : Eva Soussi, Paul Gaillard
-
-Tuteur : Éric Alata
-
-Étudier la sécurité des systèmes de vélo/scooter Indigo
-
-### Description
-
-1 Contexte
-
-Nous avons pu remarquer ces dernières années les vélos et scooter Indigo
-déployés dans tout Toulouse. Ces vélos et scooter sont en libre service. Ils
-peuvent être utilisés dans une zone géographique précise (centre de
-Toulouse). Ils peuvent être récupérés et déposés n'importe o`u dans
-cette zone. L'application Indigo weel permet de localiser, réserver et
-débloquer les véhicules. Par l'application il est également possible de
-réaliser plusieurs actions basiques telles que la création de compte ou le
-paiement des trajets. Un vélo peut être débloqué en scannant un QR code
-présent sur le véhicule.
-
-2 Travail envisagé
-
-Nous allons étudier la sécurité des systèmes de vélo/scooter Indigo. On
-analysera la sécurité d'Indigo Weel disponible sur mobiles : Reverse de
-l'application pour étudier son fonctionnement, les protocoles utilisés pour
-communiquer, les méthodes de chiffrement et d'authentification ... Nous
-testerons les cas limites d'utilisation. Par exemple, est qu'avec un jamming du
-signal radio et GPS autour du vélo, peut-on réussir à sortir ce vélo de sa
-zone ? Nous pouvons également analyser les messages re¸cus par le vélo,
-notamment lors du déblocage afin de voir si le vélo peut être débloqué
-en spoofant le signal. Nous pensons accentuer nos recherches sur les
-vélos dans un premier temps
+[comment]: <> ## G5 : Eva Soussi, Paul Gaillard
+[comment]: <> 
+[comment]: <> Tuteur : Éric Alata
+[comment]: <> 
+[comment]: <> Étudier la sécurité des systèmes de vélo/scooter Indigo
+[comment]: <> 
+[comment]: <> ### Description
+[comment]: <> 
+[comment]: <> 1 Contexte
+[comment]: <> 
+[comment]: <> Nous avons pu remarquer ces dernières années les vélos et scooter Indigo
+[comment]: <> déployés dans tout Toulouse. Ces vélos et scooter sont en libre service. Ils
+[comment]: <> peuvent être utilisés dans une zone géographique précise (centre de
+[comment]: <> Toulouse). Ils peuvent être récupérés et déposés n'importe o`u dans
+[comment]: <> cette zone. L'application Indigo weel permet de localiser, réserver et
+[comment]: <> débloquer les véhicules. Par l'application il est également possible de
+[comment]: <> réaliser plusieurs actions basiques telles que la création de compte ou le
+[comment]: <> paiement des trajets. Un vélo peut être débloqué en scannant un QR code
+[comment]: <> présent sur le véhicule.
+[comment]: <> 
+[comment]: <> 2 Travail envisagé
+[comment]: <> 
+[comment]: <> Nous allons étudier la sécurité des systèmes de vélo/scooter Indigo. On
+[comment]: <> analysera la sécurité d'Indigo Weel disponible sur mobiles : Reverse de
+[comment]: <> l'application pour étudier son fonctionnement, les protocoles utilisés pour
+[comment]: <> communiquer, les méthodes de chiffrement et d'authentification ... Nous
+[comment]: <> testerons les cas limites d'utilisation. Par exemple, est qu'avec un jamming du
+[comment]: <> signal radio et GPS autour du vélo, peut-on réussir à sortir ce vélo de sa
+[comment]: <> zone ? Nous pouvons également analyser les messages re¸cus par le vélo,
+[comment]: <> notamment lors du déblocage afin de voir si le vélo peut être débloqué
+[comment]: <> en spoofant le signal. Nous pensons accentuer nos recherches sur les
+[comment]: <> vélos dans un premier temps
 
 ## G6 : Alexandre Tanem, Jonathan Amrine
 
