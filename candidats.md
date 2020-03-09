@@ -1,6 +1,14 @@
 ## Informations pour les candidats à TLS-SEC
 
-Pour toute information complémentaire contactez Yamine Aït-Ameur ou Benoît Morgan sur leurs adresses mail: *prénom point nom* avec le domaine *enseeiht point fr*.
+Pour toute information complémentaire contactez les responsables des écoles
+partenaires :
+
+* ENSEEIHT : *prenom.nom@enseeiht.fr*
+  * Yamine Aït-Ameur
+  * Benoît Morgan
+* INSA : *prenom.nom@insa-toulouse.fr*
+  * Vincent Nicomette
+  * Éric Alata
 
 ### Diplômes
 
