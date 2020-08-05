@@ -42,34 +42,78 @@ Jurés :
 
 ### 02/09/2020
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
-|-----|---------------------|----------------|----------------|-------|
+|Jury|VN/YAA/LAD|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|09h00|Maël Galliot|||
+|09h45|Eva Soussi|||
+|10h30|Alexandre Tanem|||
+|11h15|Romain Cerutti|||
+
+|Jury|VN/YAA/VM|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|Clément Amic|||
+|14h45|Yacine Anser|||
+|15h30|Jonathan Amrine|||
 
 ### 03/09/2020
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
-|-----|---------------------|----------------|----------------|-------|
+|Jury|EA/VM/YAA|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|09h00|Omar Anser|||
+|09h45|Benjamin Bigey|||
+|10h30|Paul Florence|||
+|11h15|Valentin Cayrou|||
+
+|Jury|EA/VM/YAA|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|Lucien Menassol
+|15h45|Mampianinazakason Jérôme
+|15h30|Célia Prat
 
 ## Jury 2 - salle : ENAC
 
 ### 02/09/2020
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
-|-----|---------------------|----------------|----------------|-------|
+|Jury|BM/EA/VM|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|09h00|BOINET Adam|||
+|09h45|KOUAME Simplice Esstuaeno|||
+|10h30|LERAY Marc|||
+|11h15|PAUX jean-Baptiste|||
+
+|Jury|BM/EA/LA|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|SOULENQ Joévin|||
+|14h45|GIRAUD François|||
+|15h30|MUH Guillaume|||
 
 ### 03/09/2020
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
-|-----|---------------------|----------------|----------------|-------|
+|Jury|BM/VN/LA|
 
-## Jury 3 - salle : ENAC
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|09h00|CONZELMAN François|||
+|09h45|BARGACH Yassine|||
+|10h30|VIAL Nicolas|||
+|11h15|SCHWALKO Roman|||
 
-### 02/09/2020
+|Jury|BM/VN/LA|
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
-|-----|---------------------|----------------|----------------|-------|
-
-### 03/09/2020
-
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |Jurés  |
-|-----|---------------------|----------------|----------------|-------|
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|DURANT Florian|||
+|14h45|DUBOIS Auriane|||
+|15h30|PERSONNE|||
