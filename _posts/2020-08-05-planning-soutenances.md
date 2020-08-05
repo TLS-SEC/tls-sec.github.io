@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Planning des soutenance du projet de fin d'études 2018-19"
+title: "Planning des soutenance du projet de fin d'études 2019-20"
 category: [2019-2020]
 ---
 
