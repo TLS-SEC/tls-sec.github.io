@@ -108,7 +108,7 @@ Jurés :
 |09h00|CONZELMAN François|||
 |09h45|BARGACH Yassine|||
 |10h30|VIAL Nicolas|||
-|11h15|SCHWALKO Roman|||
+|11h15|-|||
 
 |Jury|BM/VN/LA|
 
