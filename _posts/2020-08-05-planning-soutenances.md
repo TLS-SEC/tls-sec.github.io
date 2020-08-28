@@ -86,7 +86,7 @@ Jurés :
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
 |-----|---------------------|----------------|----------------|
-|09h00|BOINET Adam|||
+|09h00|GIRAUD François|||
 |09h45|KOUAME Simplice Esstuaeno|||
 |10h30|LERAY Marc|||
 |11h15|PAUX jean-Baptiste|||
@@ -96,7 +96,7 @@ Jurés :
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
 |-----|---------------------|----------------|----------------|
 |14h00|SOULENQ Joévin|||
-|14h45|GIRAUD François|||
+|14h45|BOINET Adam|||
 |15h30|MUH Guillaume|||
 
 ### 03/09/2020
