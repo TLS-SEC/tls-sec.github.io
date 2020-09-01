@@ -55,6 +55,8 @@ Jurés :
 
 ### 02/09/2020
 
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=TVFYR2ZtWDhYZ09ZRFJIemR3QVl4UT09)
+
 |Jury|VN/YAA/LAD|
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
@@ -73,6 +75,8 @@ Jurés :
 |15h30|Jonathan Amrine|||
 
 ### 03/09/2020
+
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/93124035622?pwd=ZllyMEowdVZIZmh1MGZOaDhKTTZMUT09)
 
 |Jury|EA/VM/YAA|
 
@@ -94,6 +98,8 @@ Jurés :
 ## Jury 2 - salle : ENAC Couzinet 104
 
 ### 02/09/2020
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
+
 
 |Jury|BM/EA/VM|
 
@@ -113,6 +119,7 @@ Jurés :
 |15h30|MUH Guillaume|||
 
 ### 03/09/2020
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
 
 |Jury|BM/VN/LA|
 
