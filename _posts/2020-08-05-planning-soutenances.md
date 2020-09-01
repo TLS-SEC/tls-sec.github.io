@@ -37,8 +37,21 @@ Jurés :
   * VN : Vincent Nicomette
   * BM : Benoît Morgan
 
+## Accès à l'ENAC
 
-## Jury 1 - salle : ENAC
+#### Salle 102 et 104 batiment Couzinet
+
+  Le batiment est situé à côté de la contine et est peint par un artiste.
+![Plan de l'ENAC](https://tls-sec.github.io/assets/img/plan-enac.png "Plan de l'ENAC")
+
+#### Procédure d'admission dans l'ENAC
+  * Pièce d'identité nécessaire à l'accueil
+  * Port du Masque obligatoire
+
+#### Contraintes COVID
+  * 6 personnes maximum par salle
+
+## Jury 1 - salle : ENAC Couzinet 102
 
 ### 02/09/2020
 
@@ -78,7 +91,7 @@ Jurés :
 |15h45|Mampianinazakason Jérôme
 |15h30|Célia Prat
 
-## Jury 2 - salle : ENAC
+## Jury 2 - salle : ENAC Couzinet 104
 
 ### 02/09/2020
 
