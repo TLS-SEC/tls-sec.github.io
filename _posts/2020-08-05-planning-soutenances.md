@@ -98,7 +98,7 @@ Jurés :
 ## Jury 2 - salle : ENAC Couzinet 104
 
 ### 02/09/2020
-**Visioconférence** : [Lien Zoom](https://zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
+**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
 
 
 |Jury|BM/EA/VM|
@@ -119,7 +119,7 @@ Jurés :
 |15h30|MUH Guillaume|||
 
 ### 03/09/2020
-**Visioconférence** : [Lien Zoom](https://zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
+**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
 
 |Jury|BM/VN/LA|
 
