@@ -41,7 +41,7 @@ Jurés :
 
 #### Salle 102 et 104 batiment Couzinet
 
-  Le batiment est situé à côté de la contine et est peint par un artiste.
+  Le batiment est situé à côté de la cantine et est peint par un artiste.
 ![Plan de l'ENAC](https://tls-sec.github.io/assets/img/plan-enac.png "Plan de l'ENAC")
 
 #### Procédure d'admission dans l'ENAC
