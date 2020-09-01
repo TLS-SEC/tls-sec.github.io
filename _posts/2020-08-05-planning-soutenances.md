@@ -46,7 +46,7 @@ Jurés :
 
 #### Procédure d'admission dans l'ENAC
   * Pièce d'identité nécessaire à l'accueil
-  * Port du Masque obligatoire
+  * Port du masque obligatoire dans le campus à l'intérieur comme à l'extérieur
 
 #### Contraintes COVID
   * 6 personnes maximum par salle
