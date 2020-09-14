@@ -57,7 +57,7 @@ Jurés :
 
 **Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=TVFYR2ZtWDhYZ09ZRFJIemR3QVl4UT09)
 
-|Jury|BM/EA/LA|
+|Jury|BM/EA/LAD|
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
 |-----|---------------------|----------------|----------------|
@@ -65,7 +65,7 @@ Jurés :
 |15h45|Marouane Lahyan
 |15h30|Yamine El Yacoubi
 
-### 08/10/2020 - salle : ENAC Couzinet 103
+### 01/10/2020 - salle : ENAC Couzinet 103
 
 **Visioconférence** : [Lien Zoom](https://zoom.us/j/93124035622?pwd=ZllyMEowdVZIZmh1MGZOaDhKTTZMUT09)
 
@@ -79,7 +79,7 @@ Jurés :
 
 ## SESSION 2 - Jury 2
 
-### 01/10/2020 - salle : ENAC Caudron 19
+### 08/10/2020 - salle : ENAC Caudron 19
 **Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
 
 |Jury|VM/EA/BM|
@@ -94,7 +94,7 @@ Jurés :
 ### 08/10/2020 - salle : ENAC Couzinet 104
 **Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
 
-|Jury|LA/VN/YAA|
+|Jury|LAD/VN/YAA|
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
 |-----|---------------------|----------------|----------------|
