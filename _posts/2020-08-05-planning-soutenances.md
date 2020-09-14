@@ -70,7 +70,7 @@ Jurés :
 
 **Visioconférence** : [Lien Zoom](https://zoom.us/j/93124035622?pwd=ZllyMEowdVZIZmh1MGZOaDhKTTZMUT09)
 
-|Jury|BM/EA/LA|
+|Jury|YAA/VM/VN|
 
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
 |-----|---------------------|----------------|----------------|
