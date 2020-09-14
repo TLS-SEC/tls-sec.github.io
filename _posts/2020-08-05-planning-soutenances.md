@@ -51,7 +51,61 @@ Jurés :
 #### Contraintes COVID
   * 6 personnes maximum par salle
 
-## Jury 1 - salle : ENAC Couzinet 102
+## SESSION 2 - Jury 1 - salle : ENAC Couzinet 102
+
+### 01/10/2020
+
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=TVFYR2ZtWDhYZ09ZRFJIemR3QVl4UT09)
+
+|Jury|BM/EA/LA|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|Julien Atsarias
+|15h45|Marouane Lahyan
+|15h30|Augustin Matter
+|16h15|Yamine El Yacoubi
+
+### 08/10/2020
+
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/93124035622?pwd=ZllyMEowdVZIZmh1MGZOaDhKTTZMUT09)
+
+|Jury|BM/EA/LA|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|David Thomas
+|15h45|Baptiste Verstraeten
+|15h30|Jean Tachon
+|16h15|
+
+## SESSION 2 - Jury 2 - salle : ENAC Couzinet 104
+
+### 01/10/2020
+**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
+
+|Jury|VM/EA/BM|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|Thomas Hugueville
+|15h45|Ayoub Taoussi
+|15h30|Paul Gaillard
+|16h15|Yohan Chenebault
+
+### 08/10/2020
+**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
+
+|Jury|LA/VN/YAA|
+
+|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
+|-----|---------------------|----------------|----------------|
+|14h00|Adrien Le Roho
+|14h45|Thierry Ropp
+|15h30|Rémi Gascou
+|16h15|Roman Suchwalko
+
+## SESSION 1 - Jury 1 - salle : ENAC Couzinet 102
 
 ### 02/09/2020
 
@@ -95,7 +149,7 @@ Jurés :
 |15h45|Mampianinazakason Jérôme
 |15h30|Célia Prat
 
-## Jury 2 - salle : ENAC Couzinet 104
+## SESSION 1 - Jury 2 - salle : ENAC Couzinet 104
 
 ### 02/09/2020
 **Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
