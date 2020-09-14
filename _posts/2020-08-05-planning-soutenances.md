@@ -63,8 +63,7 @@ Jurés :
 |-----|---------------------|----------------|----------------|
 |14h00|Julien Atsarias
 |15h45|Marouane Lahyan
-|15h30|Augustin Matter
-|16h15|Yamine El Yacoubi
+|15h30|Yamine El Yacoubi
 
 ### 08/10/2020 - salle : ENAC Couzinet 103
 
@@ -77,7 +76,6 @@ Jurés :
 |14h00|David Thomas
 |15h45|Baptiste Verstraeten
 |15h30|Jean Tachon
-|16h15|
 
 ## SESSION 2 - Jury 2
 
