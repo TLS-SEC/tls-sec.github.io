@@ -53,7 +53,7 @@ Jurés :
 
 ## SESSION 2 - Jury 1
 
-### 01/10/2020 - salle : ENAC Caudron 18
+### 01/10/2020 - salle : ENAC Caudron 18 -> a distance sur Zoom uniquement
 
 **Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=TVFYR2ZtWDhYZ09ZRFJIemR3QVl4UT09)
 
@@ -66,7 +66,7 @@ Jurés :
 |15h30|Augustin Matter
 |16h15|Yamine El Yacoubi
 
-### 01/10/2020 - salle : ENAC Couzinet 103
+### 01/10/2020 - salle : ENAC Couzinet 103 -> a distance sur zoom uniquement
 
 **Visioconférence** : [Lien Zoom](https://zoom.us/j/93124035622?pwd=ZllyMEowdVZIZmh1MGZOaDhKTTZMUT09)
 
@@ -81,7 +81,8 @@ Jurés :
 
 ## SESSION 2 - Jury 2
 
-### 08/10/2020 - salle : ENAC Caudron 19
+### 08/10/2020 - salle : ENAC Caudron 19 -> a distance sur zoom uniquement
+
 **Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
 
 |Jury|VM/EA/BM|
@@ -93,7 +94,7 @@ Jurés :
 |15h30|Paul Gaillard
 |16h15|Yohan Chenebault
 
-### 08/10/2020 - salle : ENAC Couzinet 104
+### 08/10/2020 - salle : ENAC Couzinet 104 -> a distance sur zoom uniquement
 **Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
 
 |Jury|LAD/VN/YAA|
