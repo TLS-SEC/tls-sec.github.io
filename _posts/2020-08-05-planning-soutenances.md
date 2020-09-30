@@ -55,7 +55,7 @@ Jurés :
 
 ### 01/10/2020 - salle : ENAC Caudron 18 -> a distance sur Zoom uniquement
 
-**Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=TVFYR2ZtWDhYZ09ZRFJIemR3QVl4UT09)
+**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86149766465?pwd=RFJPOVpSTTBHV29BcitRSThFQ01JUT09)
 
 |Jury|BM/EA/LAD|
 
@@ -81,7 +81,7 @@ Jurés :
 
 ### 08/10/2020 - salle : ENAC Caudron 19 -> a distance sur zoom uniquement
 
-**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
+**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86545055919?pwd=NGRDODVzS1FNMkxYbk9XZldtNlN5QT09)
 
 |Jury|VM/EA/BM|
 
