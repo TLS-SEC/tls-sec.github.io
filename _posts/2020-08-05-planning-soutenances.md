@@ -68,7 +68,7 @@ Jurés :
 
 ### 01/10/2020 - salle : ENAC Couzinet 103 -> a distance sur zoom uniquement
 
-**Visioconférence** : [Lien Zoom](https://zoom.us/j/93124035622?pwd=ZllyMEowdVZIZmh1MGZOaDhKTTZMUT09)
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=THlON2ZMdzMyaG1leGtnYUVzdzBjdz09)
 
 |Jury|YAA/VM/VN|
 
