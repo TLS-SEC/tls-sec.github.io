@@ -51,7 +51,7 @@ Jurés :
 #### Contraintes COVID
   * 6 personnes maximum par salle
 
-## SESSION 2 - Jury 1
+## SESSION 2 
 
 ### 01/10/2020 - salle : ENAC Caudron 18 -> a distance sur Zoom uniquement
 
@@ -79,7 +79,7 @@ Jurés :
 |15h30|Jean Tachon
 |16h15|
 
-## SESSION 2 - Jury 2
+## SESSION 2
 
 ### 08/10/2020 - salle : ENAC Caudron 19 -> a distance sur zoom uniquement
 
@@ -95,7 +95,8 @@ Jurés :
 |16h15|Yohan Chenebault
 
 ### 08/10/2020 - salle : ENAC Couzinet 104 -> a distance sur zoom uniquement
-**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
+
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=THlON2ZMdzMyaG1leGtnYUVzdzBjdz09)
 
 |Jury|LAD/VN/YAA|
 
