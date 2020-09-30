@@ -51,9 +51,9 @@ Jurés :
 #### Contraintes COVID
   * 6 personnes maximum par salle
 
-## SESSION 2 - Jury 1
+## SESSION 2 
 
-### 01/10/2020 - salle : ENAC Caudron 18
+### 01/10/2020 - salle : ENAC Caudron 18 -> a distance sur Zoom uniquement
 
 **Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=TVFYR2ZtWDhYZ09ZRFJIemR3QVl4UT09)
 
@@ -65,9 +65,9 @@ Jurés :
 |15h45|Marouane Lahyan
 |15h30|Yamine El Yacoubi
 
-### 01/10/2020 - salle : ENAC Couzinet 103
+### 01/10/2020 - salle : ENAC Couzinet 103 -> a distance sur zoom uniquement
 
-**Visioconférence** : [Lien Zoom](https://zoom.us/j/93124035622?pwd=ZllyMEowdVZIZmh1MGZOaDhKTTZMUT09)
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=THlON2ZMdzMyaG1leGtnYUVzdzBjdz09)
 
 |Jury|YAA/VM/VN|
 
@@ -77,9 +77,10 @@ Jurés :
 |15h45|Baptiste Verstraeten
 |15h30|Jean Tachon
 
-## SESSION 2 - Jury 2
+## SESSION 2
 
-### 08/10/2020 - salle : ENAC Caudron 19
+### 08/10/2020 - salle : ENAC Caudron 19 -> a distance sur zoom uniquement
+
 **Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
 
 |Jury|VM/EA/BM|
@@ -91,8 +92,9 @@ Jurés :
 |15h30|Paul Gaillard
 |16h15|Yohan Chenebault
 
-### 08/10/2020 - salle : ENAC Couzinet 104
-**Visioconférence** : [Lien Zoom](https://us02web.zoom.us/j/86814282753?pwd=NXRBQ2wwNlZaNDVmR3Y2NGFuVjBKQT09)
+### 08/10/2020 - salle : ENAC Couzinet 104 -> a distance sur zoom uniquement
+
+**Visioconférence** : [Lien Zoom](https://zoom.us/j/8549681995?pwd=THlON2ZMdzMyaG1leGtnYUVzdzBjdz09)
 
 |Jury|LAD/VN/YAA|
 
