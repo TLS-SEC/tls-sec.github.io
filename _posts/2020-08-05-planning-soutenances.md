@@ -88,7 +88,7 @@ Jurés :
 |Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
 |-----|---------------------|----------------|----------------|
 |14h00|Thomas Hugueville
-|15h45|Ayoub Taoussi
+|14h45|Ayoub Taoussi
 |15h30|Paul Gaillard
 |16h15|Yohan Chenebault
 
