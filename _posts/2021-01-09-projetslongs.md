@@ -189,7 +189,7 @@ contremesures possibles.
 
 ## G11 Alfredo Esmeralda, Doganis Dimitrios, Tarnagda Abdel
 
-Tuteur : TBD
+Tuteur : Cédric Lefebvre
 
 Étude sur les moyens de détection d'un IDS (Suricata ou Snort) dans le cas
 d'attaques dans un Cyber Range (environnement virtualisé (LXC, LXD, QEMU)
@@ -261,7 +261,7 @@ complexes pour avancer.
 
 # G14 Ridwane Aissaoui, Knaff Lucas, Couvert Xavier
 
-Tuteur : TBD
+Tuteur : Jean-Christophe Deneuville
 
 Chiffrement des signaux GPS en prévention du spoofing
 
