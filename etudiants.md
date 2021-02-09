@@ -1,8 +1,8 @@
 ## Informations pour les étudiants de TLS-SEC
 
-### Année scolaire 2019-2020
+### Année scolaire 2020-2021
 <ul>
-{% for post in site.categories["2019-2020"] %}
+{% for post in site.categories["2020-2021"] %}
 <li>
   <a href="{{ post.url }}">{{ post.title }}</a>
   {{ post.excerpt }}

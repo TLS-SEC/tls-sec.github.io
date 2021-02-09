@@ -1,5 +1,15 @@
 ## Archives
 
+### Année scolaire 2019-2020
+<ul>
+{% for post in site.categories["2019-2020"] %}
+<li>
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  {{ post.excerpt }}
+</li>
+{% endfor %}
+</ul>
+
 ### Année scolaire 2018-2019
 <ul>
 {% for post in site.categories["2018-2019"] %}
