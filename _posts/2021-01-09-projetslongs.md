@@ -10,7 +10,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2020-2021
 
 ## G1 Aboukora Ahmed, Bonnet Guillaume
 
-Tuteur : TBD
+Tuteur : Romain Cayre
 
 Etudier les vulnérabilités du Bluetooth pour prendre le contrôle d'un bracelet
 connecté.
@@ -22,7 +22,7 @@ effectivement se servir le bluetooth pour réaliser une attaque sur la MiBand 3.
 
 ## G2 Tardy Mahé, Blenner Louis
 
-Tuteur : TBD
+Tuteur : Benoît Morgan
 
 Exploration de vulnérabilités dans les jeux vidéo pour la triche et le
 détournement de l'exécution.
@@ -43,7 +43,7 @@ exemples [3]http://tasvideos.org/Movies-C3050Y.html).
 
 ## G3 Sabras Sherwin, Rioux Guilhem
 
-Tuteur : TBD
+Tuteur : Benoît Morgan
 
 Élaboration de challenges THC pour notre projet long, nous avons plusieurs idées
 
@@ -63,7 +63,7 @@ puis élévation de privilèges (sudo)
 
 ## G4 Boulou Valentin, Thoby Simon, Vazquez Théo
 
-Tuteur : TBD
+Tuteur : Vincent Migliore
 
 Tour d'horizon des vulnérabilités sur les processeurs modernes
 
@@ -86,7 +86,7 @@ KASLR) en s'appuyant sur Spectre et Meltdown
 
 ## G5 Ariès Corentin, Garo-Sail Camille
 
-Tuteur : TBD
+Tuteur : Éric Alata
 
 Exploitation de vulnérabilités d'objets connectés
 
@@ -94,7 +94,7 @@ Exploitation de vulnérabilités d'objets connectés
 
 ## G6 Hemon Yoann, Lemistre Marius, Bosca Maxime
 
-Tuteur : TBD
+Tuteur : Éric Alata
 
 Sécurisation d'une application simple de type Sender-Receiver pour l'envoi de
 fichiers entre ordinateurs
@@ -110,7 +110,7 @@ distants, envoi à plusieurs appareils etc).
 
 ## G7 Dides Justin, Settai Yassine, Santos-da-silva Tiago
 
-Tuteur : TBD
+Tuteur : Vincent Migliore
 
 Triche dans les jeux vidéos et sécurité
 
@@ -137,7 +137,7 @@ sur les hardware cheat pour les raisons citées plus haut.
 
 ## G8 Michaud Aurélien, Timani Mario
 
-Tuteur : TBD
+Tuteur : Vincent Nicomette
 
 Reverse-engineer des binaires des différents firmwares de vélos et trottinettes
 électriques, afin de pouvoir les débrider
@@ -158,7 +158,7 @@ vulnérabilités.
 
 ## G9 Fache Rémi, Decourcelle Jean-Baptiste
 
-Tuteur : TBD
+Tuteur : Ladislas Hajnal
 
 Élaboration d'un challenge pour la THC
 
@@ -166,7 +166,7 @@ Tuteur : TBD
 
 ## G10 Kinderf Julien, Guillard Thibault
 
-Tuteur : TBD
+Tuteur : Vincent Nicomette
 
 Sécurité du protocole Bluetooth
 
@@ -203,7 +203,7 @@ conséquences.
 
 # G12 Pelous Thomas, Nozahic Morvan, Erpeldinger Clarisse
 
-Tuteur : TBD
+Tuteur : Benoît Morgan
 
 - Sujet 1 : Décompte de données sur forfait mobile
 - Sujet 2 : Réalisation d'un honeypot pour analyse d'attaques en vogue
@@ -248,7 +248,7 @@ pour pouvoir analyser ce qu'il se passe sur la VM.
 
 # G13 Chatain Alexandre, Spilka-Georgeot Basile
 
-Tuteur : TBD
+Tuteur : Ladislas Hajnal
 
 Élaboration de challenges pour la THC
 
