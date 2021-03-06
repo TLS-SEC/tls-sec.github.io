@@ -38,7 +38,7 @@ scripter les entrées utilisateur), il est notamment possible d'injecter du
 code arbitraire dans des jeux et de déclencher son exécution. Par exemple, ce
 tool assisted speedrun de super mario world complètement hallucinant qui permet
 de terminer le jeu dès le premier niveau en jouant à pong et snake:
-[2]https://www.youtube.com/watch?v=OPcV9uIY5i4 (en voici une liste d'autres
+[2]https://www.youtube.com/watch?v=OPcV9uIY5i4 (en voici une liste d'autresJavornik Alexandre, Yu Tung Jin, Bigue-Colas Remy
 exemples [3]http://tasvideos.org/Movies-C3050Y.html).
 
 ## G3 Sabras Sherwin, Rioux Guilhem
@@ -337,15 +337,26 @@ Enseignants anglais :
   * SR : Stephen Ryan
   * GC : Genevieve Casey
 
+### 15/03/2021
 
 ## Jury 1 - Zoom :
-
-### 15/03/2021
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
 |9:00|G1 (Aboukora Ahmed, Bonnet Guillaume) |RC|VN, YAA, EN, RC|
-|9:30|G10 (Kinderf Julien, Guillard Thibault, Gabrielle Garn, ENier)|RC|VN, YAA, EN, RC|
+|9:30|G10 (Kinderf Julien, Guillard Thibault, Gabrielle Garnier)|RC|VN, YAA, EN, RC|
 |10:00|G8 (Michaud Aurélien, Timani Mario)| VN |VN, YAA|
 |10:30|G11 (Alfredo Esmeralda, Doganis Dimitrios, Tarnagda Abdel)|CL|VN, YAA, EN, CL|
 |11:00|G15 (Javornik Alexandre, Yu Tung Jin, Bigue-Colas Remy)|VN|VN, YAA,EN|
+
+
+## Jury 2 - Zoom :
+
+|Heure|Groupe         |Tuteur stage    |Jurés  |
+|-----|---------------------|----------------|-------|
+|9:00|G2 (Tardy Mahé, Blenner Louis) |BM|EA, BM, SR|
+|9:30|G3 (Sabras Sherwin, Rioux Guilhem)|BM|EA, BM, RC|
+|10:00|G5 (Ariès Corentin, Garo-Sail Camille)| EA |EA, BM, SR|
+|10:30|G6 (Hemon Yoann, Lemistre Marius, Bosca Maxime)|EA|EA, BM, SR|
+|11:00|G12 (Pelous Thomas, Nozahic Morvan, Erpeldinger Clarisse)|BM|EA, BM, SR|
+
