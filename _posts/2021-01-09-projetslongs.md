@@ -360,3 +360,13 @@ Enseignants anglais :
 |10:30|G6 (Hemon Yoann, Lemistre Marius, Bosca Maxime)|EA|EA, BM, SR|
 |11:00|G12 (Pelous Thomas, Nozahic Morvan, Erpeldinger Clarisse)|BM|EA, BM, SR|
 
+
+## Jury 3 - Zoom :
+
+|Heure|Groupe         |Tuteur stage    |Jurés  |
+|-----|---------------------|----------------|-------|
+|9:00|G4 (Boulou Valentin, Thoby Simon, Vazquez Théo) |VM|VM, LH, GC|
+|9:30|G7 (Dides Justin, Settai Yassine, Santos-da-silva Tiago)|VM|VM,LH,GC|
+|10:00|G9 (Fache Rémi, Decourcelle Jean-Baptiste)| LH |VM, LH, GC|
+|10:30|G13 (Chatain Alexandre, Spilka-Georgeot Basile)|LH|VM, LH, GC|
+|11:00|G14 (Ridwane Aissaoui, Knaff Lucas, Couvert Xavier)|JCD|VM, LH, GC|
