@@ -317,3 +317,35 @@ afin d'éviter des possibles intrusions et attaques.
 
 C'est un projet assez grand, donc on considère qu'un groupe de 3 personnes
 est justifié. Plus précisément, Remy, Jin Yu et moi.
+
+
+Soutenances
+
+Jurés :
+  * EA : Éric Alata
+  * YAA : Yamine Aït-Ameur
+  * LH : Ladislas Hajnal
+  * VM : Vincent Migliore
+  * VN : Vincent Nicomette
+  * BM : Benoît Morgan
+  * CL : Cédric Lefèbvre
+  * RC : Romain Cayre
+  * JCD : Jean-Christophe Deneuville
+
+Enseignants anglais :
+  * EN : Emma Nelson
+  * SR : Stephen Ryan
+  * GC : Genevieve Casey
+
+
+## Jury 1 - Zoom :
+
+### 15/03/2021
+
+|Heure|Groupe         |Tuteur stage    |Jurés  |
+|-----|---------------------|----------------|-------|
+|9:00|G1 (|Aboukora Ahmed, Bonnet Guillaume) |RC|VN, YAA, EN, RC|
+|9:30|G10 (Kinderf Julien, Guillard Thibault, Gabrielle Garn, ENier)|RC|VN, YAA, EN, RC|
+|10:00|G8(Michaud Aurélien, Timani Mario)| VN |VN, YAA|
+|10:30|G11(Alfredo Esmeralda, Doganis Dimitrios, Tarnagda Abdel)|CL|VN, YAA, EN, CL|
+|11:00|G15(Javornik Alexandre, Yu Tung Jin, Bigue-Colas Remy)|VN|VN, YAA,EN|
