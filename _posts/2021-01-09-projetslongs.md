@@ -365,8 +365,8 @@ Enseignants anglais :
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
-|9:00|G4 (Boulou Valentin, Thoby Simon, Vazquez Théo) |VM|VM, LH, GC|
+|9:00|G9 (Fache Rémi, Decourcelle Jean-Baptiste)| LH |VM, LH, GC|
 |9:30|G7 (Dides Justin, Settai Yassine, Santos-da-silva Tiago)|VM|VM,LH,GC|
-|10:00|G9 (Fache Rémi, Decourcelle Jean-Baptiste)| LH |VM, LH, GC|
+|10:00|G4 (Boulou Valentin, Thoby Simon, Vazquez Théo) |VM|VM, LH, GC|
 |10:30|G13 (Chatain Alexandre, Spilka-Georgeot Basile)|LH|VM, LH, GC|
 |11:00|G14 (Ridwane Aissaoui, Knaff Lucas, Couvert Xavier)|JCD|VM, LH, GC|
