@@ -340,6 +340,7 @@ Enseignants anglais :
 ### 15/03/2021
 
 ## Jury 1 
+
 Zoom : https://inp-toulouse-fr.zoom.us/j/96198551445?pwd=QU9mNE11c2RBTXE2aS9BOW55VkFKdz09
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
@@ -352,6 +353,7 @@ Zoom : https://inp-toulouse-fr.zoom.us/j/96198551445?pwd=QU9mNE11c2RBTXE2aS9BOW5
 
 
 ## Jury 2
+
 Zoom : https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
@@ -364,6 +366,7 @@ Zoom : https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09
 
 
 ## Jury 3
+
 Zoom : https://zoom.us/j/98404054554?pwd=LzUxdTZyRDM1OTR0a3UvKzBBaUNJZz09
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
