@@ -339,7 +339,8 @@ Enseignants anglais :
 
 ### 15/03/2021
 
-## Jury 1 - Zoom : https://inp-toulouse-fr.zoom.us/j/96198551445?pwd=QU9mNE11c2RBTXE2aS9BOW55VkFKdz09
+## Jury 1
+Zoom : https://inp-toulouse-fr.zoom.us/j/96198551445?pwd=QU9mNE11c2RBTXE2aS9BOW55VkFKdz09
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
@@ -350,7 +351,8 @@ Enseignants anglais :
 |11:00|G15 (Javornik Alexandre, Yu Tung Jin, Bigue-Colas Remy)|VN|VN, YAA,EN|
 
 
-## Jury 2 - Zoom : https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09
+## Jury 2
+Zoom : https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
@@ -361,7 +363,8 @@ Enseignants anglais :
 |11:00|G12 (Pelous Thomas, Nozahic Morvan, Erpeldinger Clarisse)|BM|EA, BM, SR|
 
 
-## Jury 3 - Zoom : https://zoom.us/j/98404054554?pwd=LzUxdTZyRDM1OTR0a3UvKzBBaUNJZz09
+## Jury 3
+Zoom : https://zoom.us/j/98404054554?pwd=LzUxdTZyRDM1OTR0a3UvKzBBaUNJZz09
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
