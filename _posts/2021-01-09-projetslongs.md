@@ -347,7 +347,7 @@ Zoom : [Lien Zoom](https://inp-toulouse-fr.zoom.us/j/96198551445?pwd=QU9mNE11c2R
 |-----|---------------------|----------------|-------|
 |9:00|G1 (Aboukora Ahmed, Bonnet Guillaume) |RC|VN, YAA, EN, RC|
 |9:30|G10 (Kinderf Julien, Guillard Thibault, Gabrielle Garnier)|RC|VN, YAA, EN, RC|
-|10:00|G8 (Michaud Aurélien, Timani Mario)| VN |VN, YAA|
+|10:00|G8 (Michaud Aurélien, Timani Mario)| VN |VN, YAA, EN|
 |10:30|G11 (Alfredo Esmeralda, Doganis Dimitrios, Tarnagda Abdel)|CL|VN, YAA, EN, CL|
 |11:00|G15 (Javornik Alexandre, Yu Tung Jin, Bigue-Colas Remy)|VN|VN, YAA,EN|
 
