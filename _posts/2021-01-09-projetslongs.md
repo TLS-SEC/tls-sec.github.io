@@ -359,7 +359,7 @@ Zoom : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpY
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
 |9:00|G2 (Tardy Mahé, Blenner Louis) |BM|EA, BM, SR|
-|9:30|G3 (Sabras Sherwin, Rioux Guilhem)|BM|EA, BM, RC|
+|9:30|G3 (Sabras Sherwin, Rioux Guilhem)|BM|EA, BM, SR|
 |10:00|G5 (Ariès Corentin, Garo-Sail Camille)| EA |EA, BM, SR|
 |10:30|G6 (Hemon Yoann, Lemistre Marius, Bosca Maxime)|EA|EA, BM, SR|
 |11:00|G12 (Pelous Thomas, Nozahic Morvan, Erpeldinger Clarisse)|BM|EA, BM, SR|
