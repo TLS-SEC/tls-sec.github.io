@@ -49,6 +49,7 @@ Tuteur : Benoît Morgan
 
 ### Description
 
+<!---
 - Un challenge de bypass d'ASLR : faire leaker une adresse mémoire via une
 vulnérabilité, puis faire l'exploitation (calculs d'offset)
 - Un challenge de Stéganographie (à tiroir): cacher un exécutable
@@ -60,6 +61,7 @@ laquelle est cachée un flag
 - Challenge réseau : fichier pcap à analyser, contournement de pare-feu (couche
 3/4 ou applicatif) ou d'IDS, trouver un mdp d'utilisateur non-privilégié,
 puis élévation de privilèges (sudo)
+                                   -->
 
 ## G4 Boulou Valentin, Thoby Simon, Vazquez Théo
 
