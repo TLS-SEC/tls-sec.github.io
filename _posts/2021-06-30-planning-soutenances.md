@@ -9,7 +9,7 @@ passage et la composition du jury.
 
 # Organisation Soutenances 
 
-Les soutenances auront lieu les 02/09 et 03/09 à l'ENSEEIHT (2 Rue Charles
+Les soutenances auront lieu les [02,03,06,07]/09 à l'ENSEEIHT (2 Rue Charles
 Camichel, 31000 Toulouse). Les salles sont précisées à côté du nom du jury.
 
 Chaque de soutenance sera divisé en :
