@@ -116,6 +116,8 @@ Jury2 : VM/VN
 |14h45|Jerome Lasserre
 |15h30|Alexandre Fernandes
 
+### 06/09/2020 - salle : ENSEEIHT (à venir)
+
 |Jury|LH/JCD|
 
 |Heure|Nom étudiant|
@@ -140,6 +142,8 @@ Jury2 : VM/VN
 |14h00|Julien Kinderf
 |14h45|Gabrielle Garnier
 |15h30|Aurelien Michaud
+
+### 07/09/2020 - salle : ENSEEIHT (à venir)
 
 |Jury|VN/YAA|
 
