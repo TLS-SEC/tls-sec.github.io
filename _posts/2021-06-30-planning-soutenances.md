@@ -59,8 +59,8 @@ Jurés :
 
 |Jury|BM/??|
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
-|-----|---------------------|----------------|----------------|
+|Heure|Nom étudiant|
+|-----|------------|
 |09h30|Maxime Bosca
 |10h15|Justin Dides
 |11h00|Thibault Guillard
@@ -78,8 +78,8 @@ Jury 1 : Benoit/???
 
 Jury2 : VM/VN
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
-|-----|---------------------|----------------|----------------|
+|Heure|Nom étudiant|
+|-----|------------|
 |8h45|Alexandre Javornik
 |9h30|Valentin Boulou
 |10h15|Dimitrios-Rafail Doganis
@@ -91,8 +91,8 @@ Jury2 : VM/VN
 
 |Jury|BM/VM puis BM/YAA|
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
-|-----|---------------------|----------------|----------------|
+|Heure|Nom étudiant|
+|-----|------------|
 |9h30|Corentin Ariès
 |10h15|Clémentin Benoist
 |11h00|Louis Blenner
@@ -106,8 +106,8 @@ Jury2 : VM/VN
 
 |Jury|VN/YAA|
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
-|-----|---------------------|----------------|----------------|
+|Heure|Nom étudiant|
+|-----|------------|
 |9h30|Esmeralda Alfredo
 |10h15|Nozahic Morvan
 |11h00|Thomas Pelous
@@ -118,8 +118,8 @@ Jury2 : VM/VN
 
 |Jury|LH/JCD|
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
-|-----|---------------------|----------------|----------------|
+|Heure|Nom étudiant|
+|-----|------------|
 |9h30|Ridwane Aissaoui
 |10h15|Xavier Convert
 |11h00|Lucas Knaff
@@ -131,8 +131,8 @@ Jury2 : VM/VN
 
 |Jury|EA/LH|
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
-|-----|---------------------|----------------|----------------|
+|Heure|Nom étudiant|
+|-----|------------|
 |9h30|Xavier Bascobert
 |10h15|Remy Bigue-Colas
 |11h00|Jean-Baptiste Decourcelle
@@ -143,8 +143,8 @@ Jury2 : VM/VN
 
 |Jury|VN/YAA|
 
-|Heure|Nom étudiant         |Tuteur stage    |Tuteur pédago.  |
-|-----|---------------------|----------------|----------------|
+|Heure|Nom étudiant|
+|-----|------------|
 |9h30|Simon Thoby
 |10h15|Tristan Pineaudau
 |11h00|Pierre Bonel
