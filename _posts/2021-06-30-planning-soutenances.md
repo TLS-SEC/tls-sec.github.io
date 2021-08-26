@@ -70,7 +70,6 @@ Jurés :
 |15h30|Mahé Tardy
 |16h15|Théo Vazquez
 
-Jury 1 : Benoit/???
 
 ### 02/09/2021 - salle : ENSEEIHT (à venir)
 
@@ -85,7 +84,7 @@ Jury2 : VM/VN
 |10h15|Dimitrios-Rafail Doganis
 |11h00|Rémi Fache
 |14h00|Matthieu Lacote
-|Tung Jin Yu|14h45
+|14h45|Tung Jin Yu
 
 ### 03/09/2021 - salle : ENSEEIHT (à venir)
 
