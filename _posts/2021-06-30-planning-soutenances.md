@@ -55,7 +55,7 @@ Jurés :
 
 -->
 
-### 02/09/2021 - salle : ENSEEIHT (à venir)
+### 02/09/2021 - salle : ENSEEIHT A301
 
 |Jury|BM/??|
 
@@ -71,8 +71,7 @@ Jurés :
 |16h15|Théo Vazquez
 
 
-### 02/09/2021 - salle : ENSEEIHT (à venir)
-
+### 02/09/2021 - salle : ENSEEIHT A302
 |Jury|VM/VN|
 
 Jury2 : VM/VN
@@ -86,8 +85,7 @@ Jury2 : VM/VN
 |14h00|Matthieu Lacote
 |14h45|Tung Jin Yu
 
-### 03/09/2021 - salle : ENSEEIHT (à venir)
-
+### 03/09/2021 - salle : ENSEEIHT A301
 |Jury|BM/VM puis BM/YAA|
 
 |Heure|Nom étudiant|
@@ -101,7 +99,7 @@ Jury2 : VM/VN
 |15h30|Yoann Hemon (YAA)
 |16h15|Amrir Nisrine (YAA)
 
-### 06/09/2020 - salle : ENSEEIHT (à venir)
+### 06/09/2020 - salle : ENSEEIHT A301
 
 |Jury|VN/YAA|
 
@@ -115,7 +113,7 @@ Jury2 : VM/VN
 |14h45|Jerome Lasserre
 |15h30|Alexandre Fernandes
 
-### 06/09/2020 - salle : ENSEEIHT (à venir)
+### 06/09/2020 - salle : ENSEEIHT A302
 
 |Jury|LH/JCD|
 
@@ -128,7 +126,7 @@ Jury2 : VM/VN
 |14h00|Tiago Santos-Da-Silva
 |14h45|Yassine Settai
 
-### 07/09/2020 - salle : ENSEEIHT (à venir)
+### 07/09/2020 - salle : ENSEEIHT A301
 
 |Jury|EA/LH|
 
@@ -142,8 +140,7 @@ Jury2 : VM/VN
 |14h45|Gabrielle Garnier
 |15h30|Aurelien Michaud
 
-### 07/09/2020 - salle : ENSEEIHT (à venir)
-
+### 07/09/2020 - salle : ENSEEIHT A302
 |Jury|VN/YAA|
 
 |Heure|Nom étudiant|
