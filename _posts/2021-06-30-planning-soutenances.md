@@ -148,5 +148,5 @@ Jury2 : VM/VN
 |9h30|Simon Thoby
 |10h15|Tristan Pineaudau
 |11h00|Pierre Bonel
-|11h45|Philippe Bour
+|11h45|Aaron Dingaorabe
 |14h00|Nicolas Quievreux
