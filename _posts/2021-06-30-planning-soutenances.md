@@ -71,7 +71,7 @@ Jurés :
 |16h15|Théo Vazquez
 
 
-### 02/09/2021 - salle : ENSEEIHT A302
+### 02/09/2021 - salle : ENSEEIHT A304
 |Jury|VM/VN|
 
 Jury2 : VM/VN
@@ -113,7 +113,7 @@ Jury2 : VM/VN
 |14h45|Jerome Lasserre
 |15h30|Alexandre Fernandes
 
-### 06/09/2020 - salle : ENSEEIHT A302
+### 06/09/2020 - salle : ENSEEIHT A304
 
 |Jury|LH/JCD|
 
@@ -140,7 +140,7 @@ Jury2 : VM/VN
 |14h45|Gabrielle Garnier
 |15h30|Aurelien Michaud
 
-### 07/09/2020 - salle : ENSEEIHT A302
+### 07/09/2020 - salle : ENSEEIHT A304
 |Jury|VN/YAA|
 
 |Heure|Nom étudiant|
