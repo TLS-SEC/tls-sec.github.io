@@ -149,17 +149,7 @@ On peut l'émuler sur QEMU ou l'utiliser sur un STM32. Compatible 32-bits ARM7, 
 3. AdAstra
 OS orienté embarqué (STM32) sans mention de sécurité sur leur site.
 
-## G10 Johan Tirard, Charly Lezzani, Julien Le Page
-
-Tuteur : TODO
-
-Mise en place d’une attaque DoS
-
-### Description
-
-TODO
-
-## G11 Johan Tirard, Charly Lezzani, Jean-Christophe Wahl
+## G10 Johan Tirard, Charly Lezzani, Jean-Christophe Wahl
 
 Tuteur : TODO
 
@@ -170,7 +160,7 @@ Challenges de reverse engineering pour la THCon'22
 Créer un ou plusieurs CrackMe en C qui serviront de challenge pour la THCon.
 
 
-## G12 lexandre Gleize-Pons, Benoît Couderc, Benjamin Berthaud
+## G11 lexandre Gleize-Pons, Benoît Couderc, Benjamin Berthaud
 
 Tuteur : TODO
 
@@ -206,7 +196,7 @@ fonctionnement et de déceler la faille dans la lecture de la carte NFC.
 exploiter une faille de l'API via le précédent exploit.
 Cordialement,
 
-## G13 Clément Rivola, Thibault Poncetta, Romain Malmain
+## G12 Clément Rivola, Thibault Poncetta, Romain Malmain
 
 Tuteur : TODO
 
