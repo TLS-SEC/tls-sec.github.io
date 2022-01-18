@@ -52,7 +52,6 @@ Jurés :
 
 #### Contraintes COVID
   * 6 personnes maximum par salle
-
 -->
 
 ### 02/09/2021 - salle : ENSEEIHT (à venir)
@@ -65,7 +64,7 @@ Jurés :
 |10h15|Justin Dides
 |11h00|Thibault Guillard
 |11h45|Quentin Maraval
-|14h00|Sherwin Sabras
+|14h00|Camille Garo-Sail
 |14h45|Basile Spilka-Georgeot
 |15h30|Mahé Tardy
 |16h15|Théo Vazquez
@@ -97,7 +96,7 @@ Jury2 : VM/VN
 |10h15|Clémentin Benoist
 |11h00|Louis Blenner
 |11h45|Alexandre Chatain
-|14h00|Camille Garo-Sail
+|14h00|Sherwin Sabras
 |14h45|Marius Lemistre
 |15h30|Yoann Hemon (YAA)
 |16h15|Amrir Nisrine (YAA)

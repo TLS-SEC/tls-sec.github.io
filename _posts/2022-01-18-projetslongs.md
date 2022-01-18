@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Projets longs"
+category: [2021-2022]
+---
+
+Vous trouverez ici la liste des projets longs de l'année scolaire 2020-2021
+
+# Goupes de projets longs 2021-2022
+
+## G1 Axel Grunig, Thomas Guillaud, Alexandre Briain
+
+Tuteur : TODO
+
+Challenges pour la THC
+
+### Description
+Nous souhaitons faire, pour le projet long, des challenges pour la THC. Nous
+voulons faire des challenges exploitant différentes vulnérabilités comme les
+formats de chaînes de caractères, brute forcer un mot de passe par canal
+auxiliaire (temps de vérification), des injections SQL, ...
+Nous pensons également chaîner les challenges. Ainsi, pour avancer, le
+challenger devra résoudre les challenges les uns après les autres. Les
+challenges seront disposés de façon à ce que la difficulté soit croissante.
+
+
+
+[//]: #-## Soutenances
+[//]: #-
+[//]: #-Jurés :
+[//]: #-  * EA : Éric Alata
+[//]: #-  * YAA : Yamine Aït-Ameur
+[//]: #-  * LH : Ladislas Hajnal
+[//]: #-  * VM : Vincent Migliore
+[//]: #-  * VN : Vincent Nicomette
+[//]: #-  * BM : Benoît Morgan
+[//]: #-  * CL : Cédric Lefèbvre
+[//]: #-  * RC : Romain Cayre
+[//]: #-  * JCD : Jean-Christophe Deneuville
+[//]: #-
+[//]: #-Enseignants anglais :
+[//]: #-  * EN : Emma Nelson
+[//]: #-  * SR : Stephen Ryan
+[//]: #-  * GC : Genevieve Casey
+[//]: #-
+[//]: #-### 15/03/2021
+[//]: #-
+[//]: #-## Jury 1 
+[//]: #-
+[//]: #-Zoom : [Lien Zoom](https://inp-toulouse-fr.zoom.us/j/96198551445?pwd=QU9mNE11c2RBTXE2aS9BOW55VkFKdz09)
+[//]: #-
+[//]: #-|Heure|Groupe         |Tuteur stage    |Jurés  |
+[//]: #-|-----|---------------------|----------------|-------|
+[//]: #-|9:00|G1 (Aboukora Ahmed, Bonnet Guillaume) |RC|VN, YAA, EN, RC|
+[//]: #-|9:30|G10 (Kinderf Julien, Guillard Thibault, Gabrielle Garnier)|RC|VN, YAA, EN, RC|
+[//]: #-|10:00|G8 (Michaud Aurélien, Timani Mario)| VN |VN, YAA, EN|
+[//]: #-|10:30|G11 (Alfredo Esmeralda, Doganis Dimitrios, Tarnagda Abdel)|CL|VN, YAA, EN, CL|
+[//]: #-|11:00|G15 (Javornik Alexandre, Yu Tung Jin, Bigue-Colas Remy)|VN|VN, YAA,EN|
+[//]: #-
+[//]: #-
+[//]: #-## Jury 2
+[//]: #-
+[//]: #-Zoom : [Lien Zoom](https://us02web.zoom.us/j/4275104794?pwd=N1pwV3VsTnZGTTZURmpYa1ZjWW9EZz09)
+[//]: #-
+[//]: #-|Heure|Groupe         |Tuteur stage    |Jurés  |
+[//]: #-|-----|---------------------|----------------|-------|
+[//]: #-|9:00|G2 (Tardy Mahé, Blenner Louis) |BM|EA, BM, SR|
+[//]: #-|9:30|G3 (Sabras Sherwin, Rioux Guilhem)|BM|EA, BM, SR|
+[//]: #-|10:00|G5 (Ariès Corentin, Garo-Sail Camille)| EA |EA, BM, SR|
+[//]: #-|10:30|G6 (Hemon Yoann, Lemistre Marius, Bosca Maxime)|EA|EA, BM, SR|
+[//]: #-|11:00|G12 (Pelous Thomas, Nozahic Morvan, Erpeldinger Clarisse)|BM|EA, BM, SR|
+[//]: #-
+[//]: #-
+[//]: #-## Jury 3
+[//]: #-
+[//]: #-Zoom : [Lien Zoom](https://zoom.us/j/98404054554?pwd=LzUxdTZyRDM1OTR0a3UvKzBBaUNJZz09)
+[//]: #-
+[//]: #-|Heure|Groupe         |Tuteur stage    |Jurés  |
+[//]: #-|-----|---------------------|----------------|-------|
+[//]: #-|9:00|G9 (Fache Rémi, Decourcelle Jean-Baptiste)| LH |VM, LH, GC|
+[//]: #-|9:30|G7 (Dides Justin, Settai Yassine, Santos-da-silva Tiago)|VM|VM,LH,GC|
+[//]: #-|10:00|G4 (Boulou Valentin, Thoby Simon, Vazquez Théo) |VM|VM, LH, GC|
+[//]: #-|10:30|G13 (Chatain Alexandre, Spilka-Georgeot Basile)|LH|VM, LH, GC|
+[//]: #-|11:00|G14 (Ridwane Aissaoui, Knaff Lucas, Couvert Xavier)|JCD|VM, LH, GC|
