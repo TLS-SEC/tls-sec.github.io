@@ -12,7 +12,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2020-2021
 
 Tuteur : TODO
 
-Challenges pour la THC
+Challenges THCON'22
 
 ### Description
 Nous souhaitons faire, pour le projet long, des challenges pour la THC. Nous
@@ -42,7 +42,7 @@ firewall, etc.) et fournirait en réponse un pourcentage de sécurité
 (basé sur le nombre d'attaques qui sont passées), et proposerait les
 solutions adéquates.
 
-## G3 Rémi Bossuet, Arthur Zappa
+## G3 Rémi Bossuet, Arthur Zappa, Thomas Rollain
 
 Tuteur : TODO
 
@@ -72,6 +72,169 @@ d'exemples. Le but est notamment d'évaluer la facilité d'utiliser des techniqu
 malveillantes (keyloggers, screenshots, collecte d'informations personnelles...)
 une fois un tel add-on installé.
 
+## G5 Dany Lau, Julien Le Page
+
+Tuteur : TODO
+
+Protection et Résilience aux attaques DDOS
+
+### Description
+
+Protection et Résilience aux attaques DDOS (Nous ferions dans un premier temps
+une description des attaques DDOS puis un état des lieux sur les méthodes
+utilisées par les grandes entreprises pour protéger de ce type d’attaque
+afin de faire la différence entre du flux malveillant et du flux légitime à
+l’air du tout internet. Nous souhaiterions ensuite mettre en place des tests
+afin de classifier ces différentes méthodes de protection. Enfin, nous
+aimerions mettre en place une partie sur la résilience à ce type d’attaque
+abordant par exemple le FORENSIC, la reprise d’activités, etc..) 
+
+Sujet alternatif: Etude de la vulnérabilité Log4Shell (Présentation Historique,
+Impact de l’attaque, Explications de la vulnérabilité, Mise en place,
+Contremesures/Protection)
+
+## G6 Mathieu Dechambe
+
+Tuteur : TODO
+
+Développement du challenge SSTIC 2022
+
+### Description
+
+Edition 2021 : https://sstic.org/2021/challenge/
+
+## G7 Gautier Ben aim, Alexis Carn
+
+Tuteur : TODO
+
+Challenges THCON'22
+
+### Description
+
+Conception et développement de challenges pour le CTF de la THCon.
+
+## G8 Rémy Laroudie, Grégoire Podda, Antony Dalmiere
+
+Tuteur : TODO
+
+Challenges THCON'22
+
+### Description
+
+Le sujet est un CTF à faire pour la THCOn, qui sera de niveau débutant
+centré sur l'utilisation de metasploit.
+
+## G9 Clément Chaine, Gabin Noblet, Béranger Quintana
+
+Tuteur : TODO
+
+Sécurité de systèmes d'exploitation temps réel embarqués
+
+### Description
+
+Nous avons trouvé plusieurs candidats d'OS open-source où nous souhaiterions
+trouver des vulnérabilités (mauvaise isolation des tâches, escalade de
+privilèges, execution de code arbitraire, ...).
+
+Dans l'ordre:
+
+1. Prex
+Un micro-noyau avec une surcouche POSIX permettant de faire tourner des tâches temps-réel à coté de tâches UNIX.
+On peut l'émuler sur QEMU, pour des processeurs 32-bits ARM et x86.
+
+2. ChibiOS
+Un OS temps réel notamment utilisé sur des drônes. Il y a une certaine volonté de sécurité sur la mémoire.
+On peut l'émuler sur QEMU ou l'utiliser sur un STM32. Compatible 32-bits ARM7, x86 et ARM Cortex-M3.
+
+3. AdAstra
+OS orienté embarqué (STM32) sans mention de sécurité sur leur site.
+
+## G10 Johan Tirard, Charly Lezzani, Julien Le Page
+
+Tuteur : TODO
+
+Mise en place d’une attaque DoS
+
+### Description
+
+TODO
+
+## G11 Johan Tirard, Charly Lezzani, Jean-Christophe Wahl
+
+Tuteur : TODO
+
+Challenges de reverse engineering pour la THCon'22
+
+### Description
+
+Créer un ou plusieurs CrackMe en C qui serviront de challenge pour la THCon.
+
+
+## G12 lexandre Gleize-Pons, Benoît Couderc, Benjamin Berthaud
+
+Tuteur : TODO
+
+Challenge NFC pour la THCon'22
+
+### Description
+
+Support fourni :
+- une carte NFC réinscriptible
+- une application sous format APK
+
+Matériel nécessaire :
+- un smartphone Android (mode debugger activé) + connectivité internet
+- un ordinateur avec decompiler
+Infrastructure :
+- Database (serveur SQL) + API
+
+Détails du challenge :
+
+- L'utilisation nominale de l'application consiste à lire un
+identifiant contenu sur une carte NFC puis récupérer les données
+associées à cet identifiant sur la DB à l'aide de l'API et les afficher
+à l'utilisateur.
+
+- L'objectif du hacker est d'écrire des données malveillantes sur la
+carte NFC pour modifier la DB à l'aide de vulnérabilités présentes dans
+l'application et dans l'API.
+
+- Il faudra donc reverse l'application afin de comprendre son
+fonctionnement et de déceler la faille dans la lecture de la carte NFC.
+
+- L'objectif étant de modifier la base de données, il faudra alors
+exploiter une faille de l'API via le précédent exploit.
+Cordialement,
+
+## G13 Clément Rivola, Thibault Poncetta, Romain Malmain
+
+Tuteur : TODO
+
+Fonction de sécurité pour un Hyperviseur et un OS pour ARM en Rust.
+
+### Description
+
+Pour l'OS:
+
+* Architecture type micro-kernel
+* Memory Management (Sûrement un buddy allocator avec un sl{a,u,o}b allocator par dessus, un peu comme pour linux
+* Driver MicroSD + FileSystem (sûrement quelque chose comme ext2)
+* Process (syscalls notamment)
+* Scheduler
+* Une forme d'IPC
+* Parser ELF
+* ASLR (une source d'aléat sera donc nécessaire)
+* Des syscalls qui permettent à l'utilisateur de faire de la sécurité (par exemple un syscall pour filtrer les syscalls, un truc proche de l'idée de Seccomp)
+* Un système simple de DAC ou MAC
+* Optionellement une pile réseau avec un petit firewell (il faudra donc un driver simple pour la carte réseau)
+
+Pour l'Hyperviseur:
+
+* Hyperviseur de type 1
+* On ne sait pas encore si ça sera de la para-virtualisation ou pas
+* Un antivirus simple pour protéger le kernel (détecter des signatures dangereuses par exemple)
+* Avoir divers sanity checks (par exemple pour les tables de page du kernel)
+* Implémenter des contre-mesures simples pour protéger le noyau de certains rootkit, sans aller trop loin
 
 
 [//]: #-## Soutenances
