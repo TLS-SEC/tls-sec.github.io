@@ -24,6 +24,55 @@ challenger devra résoudre les challenges les uns après les autres. Les
 challenges seront disposés de façon à ce que la difficulté soit croissante.
 
 
+## G2 Maud Pennetier, Elies Tali, Damien Molina
+
+Tuteur : TODO
+
+Développer un outil permettant d'analyser la sécurité d'un réseau et de proposer
+des solutions aux vulnérabilités trouvées.
+
+### Description
+
+Notre outil comporterait plusieurs modes de fonctionnement :
+- interne : on analyse le réseau depuis son intérieur (du point de vue du poste d'un employé par exemple)
+- externe : on analyse le réseau depuis l'extérieur, en passant par les potentiels firewalls, etc.
+
+Notre outil simulerait des attaques (DoS, contournement de règles
+firewall, etc.) et fournirait en réponse un pourcentage de sécurité
+(basé sur le nombre d'attaques qui sont passées), et proposerait les
+solutions adéquates.
+
+## G3 Rémi Bossuet, Arthur Zappa
+
+Tuteur : TODO
+
+Tests de pénétration IoT
+
+### Description
+
+Dans le cadre du projet long, nous souhaitons choisir un sujet qui pourrait nous
+permettre de toucher un peu à tout dans le domaine de la sécurité offensive.
+C’est pourquoi nous souhaitons mener des tests de pénétration sur un objet
+connecté. Ces derniers offrent l’avantage d’avoir des prix accessibles et
+d’avoir une sécurité relative. Les IoT sont également livrés avec une
+application, ce qui pourrait nous permettre de toucher également à la sécurité
+WEB / applicative.
+
+## G4 Naoufel Benyahia, Justin Rossmann
+
+Tuteur : TODO
+
+Étude de add-ons malveillants de programmes
+
+### Description
+
+Étude de add-ons malveillants de programmes (extensions de navigateurs, mods de
+jeux, packs d'extensions de programme...), avec potentiellement la création
+d'exemples. Le but est notamment d'évaluer la facilité d'utiliser des techniques
+malveillantes (keyloggers, screenshots, collecte d'informations personnelles...)
+une fois un tel add-on installé.
+
+
 
 [//]: #-## Soutenances
 [//]: #-
