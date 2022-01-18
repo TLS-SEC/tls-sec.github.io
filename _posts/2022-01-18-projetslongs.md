@@ -226,6 +226,16 @@ Pour l'Hyperviseur:
 * Avoir divers sanity checks (par exemple pour les tables de page du kernel)
 * Implémenter des contre-mesures simples pour protéger le noyau de certains rootkit, sans aller trop loin
 
+## G13 Baptiste Urben, Jean-Christophe Sanchez
+
+Tuteur : TODO
+
+Développement d'un vers
+
+### Description
+
+L'objectif étant de s'intéresser à la partie propagation, autonomie,
+non-détection plutôt qu'à la partie charge virale.
 
 [//]: #-## Soutenances
 [//]: #-
