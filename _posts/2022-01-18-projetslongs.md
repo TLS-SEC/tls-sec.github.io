@@ -6,11 +6,23 @@ category: [2021-2022]
 
 Vous trouverez ici la liste des projets longs de l'année scolaire 2020-2021
 
+Acronymes des encadrants :
+
+- JF:  Julien Fasson
+- JCD: Jean-Christophe Deneuville
+- PHQ: PHilippe Queinnec
+- EA:  Eric Alata
+- VN:  Vincent Nicomette
+- VM:  Vincent Migliore
+- Lad: Ladislas Hajnal
+- BM:  Benoit Morgan
+- SBD: SomeBoDy
+
 # Goupes de projets longs 2021-2022
 
 ## G1 Axel Grunig, Thomas Guillaud, Alexandre Briain
 
-Tuteur : TODO
+Tuteur : BM
 
 Challenges THCON'22
 
@@ -26,7 +38,7 @@ challenges seront disposés de façon à ce que la difficulté soit croissante.
 
 ## G2 Maud Pennetier, Elies Tali, Damien Molina
 
-Tuteur : TODO
+Tuteur : VN
 
 Développer un outil permettant d'analyser la sécurité d'un réseau et de proposer
 des solutions aux vulnérabilités trouvées.
@@ -44,7 +56,7 @@ solutions adéquates.
 
 ## G3 Rémi Bossuet, Arthur Zappa, Thomas Rollain
 
-Tuteur : TODO
+Tuteur : JF
 
 Tests de pénétration IoT
 
@@ -60,7 +72,7 @@ WEB / applicative.
 
 ## G4 Naoufel Benyahia, Justin Rossmann
 
-Tuteur : TODO
+Tuteur : PHQ
 
 Étude de add-ons malveillants de programmes
 
@@ -74,7 +86,7 @@ une fois un tel add-on installé.
 
 ## G5 Dany Lau, Julien Le Page
 
-Tuteur : TODO
+Tuteur : JCD
 
 Protection et Résilience aux attaques DDOS
 
@@ -95,7 +107,7 @@ Contremesures/Protection)
 
 ## G6 Mathieu Dechambe
 
-Tuteur : TODO
+Tuteur : SBD
 
 Développement du challenge SSTIC 2022
 
@@ -105,7 +117,7 @@ Edition 2021 : https://sstic.org/2021/challenge/
 
 ## G7 Gautier Ben aim, Alexis Carn
 
-Tuteur : TODO
+Tuteur : BM
 
 Challenges THCON'22
 
@@ -115,7 +127,7 @@ Conception et développement de challenges pour le CTF de la THCon.
 
 ## G8 Rémy Laroudie, Grégoire Podda, Antony Dalmiere
 
-Tuteur : TODO
+Tuteur : Lad
 
 Challenges THCON'22
 
@@ -126,7 +138,7 @@ centré sur l'utilisation de metasploit.
 
 ## G9 Clément Chaine, Gabin Noblet, Béranger Quintana
 
-Tuteur : TODO
+Tuteur : VN
 
 Sécurité de systèmes d'exploitation temps réel embarqués
 
@@ -151,7 +163,7 @@ OS orienté embarqué (STM32) sans mention de sécurité sur leur site.
 
 ## G10 Johan Tirard, Charly Lezzani, Jean-Christophe Wahl
 
-Tuteur : TODO
+Tuteur : BM
 
 Challenges de reverse engineering pour la THCon'22
 
@@ -162,7 +174,7 @@ Créer un ou plusieurs CrackMe en C qui serviront de challenge pour la THCon.
 
 ## G11 lexandre Gleize-Pons, Benoît Couderc, Benjamin Berthaud
 
-Tuteur : TODO
+Tuteur : VM
 
 Challenge NFC pour la THCon'22
 
@@ -198,7 +210,7 @@ Cordialement,
 
 ## G12 Clément Rivola, Thibault Poncetta, Romain Malmain
 
-Tuteur : TODO
+Tuteur : PHQ
 
 Fonction de sécurité pour un Hyperviseur et un OS pour ARM en Rust.
 
@@ -228,7 +240,7 @@ Pour l'Hyperviseur:
 
 ## G13 Baptiste Urben, Jean-Christophe Sanchez
 
-Tuteur : TODO
+Tuteur : EA
 
 Développement d'un vers
 
