@@ -263,38 +263,38 @@ Jurés :
   * JCD : Jean-Christophe Deneuville
 
  Enseignants anglais :
-  * EN : Emma Nelson
+  * BH : Ben Hanson
   * SR : Stephen Ryan
-  * GC : Genevieve Casey
+  * SM : Sean MacArdle
   
 ### 14/03/2022
 
-## Jury 1 
+## Jury 1 : Salle C002
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
-|13:30|G1 |BM|BM, VM|
-|14:00|G16|RR|BM, VM, RR|
-|14:30|G7| BM |BM, VM|
-|15:00|G10 |BM|BM|
+|13:30|G1 |BM|BM, VM, BH|
+|14:00|G16|RR|BM, VM, RR, BH|
+|14:30|G7| BM |BM, VM, BH|
+|15:00|G10 |BM|BM, BH|
 
-## Jury 2
+## Jury 2 : Salle A201
 
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
-|13:30|G8  |LAD|VN, LAD|
-|14:00|G2 |VN|VN, LAD|
-|14:30|G9 | VN |VN, LAD|
-|15:00|G11 |VM|VN, VM|
+|13:30|G8  |LAD|VN, LAD, SM|
+|14:00|G2 |VN|VN, LAD, SM|
+|14:30|G9 | VN |VN, LAD, SM|
+|15:00|G11 |VM|VN, VM, SM|
 
 
-## Jury 3
+## Jury 3 : Salle A302
 
 |Heure|Groupe         |Tuteur stage    |Jurés  |
 |-----|---------------------|----------------|-------|
-|13:30|G3 | JF |PHQ, JF|
-|14:00|G4 |PHQ|PHQ, JF|
-|14:30|G12 |PHQ|PHQ,JF|
-|15:00|G13 |EA|PHQ, JF, EA|
-|15:30|G5 |JCD | PHQ, JF, JCD|
+|13:30|G3 | JF |PHQ, JF, SR|
+|14:00|G4 |PHQ|PHQ, JF, SR|
+|14:30|G12 |PHQ|PHQ,JF, SR|
+|15:00|G13 |EA|PHQ, JF, EA, SR|
+|15:30|G5 |JCD | PHQ, JF, JCD, SR|
