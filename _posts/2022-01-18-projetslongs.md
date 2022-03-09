@@ -300,5 +300,4 @@ Jurés :
 |15:30|G5 |JCD | PHQ, JF, JCD, SR|
 
 ## Version pdf : 
-![Planning PL 2022](Planning_soutenance_PL_TLS_SEC_2022v2.pdf){width=65%}
-
+![Planning PL 2022](Planning_soutenance_PL_TLS_SEC_2022v2.pdf)
