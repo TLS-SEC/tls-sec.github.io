@@ -298,3 +298,5 @@ Jurés :
 |14:30|G12 |PHQ|PHQ,JF, SR|
 |15:00|G13 |EA|PHQ, JF, EA, SR|
 |15:30|G5 |JCD | PHQ, JF, JCD, SR|
+
+## Version pdf : ![Alt](planningPL_2022.pdf)
