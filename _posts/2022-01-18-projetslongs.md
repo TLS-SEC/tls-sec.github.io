@@ -300,4 +300,4 @@ Jurés :
 |15:30|G5 |JCD | PHQ, JF, JCD, SR|
 
 ## Version pdf : 
-![Planning PL 2022](Planning_soutenance_PL_TLS_SEC_2022v2.pdf)
+[Planning PL 2022](https://github.com/TLS-SEC/tls-sec.github.io/edit/master/_posts/Planning_soutenance_PL_TLS_SEC_2022v2.pdf)
