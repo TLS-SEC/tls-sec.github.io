@@ -4,11 +4,10 @@ Pour toute information complémentaire contactez les responsables des écoles
 partenaires :
 
 * ENSEEIHT : *prenom.nom@enseeiht.fr*
-  * Yamine Aït-Ameur
-  * Benoît Morgan
+  * Philippe Queinnec
+  * Julien Fasson
 * INSA : *prenom.nom@insa-toulouse.fr*
   * Vincent Nicomette
-  * Éric Alata
 
 ### Diplômes
 
