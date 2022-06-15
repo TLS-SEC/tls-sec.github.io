@@ -30,6 +30,6 @@ Cette voie est uniquement ouverte aux apprentis des écoles partenaires. Elle pe
 
 #### Autres étudiants (professionnels inclus)
 
-Tout autre étudiant (venant d'une université, ayant déjà obtenu son diplôme d'ingénieur, venant d'une entreprise), qu'il relève de la formation continue ou initiale, devra avoir un niveau BAC+5 (ou BAC+4 justifiant de trois années d'expérience professionnelle). Il pourra obtenir un Mastère Spécialisé (BAC+6) en suivant les cours d'ingénieur plus environ une centaine d'heures d'enseignement.
+Tout autre étudiant (venant d'une université, ayant déjà obtenu son diplôme d'ingénieur, venant d'une entreprise), qu'il relève de la formation continue ou initiale, doit avoir un niveau BAC+5, ou BAC+4 et au moins trois années d'expérience professionnelle en milieu industriel. Il pourra obtenir un Mastère Spécialisé (BAC+6) en suivant les cours d'ingénieur plus environ une cinquantaine d'heures d'enseignement.
 
 Les frais d'inscription au Mastère Spécialisé sont spécifiés dans la plaquette du mastère spécialisé. Les apprentis diplômés par l'une des écoles d'ingénieurs partenaires l'année de leur candidature à TLS-SEC, peuvent prétendre aux frais d'inscription de la formation initiale (au cas par cas).
