@@ -4,7 +4,7 @@ title: "Projets longs"
 category: [2021-2022]
 ---
 
-Vous trouverez ici la liste des projets longs de l'année scolaire 2020-2021
+Vous trouverez ici la liste des projets longs de l'année scolaire 2021-2022.
 
 Acronymes des encadrants :
 
