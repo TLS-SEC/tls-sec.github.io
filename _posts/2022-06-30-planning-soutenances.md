@@ -25,6 +25,8 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 ### Lundi 05/09/2022 - salle : INSA à préciser
 
+Jury : Julien Fasson, Philippe Queinnec, Yamine Aït-Ameur (l'après-midi), tuteurs entreprise
+
 | Heure | Étudiant | Tuteur N7 | 
 | ----- | -------- | --------- | 
 | 09h30 | Podda Grégoire | Julien Fasson
@@ -40,6 +42,8 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 | 12h30 | fin 
 
 ### Lundi 05/09/2022 - salle : INSA à préciser
+
+Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
@@ -57,6 +61,8 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 ### Lundi 05/09/2022 - salle : INSA à préciser
 
+Jury : Ladilas Hajnal, ...
+
 | Heure | Étudiant | Tuteur ENAC | 
 | ----- | -------- | ----------- | 
 08h45 | Benyahia Naoufel |
@@ -67,6 +73,8 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 12h30 | fin
 
 ### Mardi 06/09/2022 - salle : INSA à préciser
+
+Jury : Julien Fasson, Philippe Queinnec, Benoît Morgan (le matin), tuteurs entreprise
 
 | Heure | Étudiant | Tuteur N7 | 
 | ----- | -------- | --------- | 
@@ -85,6 +93,8 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 ### Mardi 06/09/2022 - salle : INSA à préciser
 
+Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
+
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
 09h30 | Dechambe Mathieu | E. Alata
@@ -100,6 +110,8 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 ###  Mercredi 07/09/2022 - salle : INSA à préciser
 
+Jury : Julien Fasson, Philippe Queinnec, Yamine Ait Ameur, tuteurs entreprise
+
 | Heure | Étudiant | Tuteur N7 | 
 | ----- | -------- | --------- | 
 08h45 | Fauré Jean-Noël | Philippe Queinnec
@@ -110,6 +122,8 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 12h30 | fin |
 
 ###  Mercredi 07/09/2022 - salle : INSA à préciser
+
+Jury : V. Nicomette, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
