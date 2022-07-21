@@ -57,7 +57,8 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 14h45 | Quintana Y Arciosana Beranger | V. Nicomette
 15h30 | Bah Thierno Amadou | V. Nicomette
 16h15 | Molina Damien | V. Nicomette
-17h00 | fin
+17h00 | Gabin Noblet | C. Chassot
+17h45 | fin
 
 ### Lundi 05/09/2022 - salle : INSA à préciser
 
@@ -98,7 +99,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
 09h30 | Dechambe Mathieu | E. Alata
-10h15 | Noblet Gabin | C. Chassot
+10h15 | Rien | Rien
 11h00 | Lau Dany | P. Acco
 11h45 | Tali Elies | E. Sicard
 12h30 | fin |
