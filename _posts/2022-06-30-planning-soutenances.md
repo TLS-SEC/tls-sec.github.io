@@ -62,7 +62,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 ### Lundi 05/09/2022 - salle : INSA GEI/215
 
-Jury : Ladilas Hajnal, ...
+Jury : Ladilas Hajnal, Jean-Christophe Deneuville, ...
 
 | Heure | Étudiant | Tuteur ENAC | 
 | ----- | -------- | ----------- | 
