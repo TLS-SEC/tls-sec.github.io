@@ -23,7 +23,7 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 # Planning des soutenances
 
-### Lundi 05/09/2022 - salle : INSA à préciser
+### Lundi 05/09/2022 - salle : INSA GEI/15
 
 Jury : Julien Fasson, Philippe Queinnec, Yamine Aït-Ameur (l'après-midi), tuteurs entreprise
 
@@ -41,7 +41,7 @@ Jury : Julien Fasson, Philippe Queinnec, Yamine Aït-Ameur (l'après-midi), tute
 | 16h15 | Bossuet Rémi | Julien Fasson
 | 12h30 | fin 
 
-### Lundi 05/09/2022 - salle : INSA à préciser
+### Lundi 05/09/2022 - salle : INSA GEI/13
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
@@ -60,7 +60,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 17h00 | Gabin Noblet | C. Chassot
 17h45 | fin
 
-### Lundi 05/09/2022 - salle : INSA à préciser
+### Lundi 05/09/2022 - salle : INSA GEI/ENAC
 
 Jury : Ladilas Hajnal, ...
 
@@ -73,7 +73,7 @@ Jury : Ladilas Hajnal, ...
 11h45 | Rossmann Justin |
 12h30 | fin
 
-### Mardi 06/09/2022 - salle : INSA à préciser
+### Mardi 06/09/2022 - salle : INSA GEI/15
 
 Jury : Julien Fasson, Philippe Queinnec, Benoît Morgan (le matin), tuteurs entreprise
 
@@ -92,7 +92,7 @@ Jury : Julien Fasson, Philippe Queinnec, Benoît Morgan (le matin), tuteurs entr
 17h00 | Wahl Jean-Christophe | Marc Pantel
 17h45 | fin |
 
-### Mardi 06/09/2022 - salle : INSA à préciser
+### Mardi 06/09/2022 - salle : INSA GEI/13
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
@@ -109,7 +109,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 15h30 | Urben Baptiste | F. Vernadat
 16h15 | fin |
 
-###  Mercredi 07/09/2022 - salle : INSA à préciser
+###  Mercredi 07/09/2022 - salle : INSA GEI/17
 
 Jury : Julien Fasson, Philippe Queinnec, Yamine Ait Ameur, tuteurs entreprise
 
@@ -122,7 +122,7 @@ Jury : Julien Fasson, Philippe Queinnec, Yamine Ait Ameur, tuteurs entreprise
 11h45 | Oddoux Nicolas | Julien Fasson
 12h30 | fin |
 
-###  Mercredi 07/09/2022 - salle : INSA à préciser
+###  Mercredi 07/09/2022 - salle : INSA GEI/13
 
 Jury : V. Nicomette, tuteurs entreprise
 
