@@ -60,7 +60,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 17h00 | Gabin Noblet | C. Chassot
 17h45 | fin
 
-### Lundi 05/09/2022 - salle : INSA GEI/ENAC
+### Lundi 05/09/2022 - salle : INSA GEI/215
 
 Jury : Ladilas Hajnal, ...
 
