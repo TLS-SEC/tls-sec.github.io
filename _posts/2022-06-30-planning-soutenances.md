@@ -39,7 +39,7 @@ Jury : Julien Fasson, Philippe Queinnec, Yamine Aït-Ameur (l'après-midi), tute
 | 14h45 | Carn Alexis | Yamine Ait Ameur
 | 15h30 | Rivola Clément | Julien Fasson
 | 16h15 | Bossuet Rémi | Julien Fasson
-| 12h30 | fin 
+| 17h00 | fin 
 
 ### Lundi 05/09/2022 - salle : INSA GEI/13
 
@@ -111,16 +111,18 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 ###  Mercredi 07/09/2022 - salle : INSA GEI/17
 
-Jury : Julien Fasson, Philippe Queinnec, Yamine Ait Ameur, tuteurs entreprise
+Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur N7 | 
 | ----- | -------- | --------- | 
-08h45 | Fauré Jean-Noël | Philippe Queinnec
-09h30 | Benamrouche Bilal | Yamine Ait Ameur
+09h30 | Fauré Jean-Noël | Philippe Queinnec
 10h15 | De Chaisemartin Pierre | Julien Fasson
 11h00 | Lhiaubet Pierre-Henri | Julien Fasson
 11h45 | Oddoux Nicolas | Julien Fasson
 12h30 | fin |
+
+Benamrouche Bilal : semaine du 19/09
+
 
 ###  Mercredi 07/09/2022 - salle : INSA GEI/13
 
