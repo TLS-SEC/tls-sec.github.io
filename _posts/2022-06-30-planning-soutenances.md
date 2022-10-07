@@ -121,7 +121,7 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 11h45 | Oddoux Nicolas | Julien Fasson
 12h30 | fin |
 
-Benamrouche Bilal : semaine du 19/09
+Benamrouche Bilal : 21/09 à 11h.
 
 
 ###  Mercredi 07/09/2022 - salle : INSA GEI/13
