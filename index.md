@@ -16,6 +16,6 @@ Les enseignements de TLS-SEC, complétés par 50 h d'enseignements d'approfondis
 
 ### Ressources
 
-Voici le [syllabus](https://github.com/TLS-SEC/tls-sec.github.io/blob/master/documents/Syllabus_TLS_SEC.pdf) décrivant le contenu de la formation cursus ingénieur (ENAC, ENSEEIHT, INSA).
-Voici le [syllabus](https://github.com/TLS-SEC/tls-sec.github.io/blob/master/documents/Syllabus_MS_securite_Informatique.pdf) décrivant le contenu de la formation cursus mastère spécialisé.
+Voici le [syllabus](documents/Syllabus_TLS_SEC.pdf) décrivant le contenu de la formation cursus ingénieur (ENAC, ENSEEIHT, INSA).
+Voici le [syllabus](documents/Syllabus_MS_securite_Informatique.pdf) décrivant le contenu de la formation cursus mastère spécialisé.
 Si vous voulez vous préparer avant la rentrée à la formation ou approfondir vos connaissances en sécurité, voici une liste de [ressources proposées par les enseignants](lectures_recommandees.md) et [par les étudiants](documents/Ressources-TLS-SEC.pdf). En honneur à la flemme d'un ancien étudiant dont on taira le nom, voici aussi un [tableau avec des liens](liens.md).
