@@ -256,6 +256,42 @@ Tuteur : Éric Alata
   d’abord nous intéresser aux différentes manières de l’infiltrer, à quel
   but ? (sa charge finale) et pour finir, que faire pour s’en protéger.
 
+## G10 Adrien BARBANSON, Rémy BRÉVART
+
+Tuteur : à venir
+
+**Réalisation d’une série de challenges pour la THCon basés sur la technologie Blockchain ainsi que d’autres sur la sécurité des contrats intelligents du web 3.0 (Ethereum/Solidity).**
+
+
+### Description
+
+- Contexte: Ethereum, créé en juillet 2015, est aujourd’hui la 1ère
+  Blockchain à contrat intelligent au monde. Les contrats intelligents sont
+  de nouveaux types de programmes qui sont directement stockés et exécutés
+  dans la Blockchain pour fournir de nouveaux services aux utilisateurs
+  (comme la finance décentralisée, DeFi). Ces programmes utilisent un
+  langage Turing Complet : Solidity. De par la nature immuable de la
+  blockchain, tout programme déployé ne peut plus être mis facilement à jour
+  et toutes les exécutions réalisées sont irréversibles. Beaucoup de
+  programmeurs ne codent pas de manière sécurisée et/ou n’ont pas compris
+  des concepts importants du langage / particularités. Ces derniers laissent
+  des failles de sécurité exploitables par n’importe quel utilisateur de la
+  Blockchain. Par exemple en 2022, nous avons pu assister aux hack de
+  WormHole (326 millions de $ siphonnés), ou encore de sécurité dans le
+  bridge Nomad (100 Millions volés). Nous souhaitons donc aider à
+  sensibiliser le public de la THC à ces problématiques.
+- Contenu:
+  Le projet consistera à mettre en place plusieurs challenges centrés autour des
+technologies de la blockchain, comme par exemple:
+   * Un ou plusieurs challenges visant à manipuler les concepts fondamentaux de
+        la blockchain, comme sa structure ou le minage de nouveaux blocs
+   * Plusieurs challenges basés sur des smart-contracts comportant des
+     vulnérabilités avec l’exploitation de ces dernières.
+     
+   Le projet inclura la mise en place de l’infrastructure permettant
+     l’exécution des challenges (conteneurisation, backend, contrats, tests,
+     …).
+
 <!--
 ## Gx
 
