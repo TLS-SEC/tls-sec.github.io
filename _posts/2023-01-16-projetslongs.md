@@ -317,6 +317,34 @@ Tuteur : à venir
   question, le classement de l'équipe et le classement intra- équipe comme
   s'ils participaient à une compétition de CTF.
 
+## G12 Alexandre GONCALVES, Orlaine LEKANE, Morgan YAKHELEF
+
+Tuteur : à venir
+
+**Analyse de la sécurité du protocole Bluetooth Low Energy: Etude de cas d’un cadenas connecté.**
+
+### Description
+
+- Contexte : L’Internet des Objets est en plein essor, avec toujours plus de
+  systèmes connectés, malheureusement peu ou pas sécurisés pour la plupart.
+  De fait, les analystes sécurité sont de plus en plus mis à contribution
+  afin d’évaluer la sécurité de ces systèmes et de leurs environnements, qui
+  implique à la fois la sécurité des systèmes d’information, la sécurité des
+  applications et bien sûr la sécurité matérielle.
+
+  Le Bluetooth Low Energy est choisi de manière croissante pour l’IoT. Cette
+  technologie s’impose de plus en plus parce qu'elle est idéale pour envoyer
+  de petites quantités de données entre appareils et pour préserver la
+  batterie ; ce qui correspond parfaitement aux besoins de l’IoT.
+- Sujet : Dans un premier temps, nous allons explorer les différentes
+  vulnérabilités qui existent sur les protocoles de communications non
+  filaires dans l’IOT, en particulier sur le protocole Bluetooth Low Energy.
+     
+  Ensuite, nous allons effectuer une série d’attaques sur un cadenas
+  connecté utilisant ce protocole de communication, dans le but de trouver
+  des vulnérabilités exploitables et de détourner le cadenas de son
+  utilisation initiale.
+
 <!--
 ## Gx
 
