@@ -38,7 +38,7 @@ accessible des ordinateurs au public et donc à des potentiels attaquants.**
      dépendante des réponses des magasins. A ce jour, nous avons seulement
      contacté la Fnac qui ne nous a pas répondu.
 
-## G2  Louis LOLIVE, Jules BOYER
+## G2 Louis LOLIVE, Jules BOYER
 
 Tuteur : à venir
 
@@ -292,32 +292,7 @@ technologies de la blockchain, comme par exemple:
      l’exécution des challenges (conteneurisation, backend, contrats, tests,
      …).
 
-## G11 Zhang Qiuya
-
-Tuteur : à venir
-
-**Création d'une petite plateforme de compétition pour CTF**
-
-### Description
-- Contexte : CTF (Capture The Flag) a vu le jour en 1996 lors de la
-  conférence mondiale de piratage DEFCON. Il s'agit d'un jeu compétitif
-  entre passionnés de cybersécurité. La compétition CTF est toujours axée
-  sur l'attaque de sites Web, le Reverse Engineering, le Pwn Binary Exploit,
-  la cryptographie, la sécurité mobile et la sécurité diverse. De plus en
-  plus, les entreprises de cybersécurité souhaitent que leurs candidats
-  aient une expérience de CTF. Mais la plupart des étudiants n'ont jamais
-  été exposés au concours de la FFC auparavant. Ils ne comprennent pas le
-  format des compétitions de CTF. Et ils ne peuvent pas participer
-  directement aux compétitions de la CTF pour acquérir de l'expérience.
-- Objectif : Pour aider les gens à simuler la participation à des
-  compétitions CTF, je veux créer une mini plateforme de compétition pour
-  CTF. Cette plateforme contient le même type de questions que CTF. Les
-  personnes s'inscrivent pour participer en tant qu'équipe, répondent à des
-  questions sur la plateforme et peuvent consulter le classement pour chaque
-  question, le classement de l'équipe et le classement intra- équipe comme
-  s'ils participaient à une compétition de CTF.
-
-## G12 Alexandre GONCALVES, Orlaine LEKANE, Morgan YAKHELEF
+## G11 Alexandre GONCALVES, Orlaine LEKANE, Morgan YAKHELEF
 
 Tuteur : à venir
 
@@ -345,7 +320,7 @@ Tuteur : à venir
   des vulnérabilités exploitables et de détourner le cadenas de son
   utilisation initiale.
 
-## G13 Eldar ADJEBA, Enzo PETIT, Julien WUSZKO
+## G12 Eldar ADJEBA, Enzo PETIT, Julien WUSZKO
 
 Tuteur : à venir
 
@@ -369,6 +344,31 @@ Tuteur : à venir
   réaliser des versions nous même (via du matériel Arduino par exemple).
   Nous essaierons également d’observer les mécanismes actuels mis en œuvre
   en défense pour lutter contre ce type d’attaque.
+
+## G13 ZHANG Qiuya
+
+Tuteur : à venir
+
+**Création d'une petite plateforme de compétition pour CTF**
+
+### Description
+- Contexte : CTF (Capture The Flag) a vu le jour en 1996 lors de la
+  conférence mondiale de piratage DEFCON. Il s'agit d'un jeu compétitif
+  entre passionnés de cybersécurité. La compétition CTF est toujours axée
+  sur l'attaque de sites Web, le Reverse Engineering, le Pwn Binary Exploit,
+  la cryptographie, la sécurité mobile et la sécurité diverse. De plus en
+  plus, les entreprises de cybersécurité souhaitent que leurs candidats
+  aient une expérience de CTF. Mais la plupart des étudiants n'ont jamais
+  été exposés au concours de la FFC auparavant. Ils ne comprennent pas le
+  format des compétitions de CTF. Et ils ne peuvent pas participer
+  directement aux compétitions de la CTF pour acquérir de l'expérience.
+- Objectif : Pour aider les gens à simuler la participation à des
+  compétitions CTF, je veux créer une mini plateforme de compétition pour
+  CTF. Cette plateforme contient le même type de questions que CTF. Les
+  personnes s'inscrivent pour participer en tant qu'équipe, répondent à des
+  questions sur la plateforme et peuvent consulter le classement pour chaque
+  question, le classement de l'équipe et le classement intra- équipe comme
+  s'ils participaient à une compétition de CTF.
 
 <!--
 ## Gx
@@ -398,8 +398,9 @@ Jurés :
 
 |Heure| Groupe | Tuteur | Jurés  |
 |-----|--------|--------|--------|
-|14:00|Gx | | |
-|14:35|Gx | | |
-|15:10|Gx | | |
-|15:45|Gx | | |
+|13:30|Gx | | |
+|14:05|Gx | | |
+|14:40|Gx | | |
+|15:15|Gx | | |
+|15:50|délibération| | |
 
