@@ -345,6 +345,31 @@ Tuteur : à venir
   des vulnérabilités exploitables et de détourner le cadenas de son
   utilisation initiale.
 
+## G13 Eldar ADJEBA, Enzo PETIT, Julien WUSZKO
+
+Tuteur : à venir
+
+**Analyse des vulnérabilités liées aux périphériques d’un système informatique**
+
+### Description
+
+- Contexte : Une grande partie du monde possède un appareil informatique
+  mobile, que ce soit un smartphone ou un ordinateur portable utilisé en
+  nomadisme. Ces objets présentent de nombreux ports (USB, Ethernet, Jack,
+  PS/2, SD, HDMI, …) qui peuvent être utilisés par un périphérique. Ceux-ci
+  sont en général peu protégés et susceptibles d’être attaqués par un
+  individu malveillant.
+- Réalisation : Dans le cadre de ce projet, nous souhaiterions analyser les
+  vecteurs d’attaques, et leur mitigation, liés au périphériques d’un objet
+  numérique. Une liste non exhaustive comporte : exécution de code/commandes
+  arbitraire, exfiltration de mot de passe, bruteforce du mot de passe pour
+  déverrouiller l’appareil, installation de portes dérobées et de virus,
+  etc… En nous basant sur des projets existants (par ex: Rubber Ducky,
+  PoisonTap, …), nous tenterons de comprendre leur fonctionnement, d’en
+  réaliser des versions nous même (via du matériel Arduino par exemple).
+  Nous essaierons également d’observer les mécanismes actuels mis en œuvre
+  en défense pour lutter contre ce type d’attaque.
+
 <!--
 ## Gx
 
