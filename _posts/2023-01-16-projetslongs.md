@@ -135,7 +135,7 @@ Tuteur : à venir
 
 ## G5 Viktor Adrian MOUTON, Thomas HOGER, Keziah SORLIN
 
-Tuteur : à venir
+Tuteur : Jonathan Roux
 
 **Deep learning appliqué à l'analyse statique de malwares**
 
@@ -236,7 +236,7 @@ Tuteur : à venir
 
 ## G9 Simon JUNCK, Jeremy DREZET, Rokia SBAI
 
-Tuteur : Éric Alata
+Tuteur : à venir
 
 **titre non fourni**
 
@@ -294,7 +294,7 @@ technologies de la blockchain, comme par exemple:
 
 ## G11 Alexandre GONCALVES, Orlaine LEKANE, Morgan YAKHELEF
 
-Tuteur : à venir
+Tuteur : Romain Cayre
 
 **Analyse de la sécurité du protocole Bluetooth Low Energy: Etude de cas d’un cadenas connecté.**
 
