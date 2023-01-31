@@ -343,6 +343,7 @@ Tuteur : Philippe Queinnec
   Nous essaierons également d’observer les mécanismes actuels mis en œuvre
   en défense pour lutter contre ce type d’attaque.
 
+<!--
 ## G13 ZHANG Qiuya
 
 Tuteur : à venir
@@ -367,6 +368,7 @@ Tuteur : à venir
   questions sur la plateforme et peuvent consulter le classement pour chaque
   question, le classement de l'équipe et le classement intra- équipe comme
   s'ils participaient à une compétition de CTF.
+-->
 
 <!--
 ## Gx
