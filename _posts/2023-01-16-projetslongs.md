@@ -10,7 +10,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2022-2023.
 
 ## G1 Rémi BONREPAUX, Bojian SHANG
 
-Tuteur : à venir
+Tuteur : Ladislas Hajnal
 
 **Analyse des dangers et des solutions de protection qui existent pour rendre
 accessible des ordinateurs au public et donc à des potentiels attaquants.**
@@ -40,7 +40,7 @@ accessible des ordinateurs au public et donc à des potentiels attaquants.**
 
 ## G2 Louis LOLIVE, Jules BOYER
 
-Tuteur : à venir
+Tuteur : Vincent Migliore
 
 **Création et analyse de virus métamorphique**
 
@@ -72,7 +72,7 @@ https://doi-org.gorgone.univ-toulouse.fr/10.1007/s11416-006-0028-7
 
 ## G3 Mayeul GASC, Pierre FAVARY
 
-Tuteur : à venir
+Tuteur : Julien Fasson
 
 **Sécurité des connexions réseaux très haut débit : Étude et implémentations sous DPDK**
 
@@ -98,10 +98,9 @@ Tuteur : à venir
 
 ## G4 Anthony RODRIGO, Tom HEURTEBISE, Justin FACQUET
 
-Tuteur : à venir
+Tuteur : Benoît Morgan
 
 **Réalisation d’une série de challenges pour la THCon 2023 haut niveau/débutant axés sur l’OSINT/web au travers d’une fausse plateforme de réseau social**
-
 
 ### Description
 
@@ -165,7 +164,7 @@ Tuteur : Jonathan Roux
 
 ## G6 Andy HUMBERT, Victor de CREVOISIER, Hugo COURTADON
 
-Tuteur : à venir
+Tuteur : Benoît Morgan
 
 **Challenges d'analyse forensique pour le CTF de la THCon**
 
@@ -189,7 +188,7 @@ Tuteur : à venir
 
 ## G7 Lauric MARTHRIN-JOHN, Maya ABI-GHANEM
 
-Tuteur : à venir
+Tuteur : Vincent Nicomette
 
 **Création et sécurisation d’un réseau longue distance (WAN) pour une entreprise fictive.**
 
@@ -207,7 +206,7 @@ Tuteur : à venir
 
 ## G8 valentin LEBRUN, Lucas GOUSSARD, Hugo SUZANNE.
 
-Tuteur : à venir
+Tuteur : Julien Fasson ou Philippe Queinnec
 
 **Réalisation d’un botnet**
 
@@ -236,7 +235,7 @@ Tuteur : à venir
 
 ## G9 Simon JUNCK, Jeremy DREZET, Rokia SBAI
 
-Tuteur : à venir
+Tuteur : Éric Alata
 
 **titre non fourni**
 
@@ -258,10 +257,9 @@ Tuteur : à venir
 
 ## G10 Adrien BARBANSON, Rémy BRÉVART
 
-Tuteur : à venir
+Tuteur : Jean-Christophe Deneuville
 
 **Réalisation d’une série de challenges pour la THCon basés sur la technologie Blockchain ainsi que d’autres sur la sécurité des contrats intelligents du web 3.0 (Ethereum/Solidity).**
-
 
 ### Description
 
@@ -322,7 +320,7 @@ Tuteur : Romain Cayre
 
 ## G12 Eldar ADJEBA, Enzo PETIT, Julien WUSZKO
 
-Tuteur : à venir
+Tuteur : Philippe Queinnec
 
 **Analyse des vulnérabilités liées aux périphériques d’un système informatique**
 
