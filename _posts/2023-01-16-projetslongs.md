@@ -206,7 +206,7 @@ Tuteur : Vincent Nicomette
 
 ## G8 valentin LEBRUN, Lucas GOUSSARD, Hugo SUZANNE.
 
-Tuteur : Julien Fasson ou Philippe Queinnec
+Tuteur : Julien Fasson
 
 **Réalisation d’un botnet**
 
