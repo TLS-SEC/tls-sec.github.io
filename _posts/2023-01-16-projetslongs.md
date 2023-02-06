@@ -8,7 +8,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2022-2023.
 
 # Goupes de projets longs 2022-2023
 
-## G1 Rémi BONREPAUX, Bojian SHANG
+## G1 Rémi BONREPAUX, Bojian SHANG, ZHANG Qiuya
 
 Tuteur : Ladislas Hajnal
 
@@ -343,41 +343,6 @@ Tuteur : Philippe Queinnec
   Nous essaierons également d’observer les mécanismes actuels mis en œuvre
   en défense pour lutter contre ce type d’attaque.
 
-<!--
-## G13 ZHANG Qiuya
-
-Tuteur : à venir
-
-**Création d'une petite plateforme de compétition pour CTF**
-
-### Description
-- Contexte : CTF (Capture The Flag) a vu le jour en 1996 lors de la
-  conférence mondiale de piratage DEFCON. Il s'agit d'un jeu compétitif
-  entre passionnés de cybersécurité. La compétition CTF est toujours axée
-  sur l'attaque de sites Web, le Reverse Engineering, le Pwn Binary Exploit,
-  la cryptographie, la sécurité mobile et la sécurité diverse. De plus en
-  plus, les entreprises de cybersécurité souhaitent que leurs candidats
-  aient une expérience de CTF. Mais la plupart des étudiants n'ont jamais
-  été exposés au concours de la FFC auparavant. Ils ne comprennent pas le
-  format des compétitions de CTF. Et ils ne peuvent pas participer
-  directement aux compétitions de la CTF pour acquérir de l'expérience.
-- Objectif : Pour aider les gens à simuler la participation à des
-  compétitions CTF, je veux créer une mini plateforme de compétition pour
-  CTF. Cette plateforme contient le même type de questions que CTF. Les
-  personnes s'inscrivent pour participer en tant qu'équipe, répondent à des
-  questions sur la plateforme et peuvent consulter le classement pour chaque
-  question, le classement de l'équipe et le classement intra- équipe comme
-  s'ils participaient à une compétition de CTF.
--->
-
-<!--
-## Gx
-
-Tuteur : à venir
-
-### Description
--->
-
 ## Soutenances 14/03/2023
 
 Jurés :
@@ -391,16 +356,39 @@ Jurés :
   * VM : Vincent Migliore
   * VN : Vincent Nicomette
 
- Enseignants anglais :
-  * à venir
-  
-### Jury 1 : Salle XXXX
+Enseignants anglais :
 
-|Heure| Groupe | Tuteur | Jurés  |
-|-----|--------|--------|--------|
-|13:30|Gx | | |
-|14:05|Gx | | |
-|14:40|Gx | | |
-|15:15|Gx | | |
-|15:50|délibération| | |
+  * EM : Emma Nelson
+  * BH : Ben Hanson
+  * SR : Stephen Ryan
+  
+### Jury 1 : Salle B007
+
+| Heure | Groupe       | Tuteur                     | Jurés        |
+|-------|--------------|----------------------------|--------------|
+| 13:30 | G4           | Benoît Morgan              | BM,LH,JCD,EM |
+| 14:05 | G6           | Benoît Morgan              | BM,LH,JCD,EM |
+| 14:40 | G1           | Ladislas Hajnal            | BM,LH,JCD,EM |
+| 15:15 | G10          | Jean-Christophe Deneuville | BM,LH,JCD,EM |
+| 15:50 | délibération |                            |              |
+
+### Jury 2 : Salle C102
+
+| Heure | Groupe       | Tuteur            | Jurés       |
+|-------|--------------|-------------------|-------------|
+| 13:30 | G11          | Romain Cayre      | VN,RC,JF,BH |
+| 14:05 | G7           | Vincent Nicomette | VN,RC,JF,BH |
+| 14:40 | G3           | Julien Fasson     | VN,RC,JF,BH |
+| 15:15 | G8           | Julien Fasson     | VN,RC,JF,BH |
+| 15:50 | délibération |                   |             |
+
+### Jury 3 : Salle C310
+
+| Heure | Groupe       | Tuteur            | Jurés          |
+|-------|--------------|-------------------|----------------|
+| 13:30 | G12          | Philippe Queinnec | PQ,VM,EA,JR,SR |
+| 14:05 | G2           | Vincent Migliore  | PQ,VM,EA,JR,SR |
+| 14:40 | G9           | Éric Alata        | PQ,VM,EA,JR,SR |
+| 15:15 | G5           | Jonathan Roux     | PQ,VM,EA,JR,SR |
+| 15:50 | délibération |                   |                |
 
