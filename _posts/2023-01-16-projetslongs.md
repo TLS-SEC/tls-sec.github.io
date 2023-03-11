@@ -345,6 +345,8 @@ Tuteur : Philippe Queinnec
 
 ## Soutenances 14/03/2023
 
+20 minutes de présentation, 10 minutes de question.
+
 Jurés :
 
   * BM : Benoît Morgan
