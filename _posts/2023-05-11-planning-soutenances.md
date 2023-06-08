@@ -71,8 +71,8 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 | Heure | Étudiant | Tuteur N7 | 
 | ----- | -------- | --------- | 
 | 13h45 | Lolive Louis | Julien Fasson
-| 14h30 | Matos José | 
-| 15h15 | Soria Sébastien | 
+| 14h30 | Matos José | Julien Fasson
+| 15h15 | Soria Sébastien | Julien Fasson
 | 16h00 | Tribot Mathilde | 
 | 16h45 | fin
 
