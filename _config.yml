@@ -1,8 +1,9 @@
 title: TLS-SEC
 description: La formation en sécurité informatique de Toulouse Tech
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
+  - jekyll-postcss
+
+postcss:
+  cache: false

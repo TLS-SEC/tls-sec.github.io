@@ -1,67 +1,63 @@
 <!doctype html>
-<!--html lang="{{ site.lang | default: "en-US" }}"--!>
 <html lang="{{ site.lang | default: "fr-FR" }}">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <!--title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title--!>
-    <title>{{ site.title | default: site.github.repository_name }}</title>
-    <link href='https://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="TLS-SEC, Toulouse Sécurité">
+    <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
+    <!-- <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | url }}" type="image/x-icon"> -->
   </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1 class="header"><a href={{ site.url }}>{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-
-        <ul>
-          {% if site.show_downloads %}
-            <li><a target="_blank" class="buttons" href="{{ site.url }}/documents/Syllabus_TLS_SEC.pdf">Syllabus ingénieur</a></li>
-            <li><a target="_blank" class="buttons" href="{{ site.url }}/documents/Syllabus_MS_securite_Informatique.pdf">Syllabus mastère spécialisé</a></li>
-            <li><a target="_blank" class="buttons" href="{{ site.url }}/documents/MS_Securite_Informatique.pdf">Plaquette mastère spécialisé</a></li>
-            <li><a class="buttonsnoarrow" href="{{ site.url }}/candidats.html">Infos candidats</a></li>
-            <li><a class="buttonsnoarrow" href="{{ site.url }}/etudiants.html">Infos étudiants</a></li>
-            <li><a class="buttonsnoarrow" href="{{ site.url }}/rhes.html">Ratés historiques</a></li>
-            <li><a class="buttonsnoarrow" href="{{ site.url }}/archives.html">Archives</a></li>
-          {% endif %}
-          <!--li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li--!>
+  <body class="bg-mainGradient bg-cover">
+    <div>
+      <div class="bg-mainGradient bg-cover md:sticky md:top-0 z-50 flex justify-center text-white items-center md:items-start md:h-16 shadow-xl">
+        <ul class="flex flex-wrap justify-center items-center">
+            <a href="{{ site.url }}/candidats.html"><li class="px-4 py-4 md:py-5 nav-link">Infos candidats</li></a>
+            <a href="{{ site.url }}/etudiants.html"><li class="px-4 py-4 md:py-5 nav-link">Infos étudiants</li></a>
         </ul>
+        <!-- <a href={{ site.url }}><img src="/assets/img/logo.png" class="md:h-24 mx-2 md:mx-6 mt-2" alt="{{ site.title | default: site.github.repository_name }}" /></a> -->
+        <ul class="flex flex-wrap justify-center items-center">
+            <li class="relative">
+              <span class="flex items-center px-4 py-4 md:py-5 gap-2 nav-link" tabindex="0" onclick="this.nextElementSibling.classList.toggle('hidden')">
+                <span>Syllabus & Plaquette</span>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" /> </svg>
+              </span>
+              <ul class="hidden transition-all duration-200 ease-in-out absolute bg-white text-black p-2 w-full shadow-lg">
+                  <li class="p-2 nav-link-dropdown">
+                    <a target="_blank" href="{{ site.url }}/documents/Syllabus_TLS_SEC.pdf">Syllabus Ingénieur</a>
+                  </li>
+                  <li class="p-2 nav-link-dropdown">
+                    <a target="_blank" href="{{ site.url }}/documents/Syllabus_MS_securite_Informatique.pdf">Syllabus Mastère Spécialisé</a>
+                  </li>
+                  <li class="p-2 nav-link-dropdown">
+                    <a target="_blank" href="{{ site.url }}/documents/MS_Securite_Informatique.pdf">Plaquette mastère spécialisé</a>
+                  </li>
+              </ul>
+            </li>
+            
+            <a href="{{ site.url }}/archives.html"><li class="px-4 py-4 md:py-5 nav-link">Archives</li></a>
+        </ul>
+      </div>
 
-        <img style="border-radius: 4px;padding: 0;width: 145px;margin: 0;" alt="Logo SecNumEdu ANSSI" src="/assets/img/20160525_secnumedu_logo_v1a.png"/>
-
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <p class="header">Ce site est géré par l'organisation <a class="header name" href="https://github.com/TLS-SEC">TLS-SEC</a> où participent enseignants et étudiants</p>
-          <!--ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          </ul--!>
-        {% endif %}
-      </header>
-
-      <section>
-        {{ content }}
-      </section>
+      <div class="max-w-5xl w-full mx-auto px-4 md:px-10 pt-20 bg-slate-50 shadow-2xl">
+        <section class="prose max-w-none prose-a:decoration-red-800">{{ content }}</section>
+        
+        <div class="text-center p-10 border-t-2 mt-12">
+          <p class="flex justify-center"><a href="https://www.ssi.gouv.fr/entreprise/formations/secnumedu/"><img class="h-24 mx-auto my-4" alt="Logo SecNumEdu ANSSI" src="/assets/img/secnumedu.png"/></a></p>
+          <p class="flex justify-center items-center gap-6 flex-wrap">
+            <a href="https://www.enseeiht.fr/"><img src="/assets/img/enseeiht.png" class="max-h-16"/></a>
+            <a href="https://www.insa-toulouse.fr/"><img src="/assets/img/insa_toulouse.svg" class="max-h-16"/></a>
+            <a href="https://www.enac.fr/"><img src="/assets/img/enac.svg" class="max-h-16"/></a>
+          </p>
+          <p class="flex justify-center items-center gap-6 flex-wrap">
+            <a href="https://www.univ-toulouse.fr/"><img class="h-24 mx-auto my-4" alt="Logo Université de Toulouse" src="/assets/img/Universite-Toulouse-n-2023.svg"/></a>
+            <a href="https://www.enseignementsup-recherche.gouv.fr/fr"><img class="h-24 mx-auto my-4" alt="Logo Université de Toulouse" src="/assets/img/MESR.svg"/></a>
+          </p>
+          <p>Ce site est géré par l'organisation <a class="underline decoration-wavy text-red-800 underline-offset-4" href="https://github.com/TLS-SEC">TLS-SEC</a> où participent enseignants et étudiants.</p>
+        </div>
+      </div>
 
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    {% if site.google_analytics %}
-      <script type="text/javascript">
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-      </script>
-    {% endif %}
   </body>
 </html>
