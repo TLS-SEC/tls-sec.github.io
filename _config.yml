@@ -1,5 +1,6 @@
 title: TLS-SEC
 description: La formation en sécurité informatique de Toulouse Tech
+repository: TLS-SEC/tls-sec.github.io
 
 plugins:
   - jekyll-mentions
