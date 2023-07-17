@@ -84,7 +84,17 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
-08h30 | à venir
+| 08h30 | Sorlin Keziah | ACCO Pascal 
+| 09h30 | Sedira  Malik | CHASSOT Christophe
+| 10h15 | Marthrin-John Lauric | BIT MONNOT Arthur
+| 11h00 | Hoger   Thomas | HUGUET Marie-José
+| 11h45 | Mouton  Viktor | HUGUET Marie-José
+| 14h00 | Favary  Pierre | LE BOTLAN Didier
+| 14h45 | Yakhelef Morgan | LENTZ Antonin
+| 15h30 | Abi-Ghanem Maya | LENTZ Antonin
+| 16h15 | Sarr Marietou | LENTZ Antonin
+| 17h00 | Dubois  Aubry | LE LANN Marie-Véronique
+
 
 ### Vendredi 08/09/2023 - salle : ENAC
 
@@ -92,7 +102,17 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
-08h30 | à venir
+| 08h30 | Barbanson Adrien | ALATA Eric
+| 09h30 | Marchant Lucas | ALATA Eric
+| 10h15 | Drezet Jeremy | ALATA Eric
+| 11h00 | Junck Simon | ALATA Eric
+| 11h45 | Gasc Mayeul | VERNADAT François
+| 14h00 | Shang Bojian | ABDELLATIF Slim
+| 14h45 | Zhang Qiuya | ROCACHER Thierry
+| 15h30 | Ait Ahmed-Brahim Meryeme | NICOMETTE Vincent (MS)
+| 16h15 | Gourdou Delphine | NICOMETTE Vincent (MS)
+| 17h00 | Sartre Léo | NICOMETTE Vincent (MS)
+
 
 ## Étudiants ENAC
 
