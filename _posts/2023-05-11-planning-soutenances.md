@@ -84,7 +84,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
-| 08h30 | Sorlin Keziah | ACCO Pascal 
+| 08h45 | Sorlin Keziah | ACCO Pascal 
 | 09h30 | Sedira  Malik | CHASSOT Christophe
 | 10h15 | Marthrin-John Lauric | BIT MONNOT Arthur
 | 11h00 | Hoger   Thomas | HUGUET Marie-José
@@ -102,7 +102,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
-| 08h30 | Barbanson Adrien | ALATA Eric
+| 08h45 | Barbanson Adrien | ALATA Eric
 | 09h30 | Marchant Lucas | ALATA Eric
 | 10h15 | Drezet Jeremy | ALATA Eric
 | 11h00 | Junck Simon | ALATA Eric
