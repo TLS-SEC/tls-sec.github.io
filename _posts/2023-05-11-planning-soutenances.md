@@ -25,20 +25,20 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 ## Étudiants ENSEEIHT (FISE et mastère spécialisé)
 
-### jeudi 07/09/2023 matin - salle : ENAC
+### jeudi 07/09/2023 matin - salle : ENAC COUZ101
 
 Jury : Julien Fasson, Daniel Hagimont, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur N7 | 
 | ----- | -------- | --------- | 
-| 08h30 | Lebrun Valentin | Daniel Hagimont
-| 09h15 | Lekane Guesta Orlaine | Daniel Hagimont
-| 10h00 | Lo Seydina | Daniel Hagimont
-| 10h45 | Adjeba Eldar | Julien Fasson
-| 11h30 | Bonrepaux Rémi | Julien Fasson
-| 12h15 | fin
+| 08h45 | Lebrun Valentin | Daniel Hagimont
+| 09h30 | Lekane Guesta Orlaine | Daniel Hagimont
+| 10h15 | Lo Seydina | Daniel Hagimont
+| 11h00 | Adjeba Eldar | Julien Fasson
+| 11h45 | Bonrepaux Rémi | Julien Fasson
+| 12h30 | fin
 
-### jeudi 07/09/2023 après-midi - salle : ENAC
+### jeudi 07/09/2023 après-midi - salle : ENAC COUZ101
 
 Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 
@@ -51,20 +51,20 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 | 16h45 | Heurtebise Tom | Philippe Queinnec
 | 17h30 | fin
 
-### vendredi 08/09/2023 matin - salle : ENAC
+### vendredi 08/09/2023 matin - salle : ENAC COUZ101
 
 Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur N7 | 
 | ----- | -------- | --------- | 
-| 08h30 | Sbai Rokia | Riadh Dhaou
-| 09h15 | Suzanne Hugo | Riadh Dhaou
-| 10h00 | Wuszko Julien | Riadh Dhaou
-| 10h45 | Facquet Justin | Philippe Queinnec
-| 11h30 | Goncalves Alexandre | Philippe Queinnec
-| 12h15 | fin
+| 08h45 | Sbai Rokia | Riadh Dhaou
+| 09h30 | Suzanne Hugo | Riadh Dhaou
+| 10h15 | Wuszko Julien | Riadh Dhaou
+| 11h00 | Facquet Justin | Philippe Queinnec
+| 11h45 | Goncalves Alexandre | Philippe Queinnec
+| 12h30 | fin
 
-### vendredi 08/09/2023 après-midi - salle : ENAC
+### vendredi 08/09/2023 après-midi - salle : ENAC COUZ101
 
 Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 
@@ -73,33 +73,45 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 | 13h45 | Lolive Louis | Julien Fasson
 | 14h30 | Matos José | Julien Fasson
 | 15h15 | Soria Sébastien | Julien Fasson
-| 16h00 | Tribot Mathilde | 
+| 16h00 | Tribot Mathilde | Philippe Queinnec
 | 16h45 | fin
 
 ## Étudiants INSA (FISE et mastère spécialisé)
 
-### Jeudi 07/09/2023 - salle : ENAC
+### Jeudi 07/09/2023 - salle : ENAC COUZ102
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
-08h30 | à venir
+| 08h45 | à venir
 
-### Vendredi 08/09/2023 - salle : ENAC
+| Heure | Étudiant | Tuteur INSA | 
+| ----- | -------- | ----------- | 
+| 13h45 | à venir
+
+### Vendredi 08/09/2023 - salle : ENAC COUZ102
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant | Tuteur INSA | 
 | ----- | -------- | ----------- | 
-08h30 | à venir
+| 08h45 | à venir
+
+| Heure | Étudiant | Tuteur INSA | 
+| ----- | -------- | ----------- | 
+| 13h45 | à venir
 
 ## Étudiants ENAC
 
-### Jeudi 07/09/2023 - salle : ENAC
+### Jeudi 07/09/2023 - salle : ENAC COUZ002
 
-Jury : Ladilas Hajnal, Jean-Christophe Deneuville, ...
+Jury : Ladilas Hajnal, Jean-Christophe Deneuville, Jonathan Roux
 
-| Heure | Étudiant | Tuteur INSA | 
-| ----- | -------- | ----------- | 
-08h30 | à venir
+| Heure | Étudiant        | Tuteur Enac                |
+|-------|-----------------|----------------------------|
+| 08h45 | Rodrigo Anthony | Deneuville Jean-Christophe |
+| 09h30 | Brévart Rémy    | Hajnal Ladislas            |
+| 10h15 | Courtadon Hugo  | Hajnal Ladislas            |
+| 11h00 | Humbert Andy    | Hajnal Ladislas            |
+| 11h45 | fin
