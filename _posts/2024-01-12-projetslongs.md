@@ -197,6 +197,14 @@ mitigation qui chiffrerait le traffic sur le câble de bout en bout (et les
 deux avec proof of concept s'il existe un code open source et assez d'infos sur
 l'attaque pour tout faire en un mois). https://ieeexplore.ieee.org/document/9743456
 
+## G15 Quentin FRATY, Théodor VALLIER, Maxence PERICAT
+
+Tuteur : à venir
+
+**Challenges pour la Toulouse Hacking Convention (THCon)**
+
+Challenges pour la THCON dans les thèmes reverse et pwn.
+
 # Soutenances 11/03/2023
 
 20 minutes de présentation, 10 minutes de question.
