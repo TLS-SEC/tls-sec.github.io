@@ -126,11 +126,12 @@ Tuteur : à venir
 **Challenges d'exploitation web pour la Toulouse Hacking Convention (THCon)**
 
 Conception d'une série de challenges d'exploitation web pour l'édition de cette année de la THCon.
-La série de challenges portera sur l'attaque d'un serveur web :
-
+La série de challenges portera sur l'attaque d'un serveur web.
+<!--
 - Exploitation du site pour gagner un accès initial
 - Exploitation du serveur
 - Élévation de privilèges
+-->
 
 ## G10 Estelle CHARPENTIER, Mailis DY
 
