@@ -14,7 +14,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2023-2024.
 
 Tuteur : à venir
 
-**Side Chanel Attack sur un algorithme de chiffrement post-quantique**
+**Side channel et cryptographie post quantique**
 
 Étude des Side Chanel Attack sur une implémentation d’un algorithme de chiffrement post-quantique. Pour cela, nous allons d'abord sélectionner un type de Side Channel à étudier (cache attack, timing attack, power supply attack).
 
@@ -131,6 +131,58 @@ La série de challenges portera sur l'attaque d'un serveur web :
 - Exploitation du site pour gagner un accès initial
 - Exploitation du serveur
 - Élévation de privilèges
+
+## G10 Estelle CHARPENTIER, Mailis DY
+
+Tuteur : à venir
+
+**Développement d'un keylogger**
+
+Développement d'un système sur clé usb qui exécuterait un 
+programme pour enregistrer ce qui est tapé sur le clavier de 
+l'utilisateur sur la clé usb. Extension en envoyant les 
+informations sur un serveur par exemple.
+
+## G11 Tanguy DUCLOS-GENDREU, Evan ROZIERE
+
+Tuteur : à venir
+
+**Charges malveillantes dans les pharmacies**
+
+Nous avons vu que dans les pharmacies, il était possible d'envoyer les 
+ordonnances par mail. Ce qui nous a donné l'idée de tester s'il était 
+possible de gagner l'accès à un pc de pharmacie, comme les pharmaciens 
+sont obligés d'ouvrir la pièce jointe envoyée par mail.
+Il est vrai qu'en théorie, il existe une application sécurisée qui 
+sandbox l'exécution du PDF (donc pour nous la charge malveillante). Mais 
+nous avons demandé à des amis travaillant dans le monde de la pharmacie 
+et par manque de qualification informatique, ils utilisent juste Outlook 
+ou Gmail et non l'application préconisée (2 pharmacies différentes ont 
+répondu positifs).
+Nous pourrions commencer le projet long par un état de l'art des charges 
+malveillantes envoyables par mail puis essayer en "condition réelles" 
+dans les pharmacies.
+
+## G12 Enguerrand DELADRIERE, Maxime DAVID, Gabriel CORELLA
+
+Tuteur : à venir
+
+**Étude des fichiers polyglottes**
+
+De l'étude des fichiers polyglottes et leur application dans la dissimulation de malwares, à la réalisation d'un malware polyglotte.
+L'objectif de cette étude serait de comprendre comment fonctionne les fichiers polyglottes et quelles sont leurs applications dans la dissimulation de malwares, avec pour objectif final, la création d'un malware polyglotte (idéalement cross-plateform).
+
+## G13 Sacha DARTHENUCQ, Paul STARCK
+
+Tuteur : à venir
+
+**Serious game de gestion crise cyber**
+
+Notre jeu comporterait plusieurs scénarios de crise cyber avec différents contextes et objectifs. Par exemple dans un scénario l'objectif d'une entreprise serait de minimiser ses pertes financières tandis que dans un autre il s'agirait d'empêcher les fuites d'informations confidentielles.
+
+Le jeu se déroulerait en plusieurs phases de crise durant lesquelles le joueur est amené a choisir parmi plusieurs actions. Notre objectif est qu'il y a ai plusieurs solutions "justes" mais que le joueur ne puisse pas forcément toutes les choisir et soit amené a devoir faire des compromis comme dans une crise réelle, en prenant en compte différents facteurs (économiques, médiatiques, politiques...).
+
+Aussi, les scenarios seront accompagnés d'exemples qui expliqueraient les choix faits et leurs conséquences (ex : communication transparente de Maersk contre NotPetya, shutdown de TV5 Monde...)
 
 # Soutenances 11/03/2023
 
