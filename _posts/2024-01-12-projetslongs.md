@@ -31,10 +31,10 @@ réaliser un utilitaire (en Python) qui automatise les premières phases
 CLASSIQUES d'une attaque (Recon, Accès initial, ... à définir lors du
 projet). Par exemple :
 
-- Découverte des hôtes 
-- Lister les services 
-- Rechercher les CVE associées aux versions des services trouvés 
-- Exploitation des CVE avec les API des framework connus (Metasploit, ....) 
+- Découverte des hôtes
+- Lister les services
+- Rechercher les CVE associées aux versions des services trouvés
+- Exploitation des CVE avec les API des framework connus (Metasploit, ....)
 - ... (autres fonctionnalités à définir selon le temps / idées)
 
 ## G3 Hugo HASSON, Karine MARCHE, Sacha CAULI
@@ -47,7 +47,7 @@ Tuteur : à venir
 - La rétroconception de cette exécution est importante pour comprendre à quel moment les données sensibles (ou utiles pour l’attaquant) sont manipulées ou à quel moment une opération critique (confirmation d’une condition d’accès, validation d’un PIN par exemple) est effectuée.
 - Le projet consistera à partir de traces side-channel existantes d’essayer d’identifier un changement dans l’exécution de code et de repérer temporellement à quel endroit ce changement intervient.
 - La faisabilité d’utiliser des algorithmes d’IA ainsi que la sélection de certains d’entre eux pour réaliser cette tâche sera l’un des résultats attendus du projet comme étape première.
-- Un autre résultat serait de comparer l’efficacité en terme de rapidité et de consommation en ressource mémoire des algorithmes d’IA ou de réseaux de neurones retenus dans l’étape précédente 
+- Un autre résultat serait de comparer l’efficacité en terme de rapidité et de consommation en ressource mémoire des algorithmes d’IA ou de réseaux de neurones retenus dans l’étape précédente
 
 Proposé par le Hardware Security Lab de Thales
 
@@ -126,7 +126,7 @@ Tuteur : à venir
 **Challenges d'exploitation web pour la Toulouse Hacking Convention (THCon)**
 
 Conception d'une série de challenges d'exploitation web pour l'édition de cette année de la THCon.
-La série de challenges portera sur l'attaque d'un serveur web : 
+La série de challenges portera sur l'attaque d'un serveur web :
 
 - Exploitation du site pour gagner un accès initial
 - Exploitation du serveur
@@ -138,9 +138,9 @@ Tuteur : à venir
 
 **Développement d'un keylogger**
 
-Développement d'un système sur clé usb qui exécuterait un 
-programme pour enregistrer ce qui est tapé sur le clavier de 
-l'utilisateur sur la clé usb. Extension en envoyant les 
+Développement d'un système sur clé usb qui exécuterait un
+programme pour enregistrer ce qui est tapé sur le clavier de
+l'utilisateur sur la clé usb. Extension en envoyant les
 informations sur un serveur par exemple.
 
 ## G11 Tanguy DUCLOS-GENDREU, Evan ROZIERE
@@ -149,18 +149,18 @@ Tuteur : à venir
 
 **Charges malveillantes dans les pharmacies**
 
-Nous avons vu que dans les pharmacies, il était possible d'envoyer les 
-ordonnances par mail. Ce qui nous a donné l'idée de tester s'il était 
-possible de gagner l'accès à un pc de pharmacie, comme les pharmaciens 
+Nous avons vu que dans les pharmacies, il était possible d'envoyer les
+ordonnances par mail. Ce qui nous a donné l'idée de tester s'il était
+possible de gagner l'accès à un pc de pharmacie, comme les pharmaciens
 sont obligés d'ouvrir la pièce jointe envoyée par mail.
-Il est vrai qu'en théorie, il existe une application sécurisée qui 
-sandbox l'exécution du PDF (donc pour nous la charge malveillante). Mais 
-nous avons demandé à des amis travaillant dans le monde de la pharmacie 
-et par manque de qualification informatique, ils utilisent juste Outlook 
-ou Gmail et non l'application préconisée (2 pharmacies différentes ont 
+Il est vrai qu'en théorie, il existe une application sécurisée qui
+sandbox l'exécution du PDF (donc pour nous la charge malveillante). Mais
+nous avons demandé à des amis travaillant dans le monde de la pharmacie
+et par manque de qualification informatique, ils utilisent juste Outlook
+ou Gmail et non l'application préconisée (2 pharmacies différentes ont
 répondu positifs).
-Nous pourrions commencer le projet long par un état de l'art des charges 
-malveillantes envoyables par mail puis essayer en "condition réelles" 
+Nous pourrions commencer le projet long par un état de l'art des charges
+malveillantes envoyables par mail puis essayer en "condition réelles"
 dans les pharmacies.
 
 ## G12 Enguerrand DELADRIERE, Maxime DAVID, Gabriel CORELLA
@@ -184,6 +184,19 @@ Le jeu se déroulerait en plusieurs phases de crise durant lesquelles le joueur 
 
 Aussi, les scenarios seront accompagnés d'exemples qui expliqueraient les choix faits et leurs conséquences (ex : communication transparente de Maersk contre NotPetya, shutdown de TV5 Monde...)
 
+## G14 Adrien JAKUBIAK, Nicolas RIGAL
+
+Tuteur : à venir
+
+**Capture des images d'un écran**
+
+Il existe des méthodes pour reconstruire les images d'un écran via les
+émissions électromagnétiques des câbles DVI, HDMI... Nous aimerions
+travailler soit sur la reproduction de l'attaque, soit sur un protocole de
+mitigation qui chiffrerait le traffic sur le câble de bout en bout (et les
+deux avec proof of concept s'il existe un code open source et assez d'infos sur
+l'attaque pour tout faire en un mois). https://ieeexplore.ieee.org/document/9743456
+
 # Soutenances 11/03/2023
 
 20 minutes de présentation, 10 minutes de question.
@@ -200,7 +213,7 @@ Jurés :
   * VN : Vincent Nicomette
 
 Enseignants anglais : à venir
- 
+
 ### Jury 1 : Salle XXXX
 
 | Heure | Groupe       | Tuteur                     | Jurés        |
@@ -230,4 +243,3 @@ Enseignants anglais : à venir
 | 14:40 |              |                            |              |
 | 15:15 |              |                            |              |
 | 15:50 | délibération |                            |              |
-
