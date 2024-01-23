@@ -95,7 +95,7 @@ sont rattachés les équipements via leur connectivité réseaux.
 
 Proposé par la société vorteX.io.
 
-## G7 Jonathan BONNEFOY, Léo BOUTEILLER
+## G7 Jonathan BONNEFOY, Léo BOUTEILLER, Dylan DEGAIL
 
 Tuteur : Julien Fasson
 
