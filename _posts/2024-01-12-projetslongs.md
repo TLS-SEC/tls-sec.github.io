@@ -12,7 +12,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2023-2024.
 
 ## G1 Édouard LEFIZELIER, Nathan MAILLET
 
-Tuteur : à venir
+Tuteur : Jean-Christophe Deneuville
 
 **Side channel et cryptographie post quantique**
 
@@ -22,7 +22,7 @@ Une étude préliminaire des crypto systèmes Kyber et HQC permettra de décider
 
 ## G2 Matthis RAVEAU, Célian DEBETHUNE, Kilian SOUAL
 
-Tuteur : à venir
+Tuteur : Julien Fasson
 
 **Réalisation d'un framework de pentest "haut niveau"**
 
@@ -39,7 +39,7 @@ projet). Par exemple :
 
 ## G3 Hugo HASSON, Karine MARCHE, Sacha CAULI
 
-Tuteur : à venir
+Tuteur : Éric Alata
 
 **Utilisation de l’IA pour repérer une divergence de code dans une trace side-channel**
 
@@ -53,7 +53,7 @@ Proposé par le Hardware Security Lab de Thales
 
 ## G4 Valérian BROUSSEAU, Michel OBERTI, Pierre RAINJONNEAU
 
-Tuteur : à venir
+Tuteur : Philippe Queinnec
 
 **IoT : Étude d’une montre connectée**
 
@@ -71,7 +71,7 @@ détection de vulnérabilités intéressantes à mettre en pratique sur d’autr
 
 ## G5 Aurelia LEJEUNE, Clément VUILLAUME, Raphael LACROIX
 
-Tuteur : à venir
+Tuteur : Vincent Nicomette
 
 **Rédaction, test et implémentation de challenges pour la Toulouse Hacking Convention**
 
@@ -79,7 +79,7 @@ Tuteur : à venir
 
 ## G6 Bastien LEJARS, Nathan FOUCHER, Johann-Son LUPINSKI
 
-Tuteur : à venir
+Tuteur : Jonathan Roux
 
 **Étude de vulnérabilités d'une sonde hydrologique connectée**
 
@@ -108,7 +108,7 @@ Tuteur : Julien Fasson
 
 ## G8 Alexandre TULLOT, Gabin FOUQUET
 
-Tuteur : à venir
+Tuteur : Vincent Nicomette
 
 **Challenges d'exploitation de binaire pour la Toulouse Hacking Convention (THCon)**
 
@@ -121,7 +121,7 @@ Elle sera divisée en trois étapes:
 
 ## G9 Enguerrand PICCO, Axel METZINGER
 
-Tuteur : à venir
+Tuteur : Benoît Morgan
 
 **Challenges d'exploitation web pour la Toulouse Hacking Convention (THCon)**
 
@@ -130,7 +130,7 @@ La série de challenges portera sur l'attaque d'un serveur web.
 
 ## G10 Estelle CHARPENTIER, Mailis DY
 
-Tuteur : à venir
+Tuteur : Éric Alata
 
 **Développement d'un keylogger**
 
@@ -141,7 +141,7 @@ informations sur un serveur par exemple.
 
 ## G11 Tanguy DUCLOS-GENDREU, Evan ROZIERE
 
-Tuteur : à venir
+Tuteur : Vincent Migliore
 
 **Charges malveillantes dans les pharmacies**
 
@@ -161,7 +161,7 @@ dans les pharmacies.
 
 ## G12 Enguerrand DELADRIERE, Maxime DAVID, Gabriel CORELLA
 
-Tuteur : à venir
+Tuteur : Vincent Migliore
 
 **Étude des fichiers polyglottes**
 
@@ -170,7 +170,7 @@ L'objectif de cette étude serait de comprendre comment fonctionne les fichiers 
 
 ## G13 Sacha DARTHENUCQ, Paul STARCK
 
-Tuteur : à venir
+Tuteur : Ladislas Hajnal
 
 **Serious game de gestion crise cyber**
 
@@ -182,7 +182,7 @@ Aussi, les scenarios seront accompagnés d'exemples qui expliqueraient les choix
 
 ## G14 Adrien JAKUBIAK, Nicolas RIGAL
 
-Tuteur : à venir
+Tuteur : Jonathan Roux
 
 **Capture des images d'un écran**
 
@@ -195,13 +195,13 @@ l'attaque pour tout faire en un mois). https://ieeexplore.ieee.org/document/9743
 
 ## G15 Quentin FRATY, Théodor VALLIER, Maxence PERICAT
 
-Tuteur : à venir
+Tuteur : Benoît Morgan
 
 **Challenges pour la Toulouse Hacking Convention (THCon)**
 
 Challenges pour la THCON dans les thèmes reverse et pwn.
 
-# Soutenances 11/03/2023
+# Soutenances 11/03/2023 après-midi
 
 20 minutes de présentation, 10 minutes de question.
 
@@ -211,6 +211,7 @@ Jurés :
   * EA : Éric Alata
   * JCD : Jean-Christophe Deneuville
   * JF : Julien Fasson
+  * JR : Jonathan Roux
   * LH : Ladislas Hajnal
   * PQ : Philippe Queinnec
   * VM : Vincent Migliore
