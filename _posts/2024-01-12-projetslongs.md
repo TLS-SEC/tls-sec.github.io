@@ -227,7 +227,8 @@ Enseignants anglais : à venir
 | 14:05 |              |                            |              |
 | 14:40 |              |                            |              |
 | 15:15 |              |                            |              |
-| 15:50 | délibération |                            |              |
+| 15:50 |              |                            |              |
+| 16:25 | délibération |                            |              |
 
 ### Jury 2 : Salle XXX
 
@@ -237,7 +238,8 @@ Enseignants anglais : à venir
 | 14:05 |              |                            |              |
 | 14:40 |              |                            |              |
 | 15:15 |              |                            |              |
-| 15:50 | délibération |                            |              |
+| 15:50 |              |                            |              |
+| 16:25 | délibération |                            |              |
 
 ### Jury 3 : Salle XXX
 
@@ -247,4 +249,5 @@ Enseignants anglais : à venir
 | 14:05 |              |                            |              |
 | 14:40 |              |                            |              |
 | 15:15 |              |                            |              |
-| 15:50 | délibération |                            |              |
+| 15:50 |              |                            |              |
+| 16:25 | délibération |                            |              |
