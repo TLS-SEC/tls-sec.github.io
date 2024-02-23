@@ -226,7 +226,7 @@ Enseignants anglais : à venir
 | 13:30 | G3     | Éric Alata      | EA, BM, LH |
 | 14:15 | G9     | Benoît Morgan   |            |
 | 15:00 | G13    | Ladislas Hajnal |            |
-| 15:45 | G13    | Éric Alata      |            |
+| 15:45 | G10    | Éric Alata      |            |
 | 16:30 | G15    | Benoît Morgan   |            |
 | 17:15 | fin    |                 |            |
 
