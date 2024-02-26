@@ -201,7 +201,7 @@ Tuteur : Benoît Morgan
 
 Challenges pour la THCON dans les thèmes reverse et pwn.
 
-# Soutenances 11/03/2023 après-midi
+# Soutenances 11/03/2024 après-midi
 
 20 minutes de présentation, 10 minutes de question.
 
