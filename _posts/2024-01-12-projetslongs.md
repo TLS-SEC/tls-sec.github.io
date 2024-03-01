@@ -217,7 +217,7 @@ Jurés :
   * VM : Vincent Migliore
   * VN : Vincent Nicomette
 
-Enseignants anglais : Patrick Anderson (PA, Gen Casey (GC), Stephen Ryan (SR)
+Enseignants anglais : Patrick Anderson (PA), Gen Casey (GC), Stephen Ryan (SR)
 
 ### Jury 1 : Salle B006
 
