@@ -217,37 +217,37 @@ Jurés :
   * VM : Vincent Migliore
   * VN : Vincent Nicomette
 
-Enseignants anglais : à venir
+Enseignants anglais : Patrick Anderson (PA, Gen Casey (GC), Stephen Ryan (SR)
 
 ### Jury 1 : Salle B006
 
-| Heure | Groupe | Tuteur          | Jurés      |
-|-------|--------|-----------------|------------|
-| 13:30 | G3     | Éric Alata      | EA, BM, LH |
-| 14:15 | G9     | Benoît Morgan   |            |
-| 15:00 | G13    | Ladislas Hajnal |            |
-| 15:45 | G10    | Éric Alata      |            |
-| 16:30 | G15    | Benoît Morgan   |            |
-| 17:15 | fin    |                 |            |
+| Heure | Groupe | Tuteur          | Jurés          |
+|-------|--------|-----------------|----------------|
+| 13:30 | G3     | Éric Alata      | EA, BM, LH, PA |
+| 14:15 | G9     | Benoît Morgan   |                |
+| 15:00 | G13    | Ladislas Hajnal |                |
+| 15:45 | G10    | Éric Alata      |                |
+| 16:30 | G15    | Benoît Morgan   |                |
+| 17:15 | fin    |                 |                |
 
 ### Jury 2 : Salle B007
 
-| Heure | Groupe | Tuteur                     | Jurés      |
-|-------|--------|----------------------------|------------|
-| 13:30 | G1     | Jean-Christophe Deneuville | JCD,JF, VN |
-| 14:15 | G2     | Julien Fasson              |            |
-| 15:00 | G5     | Vincent Nicomette          |            |
-| 15:45 | G7     | Julien Fasson              |            |
-| 16:30 | G8     | Vincent Nicomette          |            |
-| 17:15 | fin    |                            |            |
+| Heure | Groupe | Tuteur                     | Jurés          |
+|-------|--------|----------------------------|----------------|
+| 13:30 | G1     | Jean-Christophe Deneuville | JCD,JF, VN, GC |
+| 14:15 | G2     | Julien Fasson              |                |
+| 15:00 | G5     | Vincent Nicomette          |                |
+| 15:45 | G7     | Julien Fasson              |                |
+| 16:30 | G8     | Vincent Nicomette          |                |
+| 17:15 | fin    |                            |                |
 
 ### Jury 3 : Salle B209
 
-| Heure | Groupe | Tuteur            | Jurés      |
-|-------|--------|-------------------|------------|
-| 13:30 | G4     | Philippe Queinnec | PQ, JR, VM |
-| 14:15 | G6     | Jonathan Roux     |            |
-| 15:00 | G11    | Vincent Migliore  |            |
-| 15:45 | G12    | Vincent Migliore  |            |
-| 16:30 | G14    | Jonathan Roux     |            |
-| 17:15 | fin    |                   |            |
+| Heure | Groupe | Tuteur            | Jurés          |
+|-------|--------|-------------------|----------------|
+| 13:30 | G4     | Philippe Queinnec | PQ, JR, VM, SR |
+| 14:15 | G6     | Jonathan Roux     |                |
+| 15:00 | G11    | Vincent Migliore  |                |
+| 15:45 | G12    | Vincent Migliore  |                |
+| 16:30 | G14    | Jonathan Roux     |                |
+| 17:15 | fin    |                   |                |
