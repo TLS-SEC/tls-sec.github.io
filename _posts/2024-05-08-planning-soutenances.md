@@ -1,0 +1,126 @@
+---
+layout: post
+title: "Soutenances du projet de fin d'études"
+category: [2023-2024]
+---
+
+Les soutenances de PFE auront lieu les 3 et 4 septembre (étudiants FISE et Mastère spécialisé) à l'INSA.
+
+# Organisation des soutenances
+
+Chaque de soutenance sera divisé en :
+  * 20 mn d'exposé
+  * 10 mn de questions
+  * 10 mn de délibérations
+
+On demande la présence des tuteurs industriels ainsi qu'académiques.
+Merci donc de leur faire passer le message et de vérifier avec eux
+s'ils pourront être présents.
+
+Ils nous fourniront leur évaluation de votre travail lors de la soutenance.
+Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
+évaluation (nous leur fournirons une fiche).
+
+# Planning des soutenances
+
+## Étudiants ENSEEIHT (FISE et Mastère Spécialisé)
+
+### Mardi 03/09/2024 matin - salle : INSA XXXX
+
+Jury : Julien Fasson, Daniel Hagimont, tuteurs entreprise
+
+| Heure | Étudiant         | Tuteur N7       |
+|-------|------------------|-----------------|
+| 08h45 | FOUCHER Nathan   | Daniel Hagimont |
+| 09h30 | PERICAT Maxence  | Julien Fasson   |
+| 10h15 | FRATY Quentin    | Daniel Hagimont |
+| 11h00 | PICCO Enguerrand | Julien Fasson   |
+| 11h45 | FOUQUET Gabin    | Daniel Hagimont |
+| 12h30 | fin              |                 |
+
+### Mardi 03/09/2024 après-midi - salle : INSA XXXX
+
+Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
+
+| Heure | Étudiant           | Tuteur N7         |
+|-------|--------------------|-------------------|
+| 13h45 | METZINGER Axel     | Philippe Queinnec |
+| 14h30 | OBERTI Michael     | Julien Fasson     |
+| 15h15 | RAINJONNEAU Pierre | Julien Fasson     |
+| 16h00 | BROUSSEAU Valérian | Julien Fasson     |
+| 16h45 | BORRINI Théo       | Julien Fasson     |
+| 17h30 | fin                |                   |
+
+### Mercredi 04/09/2024 matin - salle : INSA XXXX
+
+Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
+
+| Heure | Étudiant                | Tuteur N7         |
+|-------|-------------------------|-------------------|
+| 08h45 | LEFIZELIER Edouard      | Riadh Dhaou       |
+| 09h30 | DEBETHUNE-BERDIN Célian | Philippe Queinnec |
+| 10h15 | VALLIER Théodor         | Riadh Dhaou       |
+| 11h00 | DEGAIL Dylan            | Philippe Queinnec |
+| 11h45 | MAILLET Nathan          | Philippe Queinnec |
+| 12h30 | fin                     |                   |
+
+
+## Étudiants INSA (FISE et Mastère Spécialisé)
+
+### Mardi 03/09/2024 - salle : INSA XXXX
+
+Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
+
+| Heure | Étudiant | Tuteur INSA |
+|-------|----------|-------------|
+| 08h45 |          |             |
+| 09h30 |          |             |
+| 10h15 |          |             |
+| 11h00 |          |             |
+| 11h45 |          |             |
+| 12h30 | fin      |             |
+
+| Heure | Étudiant | Tuteur INSA |
+|-------|----------|-------------|
+| 13h45 |          |             |
+| 14h30 |          |             |
+| 15h15 |          |             |
+| 16h00 |          |             |
+| 16h45 |          |             |
+| 17h30 | fin      |             |
+
+### Mercredi 04/09/2024 - salle : INSA XXXX
+
+Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
+
+| Heure | Étudiant | Tuteur INSA |
+|-------|----------|-------------|
+| 08h45 |          |             |
+| 09h30 |          |             |
+| 10h15 |          |             |
+| 11h00 |          |             |
+| 11h45 |          |             |
+| 12h30 | fin      |             |
+
+| Heure | Étudiant | Tuteur INSA |
+|-------|----------|-------------|
+| 13h45 |          |             |
+| 14h30 |          |             |
+| 15h15 |          |             |
+| 16h00 |          |             |
+| 16h45 |          |             |
+| 17h30 | fin      |             |
+
+## Étudiants ENAC &amp; SupAéro
+
+### Mardi 03/09/2024 - salle : INSA XXXX
+
+Jury : Ladilas Hajnal, Jean-Christophe Deneuville, Jonathan Roux
+
+| Heure | Étudiant            | Tuteur Enac |
+|-------|---------------------|-------------|
+| 08h45 | LEJARS Bastien      |             |
+| 09h30 | LUPINSKI Johann-son |             |
+| 10h15 | VUILLAUME Clément   |             |
+| 11h00 | TULLOT Alexandre    |             |
+| 11h45 | fin                 |             |
