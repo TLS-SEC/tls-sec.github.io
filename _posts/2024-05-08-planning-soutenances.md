@@ -35,8 +35,7 @@ Jury : Julien Fasson, Daniel Hagimont, tuteurs entreprise
 | 09h30 | PERICAT Maxence  | Julien Fasson   |
 | 10h15 | FRATY Quentin    | Daniel Hagimont |
 | 11h00 | PICCO Enguerrand | Julien Fasson   |
-| 11h45 | FOUQUET Gabin    | Daniel Hagimont |
-| 12h30 | fin              |                 |
+| 11h45 | fin              |                 |
 
 ### Mardi 03/09/2024 après-midi - salle : INSA XXXX
 
