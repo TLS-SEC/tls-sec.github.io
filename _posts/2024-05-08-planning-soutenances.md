@@ -114,12 +114,11 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 ### Mardi 03/09/2024 - salle : INSA XXXX
 
-Jury : Ladilas Hajnal, Jean-Christophe Deneuville, Jonathan Roux
+Jury : Ladislas Hajnal, Jean-Christophe Deneuville, Jonathan Roux, tuteurs entreprise
 
-| Heure | Étudiant            | Tuteur Enac |
-|-------|---------------------|-------------|
-| 08h45 | LEJARS Bastien      |             |
-| 09h30 | LUPINSKI Johann-son |             |
-| 10h15 | VUILLAUME Clément   |             |
-| 11h00 | TULLOT Alexandre    |             |
-| 11h45 | fin                 |             |
+| Heure | Étudiant            | Tuteur Enac     |
+|-------|---------------------|-----------------|
+| 09h30 | LEJARS Bastien      | Ladislas Hajnal |
+| 10h15 | LUPINSKI Johann-son | Ladislas Hajnal |
+| 11h00 | TULLOT Alexandre    | Jonathan Roux   |
+| 11h45 | fin                 |                 |
