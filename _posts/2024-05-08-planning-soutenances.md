@@ -70,45 +70,44 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 08h45 |          |             |
-| 09h30 |          |             |
-| 10h15 |          |             |
-| 11h00 |          |             |
-| 11h45 |          |             |
-| 12h30 | fin      |             |
+| Heure | Étudiant            | Tuteur INSA |
+|-------|---------------------|-------------|
+| 08h45 | Cauli Sacha         |             |
+| 09h30 | Charpentier Estelle |             |
+| 10h15 | Corella Gabriel     |             |
+| 11h00 | Darthenucq Sacha    |             |
+| 11h45 | David Maxime        |             |
+| 12h30 | fin                 |             |
 
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 13h45 |          |             |
-| 14h30 |          |             |
-| 15h15 |          |             |
-| 16h00 |          |             |
-| 16h45 |          |             |
-| 17h30 | fin      |             |
+| Heure | Étudiant              | Tuteur INSA |
+|-------|-----------------------|-------------|
+| 13h45 | Deladriere Enguerrand |             |
+| 14h30 | Duclos-Gendreu Tanguy |             |
+| 15h15 | Dy Mailis             |             |
+| 16h00 | Forsans Justin        |             |
+| 16h45 | Hasson Hugo           |             |
+| 17h30 | fin                   |             |
 
 ### Mercredi 04/09/2024 - salle : INSA XXXX
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 08h45 |          |             |
-| 09h30 |          |             |
-| 10h15 |          |             |
-| 11h00 |          |             |
-| 11h45 |          |             |
-| 12h30 | fin      |             |
+| Heure | Étudiant        | Tuteur INSA |
+|-------|-----------------|-------------|
+| 08h45 | Jakubiak Adrien |             |
+| 09h30 | Lacroix Raphael |             |
+| 10h15 | Lejeune Aurelia |             |
+| 11h00 | Marche Karine   |             |
+| 11h45 | Raveau Matthis  |             |
+| 12h30 | fin             |             |
 
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 13h45 |          |             |
-| 14h30 |          |             |
-| 15h15 |          |             |
-| 16h00 |          |             |
-| 16h45 |          |             |
-| 17h30 | fin      |             |
+| Heure | Étudiant      | Tuteur INSA |
+|-------|---------------|-------------|
+| 13h45 | Rigal Nicolas |             |
+| 14h30 | Roziere Evan  |             |
+| 15h15 | Soual Kilian  |             |
+| 16h00 | Starck Paul   |             |
+| 16h45 | fin           |             |
 
 ## Étudiants ENAC &amp; SupAéro
 
