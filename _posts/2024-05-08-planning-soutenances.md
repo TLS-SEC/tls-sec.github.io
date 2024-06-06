@@ -29,13 +29,13 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 Jury : Julien Fasson, Daniel Hagimont, tuteurs entreprise
 
-| Heure | Étudiant         | Tuteur N7       |
-|-------|------------------|-----------------|
-| 08h45 | FOUCHER Nathan   | Daniel Hagimont |
-| 09h30 | PERICAT Maxence  | Julien Fasson   |
-| 10h15 | FRATY Quentin    | Daniel Hagimont |
-| 11h00 | PICCO Enguerrand | Julien Fasson   |
-| 11h45 | fin              |                 |
+| Heure | Étudiant        | Tuteur N7       |
+|-------|-----------------|-----------------|
+| 09h30 | FOUCHER Nathan  | Daniel Hagimont |
+| 10h15 | PERICAT Maxence | Julien Fasson   |
+| 11h00 | FRATY Quentin   | Daniel Hagimont |
+| 11h45 | BORRINI Théo    | Julien Fasson   |
+| 12h30 | fin             |                 |
 
 ### Mardi 03/09/2024 après-midi - salle : INSA XXXX
 
@@ -47,7 +47,7 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 | 14h30 | OBERTI Michael     | Julien Fasson     |
 | 15h15 | RAINJONNEAU Pierre | Julien Fasson     |
 | 16h00 | BROUSSEAU Valérian | Julien Fasson     |
-| 16h45 | BORRINI Théo       | Julien Fasson     |
+| 16h45 | PICCO Enguerrand   | Julien Fasson     |
 | 17h30 | fin                |                   |
 
 ### Mercredi 04/09/2024 matin - salle : INSA XXXX
