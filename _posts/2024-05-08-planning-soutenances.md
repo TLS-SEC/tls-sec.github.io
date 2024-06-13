@@ -70,23 +70,21 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
-| Heure | Étudiant            | Tuteur INSA |
-|-------|---------------------|-------------|
-| 08h45 | Cauli Sacha         |             |
-| 09h30 | Charpentier Estelle |             |
-| 10h15 | Corella Gabriel     |             |
-| 11h00 | Darthenucq Sacha    |             |
-| 11h45 | David Maxime        |             |
-| 12h30 | fin                 |             |
+| Heure | Étudiant              | Tuteur INSA |
+|-------|-----------------------|-------------|
+| 08h45 | CAULI Sacha           | Le Botlan   |
+| 09h30 | HASSON Hugo           | Le Botlan   |
+| 10h15 | RIGAL Nicolas         | Le Botlan   |
+| 11h00 | DARTHENUCQ Sacha      | Nicomette   |
+| 11h45 | DELADRIERE Enguerrand | Guermouche  |
+| 12h30 | fin                   |             |
 
 | Heure | Étudiant              | Tuteur INSA |
 |-------|-----------------------|-------------|
-| 13h45 | Deladriere Enguerrand |             |
-| 14h30 | Duclos-Gendreu Tanguy |             |
-| 15h15 | Dy Mailis             |             |
-| 16h00 | Forsans Justin        |             |
-| 16h45 | Hasson Hugo           |             |
-| 17h30 | fin                   |             |
+| 13h45 | DY Mailis             | Nicomette   |
+| 14h30 | DUCLOS-GENDREU Tanguy | Lefeux      |
+| 15h15 | DAVID Maxime          | Sicard      |
+| 16h00 | fin                   |             |
 
 ### Mercredi 04/09/2024 - salle : INSA XXXX
 
@@ -94,20 +92,28 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant        | Tuteur INSA |
 |-------|-----------------|-------------|
-| 08h45 | Jakubiak Adrien |             |
-| 09h30 | Lacroix Raphael |             |
-| 10h15 | Lejeune Aurelia |             |
-| 11h00 | Marche Karine   |             |
-| 11h45 | Raveau Matthis  |             |
+| 08h45 | JAKUBIAK Adrien | Vernadat    |
+| 09h30 | LACROIX Raphael | Bit-Monnot  |
+| 10h15 | LEJEUNE Aurelia | Lentz       |
+| 11h00 | MARCHE Karine   | Chassot     |
+| 11h45 | RAVEAU Matthis  | Kloda       |
 | 12h30 | fin             |             |
 
-| Heure | Étudiant      | Tuteur INSA |
-|-------|---------------|-------------|
-| 13h45 | Rigal Nicolas |             |
-| 14h30 | Roziere Evan  |             |
-| 15h15 | Soual Kilian  |             |
-| 16h00 | Starck Paul   |             |
-| 16h45 | fin           |             |
+| Heure | Étudiant            | Tuteur INSA |
+|-------|---------------------|-------------|
+| 13h45 | CHARPENTIER Estelle | Esquirol    |
+| 14h30 | ROZIERE Evan        | Esquirol    |
+| 15h15 | --                  |             |
+| 16h00 | FORSANS Justin      | Yangui      |
+| 16h45 | SOUAL Kilian        | Yangui      |
+| 17h30 | fin                 |             |
+
+### Hors planing
+
+| Date    | Étudiant        | Tuteur INSA |
+|---------|-----------------|-------------|
+| 26/08   | STARCK Paul     | Esquirol    |
+| à venir | CORELLA Gabriel | Nicomette   |
 
 ## Étudiants ENAC &amp; SupAéro
 
