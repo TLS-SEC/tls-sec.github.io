@@ -45,10 +45,9 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 |-------|--------------------|-------------------|
 | 13h45 | METZINGER Axel     | Philippe Queinnec |
 | 14h30 | OBERTI Michael     | Julien Fasson     |
-| 15h15 | RAINJONNEAU Pierre | Julien Fasson     |
-| 16h00 | BROUSSEAU Valérian | Julien Fasson     |
-| 16h45 | PICCO Enguerrand   | Julien Fasson     |
-| 17h30 | fin                |                   |
+| 15h15 | BROUSSEAU Valérian | Julien Fasson     |
+| 16h00 | PICCO Enguerrand   | Julien Fasson     |
+| 16h45 | fin                |                   |
 
 ### Mercredi 04/09/2024 matin - salle : INSA XXXX
 
