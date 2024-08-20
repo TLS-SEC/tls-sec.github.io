@@ -67,7 +67,7 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 ### Mardi 03/09/2024 - salle : INSA XXXX
 
-Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
+Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant              | Tuteur INSA |
 |-------|-----------------------|-------------|
@@ -75,8 +75,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 | 09h30 | HASSON Hugo           | Le Botlan   |
 | 10h15 | RIGAL Nicolas         | Le Botlan   |
 | 11h00 | DARTHENUCQ Sacha      | Nicomette   |
-| 11h45 | DELADRIERE Enguerrand | Guermouche  |
-| 12h30 | fin                   |             |
+| 11h45 | fin                   |             |
 
 | Heure | Étudiant              | Tuteur INSA |
 |-------|-----------------------|-------------|
@@ -87,7 +86,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 ### Mercredi 04/09/2024 - salle : INSA XXXX
 
-Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
+Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant        | Tuteur INSA |
 |-------|-----------------|-------------|
@@ -109,10 +108,11 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 ### Hors planing
 
-| Date    | Étudiant        | Tuteur INSA |
-|---------|-----------------|-------------|
-| 26/08   | STARCK Paul     | Esquirol    |
-| à venir | CORELLA Gabriel | Nicomette   |
+| Date    | Étudiant              | Tuteur INSA |
+|---------|-----------------------|-------------|
+| 26/08   | STARCK Paul           | Esquirol    |
+| 30/08   | DELADRIERE Enguerrand | Guermouche  |
+| à venir | CORELLA Gabriel       | Nicomette   |
 
 ## Étudiants ENAC &amp; SupAéro
 
