@@ -25,7 +25,7 @@ Dans le cas où ils seraient absents, ils devront nous l'envoyer avant leur
 
 ## Étudiants ENSEEIHT (FISE et Mastère Spécialisé)
 
-### Mardi 03/09/2024 matin - salle : INSA XXXX
+### Mardi 03/09/2024 matin - salle : INSA CSH-013
 
 Jury : Julien Fasson, Daniel Hagimont, tuteurs entreprise
 
@@ -37,7 +37,7 @@ Jury : Julien Fasson, Daniel Hagimont, tuteurs entreprise
 | 11h45 | BORRINI Théo    | Julien Fasson   |
 | 12h30 | fin             |                 |
 
-### Mardi 03/09/2024 après-midi - salle : INSA XXXX
+### Mardi 03/09/2024 après-midi - salle : INSA CSH-013
 
 Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 
@@ -49,7 +49,7 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 | 16h00 | PICCO Enguerrand   | Julien Fasson     |
 | 16h45 | fin                |                   |
 
-### Mercredi 04/09/2024 matin - salle : INSA XXXX
+### Mercredi 04/09/2024 matin - salle : INSA CSH-013
 
 Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
@@ -65,7 +65,7 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 ## Étudiants INSA (FISE et Mastère Spécialisé)
 
-### Mardi 03/09/2024 - salle : INSA XXXX
+### Mardi 03/09/2024 - salle : INSA CSH-02
 
 Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
@@ -84,7 +84,7 @@ Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 | 15h15 | DAVID Maxime          | Sicard      |
 | 16h00 | fin                   |             |
 
-### Mercredi 04/09/2024 - salle : INSA XXXX
+### Mercredi 04/09/2024 - salle : INSA CSH-02
 
 Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
@@ -116,7 +116,7 @@ Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
 ## Étudiants ENAC &amp; SupAéro
 
-### Mardi 03/09/2024 - salle : INSA XXXX
+### Mardi 03/09/2024 - salle : INSA CSH-015
 
 Jury : Ladislas Hajnal, Jean-Christophe Deneuville, Jonathan Roux, tuteurs entreprise
 
