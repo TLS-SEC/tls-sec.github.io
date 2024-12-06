@@ -5,7 +5,6 @@ partenaires :
 
 * ENSEEIHT : *prenom.nom@enseeiht.fr*
   * Philippe Queinnec
-  * Julien Fasson
 * INSA : *prenom.nom@insa-toulouse.fr*
   * Vincent Nicomette
 
