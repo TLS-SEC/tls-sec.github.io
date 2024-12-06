@@ -10,8 +10,14 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2024-2025.
 
 # Goupes de projets longs 2024-2025
 
-## G1 ...
+## G1 Armand Carraz-Billat, Daniel Hennig
 
+**OSINT et Social Engineering**
+
+L'idée est de réaliser un challenge OSINT en plusieurs étapes (un peu à la manière des chal Ozint.eu), pour permettre de mettre en perspective toutes les techniques d'OSINT existantes, quels biais humains elles utilisent, comment les utiliser d'un point de vue technique, comment s'en protéger etc...
+Nous pourrons tourner cette création sur la simulation d'un cas réel d'investigation, comme si nous retrouvons des pistes pour traquer quelqu'un qui s'est introduit dans un système.
+
+## G2 ...
 
 # Soutenances 10/03/2025 après-midi (à confirmer)
 
