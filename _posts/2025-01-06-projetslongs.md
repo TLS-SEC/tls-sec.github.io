@@ -13,7 +13,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2024-2025.
 ## G1 ...
 
 
-# Soutenances 10/03/2024 après-midi (à confirmer)
+# Soutenances 10/03/2025 après-midi (à confirmer)
 
 20 minutes de présentation, 10 minutes de question.
 
