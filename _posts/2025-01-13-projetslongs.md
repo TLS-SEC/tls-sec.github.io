@@ -10,12 +10,11 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2024-2025.
 
 # Goupes de projets longs 2024-2025
 
-## G1 Armand CARRAZ-BILLAT, Daniel HENNIG
+## G1 Armand CARRAZ-BILLAT, Daniel HENNIG, Samy SAAD CHAOUCH
 
 **OSINT et Social Engineering**
 
-L'idée est de réaliser un challenge OSINT en plusieurs étapes (un peu à la manière des chal Ozint.eu), pour permettre de mettre en perspective toutes les techniques d'OSINT existantes, quels biais humains elles utilisent, comment les utiliser d'un point de vue technique, comment s'en protéger etc...
-Nous pourrons tourner cette création sur la simulation d'un cas réel d'investigation, comme si nous retrouvons des pistes pour traquer quelqu'un qui s'est introduit dans un système.
+L'idée est de concevoir un challenge OSINT en plusieurs étapes, inspiré des formats tels que ceux proposés par Ozint.eu. Ce challenge permettrait d'explorer de manière pratique et progressive l'ensemble des techniques OSINT disponibles. Il mettrait en lumière les biais cognitifs exploités, les approches techniques utilisées, ainsi que les moyens de se prémunir contre ces techniques. L'ensemble pourrait être structuré autour d'une simulation réaliste d'enquête, où les participants devraient suivre des indices pour traquer un individu ayant infiltré un système.
 
 ## G2 Mathis HYOUNET, Leonardo BLAVIGNAC, Apollinaire CRIQUET
 
@@ -44,15 +43,15 @@ Pour la phase d'implémentation, comme la difficulté nous est incertaine, nous 
 
 Le but du projet est de développer un outil permettant d’automatiser les tests de pénétration de sites web en python3.
 
-1) Reconnaissance automatisée :
+1. Reconnaissance automatisée :
     - Scraper les pages du site web
     - identifier les formulaires
     - identifier les endpoints
-2) Vulnérabilités visées :
+2. Vulnérabilités visées :
     - Injection SQL : envoie de payloads (SQL) dans les champs de saisie et les URL, détecte les réponses anormales
     - XSS (Cross-Site Scripting) : envoie de payloads (scripts/malwares exécutables) dans les champs de saisie et les URL, vérifier l’exécution des payloads
     - Analyse des en-têtes HTTP : vérifier si certaines protections sont utilisées (Content-Security-Policy ou X-Frame-Options)
-3) Rapport automatisé
+3. Rapport automatisé
 
 ## G4 Achraf BENSEBAA, Laurent POUDROUX, Téo PISENTI 
 
