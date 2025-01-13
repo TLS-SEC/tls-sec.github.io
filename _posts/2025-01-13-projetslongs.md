@@ -29,7 +29,7 @@ Pour la phase d'implémentation, comme la difficulté nous est incertaine, nous 
   - Implémentation d'une des fonctions mathématiques sous adjacent en HDL
 - Objectif modéré :
   - Implémentation d'une fonctionnalité de l'algorithme (keygen, decrypt...) en C
- - Implémentation de toutes les fonctions mathématiques "essentiels" utilisé par cette fonctionnalité en HDL
+  - Implémentation de toutes les fonctions mathématiques "essentiels" utilisé par cette fonctionnalité en HDL
 - Objectif ambitieux :
   - Implémentation de plusieurs fonctionnalités de l'algorithme en C
   - Implémentation de toutes les fonctions mathématiques "essentiels" utilisé par ces fonctionnalités en HDL et les tester sur un FPGA
@@ -119,6 +119,34 @@ Objectives
 - Challenge Web (CSRF, sérialisation) + élévation de privilège d'un système unix. 
 - Challenge physique d'un réseau Wifi dans la salle à casser (WPA2) .
 
+## G9 Alexis DUVERNEIX, Arthur MURARO
+
+**Recherche de vulnérabilités sur des implémentations RISC V**
+
+Un papier sorti récemment (Ghostwriter) a annoncé des vulnérabilités
+majeures dans les différentes implémentations de processeurs sous
+architecture RISC V. Ils ont pour cela créé un système de fuzzing
+différentiel sur différents processeurs de différents fabricants et ont
+permis de remonter à la fois des bugs, comme des problème d'implémentation
+de la norme RISC V et des vulnérabilités. (cf : https://ghostwriteattack.com/ )
+Nous aimerions tenter nous aussi de mettre en place du fuzzing et tenter de
+trouver des bugs.
+
+## G10 Robin AUGEREAU, Yohan TESTEMALE, Mathieu BENZERROUK
+
+**Création d'une architecture de cloud hybride Zero Trust avec une distribution Debian personnalisée**
+
+Ce projet vise à concevoir et mettre en œuvre une infrastructure cloud hybride sécurisée basée sur le modèle Zero Trust. L’objectif est de développer une distribution Debian adaptée à un environnement professionnel et d’intégrer les services nécessaires au fonctionnement sécurisé des applications métiers.
+
+  - Développement d’une distribution Debian personnalisée
+      - Intégration des logiciels professionnels tels qu’une suite bureautique, des applications de messagerie (instantanée et e-mails) et un client VPN.
+      - Configuration des services essentiels pour répondre aux besoins d’un environnement d’entreprise.
+  - Mise en place d’une infrastructure Kubernetes
+      - Déploiement d’une architecture cloud hybride avec orchestration via Kubernetes pour assurer la scalabilité, la résilience et une gestion centralisée des services.
+      - Intégration des principes de sécurité Zero Trust, notamment : Authentification forte et continue ; Micro-segmentation pour limiter les privilèges ; Surveillance active des flux réseau et des activités des utilisateurs.
+  - Prise en compte des contraintes de sauvegarde et de récupération
+      - Mise en place de solutions de sauvegarde des données et des configurations avec des temps de retour (RTO) et points de reprise (RPO) clairement définis.
+      - Simulation de scénarios de panne pour tester et valider les procédures de reprise.
 
 # Soutenances 10/03/2025 après-midi
 
