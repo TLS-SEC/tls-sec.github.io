@@ -121,6 +121,8 @@ Objectives
 
 ## G9 Alexis DUVERNEIX, Arthur MURARO
 
+Tuteur : Benoît Morgan
+
 **Recherche de vulnérabilités sur des implémentations RISC V**
 
 Un papier sorti récemment (Ghostwriter) a annoncé des vulnérabilités
@@ -147,6 +149,20 @@ Ce projet vise à concevoir et mettre en œuvre une infrastructure cloud hybride
   - Prise en compte des contraintes de sauvegarde et de récupération
       - Mise en place de solutions de sauvegarde des données et des configurations avec des temps de retour (RTO) et points de reprise (RPO) clairement définis.
       - Simulation de scénarios de panne pour tester et valider les procédures de reprise.
+      
+## G11 Nino GAUTHIER, Mathieu BAUDON, Hugo SIMON
+
+**Challenges pour la THCon 2025**
+
+  - Un premier challenge de rétro-ingénierie qui serait écrit en Zig. L'idée
+     est d’avoir un challenge assez accessible.
+  - Un second challenge plus costaud en rétro-ingénierie basé sur la
+    technique d'anti analyse dynamique: les nanomites.
+  - Une sorte de coffre-fort permettant de stocker de manière "chiffrée" des
+     mots de passe (dont le FLAG). Les joueurs devront alors inverser la
+     fonction qui s’occupe du chiffrement.
+  - Challenges forensiques
+
 
 # Soutenances 10/03/2025 après-midi
 
