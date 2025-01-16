@@ -171,6 +171,31 @@ Nous partons du constat suivant : de plus en plus d'entreprises déploient leurs
 
 Le sujet de notre projet long prendra la forme d'un état de l’art des surfaces d'attaques dans le domaine du cloud, nous envisagerons possiblement la mise en œuvre d'un prototype d'architecture vulnérable, ainsi qu'une ou plusieurs attaques.
 
+## G13 Julien MAIGNAN
+
+**Création d'un réseau domotique sécurisé**
+
+  - Analyse de risque pour déterminer les points à sécuriser en priorité. 
+  - Sécurité matériel : 
+    - Voir dans les documentations quels sont les sécurité matériel proposé par chaque composant 
+    - Vérifier si des attaques vue en cours peuvent être effectué sur le matériel et le cas échéant appliquer les contremesures 
+    - Communiquer de façon sécurisé avec les capteurs 
+    - Si c'est possible mettre en place une communication chiffré entre les capteurs et l'ESP32 
+    - Reconnaitre chaque capteur de manière unique 
+  - Cryptographie : 
+    - Stocké de manières sécuriser les données des capteurs 
+    - Sur la raspbery PI sécuriser les données, cloisonner les communications avec chaque ESP 32 
+    - Génération sécurisé de clés ou certificat pour la communication sécurisé. 
+    - Mise à jours périodique des secrets partagé. 
+  - Réseau : 
+    - Mettre en place un tunnel IPV4 ou 6 entre le serveur et les ESP32 
+    - Mettre en place un pare-feu vers l'extérieur 
+    - Mettre en place une architecture réseau sécurisé (DMZ, routeur, parefeu), cloisonner le réseau. 
+    - Les différents éléments du réseau (parefeu, routeur, serveur) serai hébergé sur la Raspbery dans différents conteneur. 
+  - Mettre en place un système de versionnage et de mise à jours pour tous les programmes.
+  - S'il y a le temps faire de la sécurisation d'OS sur la Raspbery PI 
+  - S'il y a le temps faire passer des tests statistiques au code. 
+
 # Soutenances 10/03/2025 après-midi
 
 20 minutes de présentation, 10 minutes de question.
