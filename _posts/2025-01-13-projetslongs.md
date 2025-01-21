@@ -196,6 +196,10 @@ Le sujet de notre projet long prendra la forme d'un état de l’art des surface
   - S'il y a le temps faire de la sécurisation d'OS sur la Raspbery PI 
   - S'il y a le temps faire passer des tests statistiques au code. 
 
+## G14 Sanim GHARBI, Leopold LANARD, Alan DUTEMS
+
+**Sujet non défini**
+
 # Soutenances 10/03/2025 après-midi
 
 20 minutes de présentation, 10 minutes de question.
