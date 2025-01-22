@@ -198,7 +198,12 @@ Le sujet de notre projet long prendra la forme d'un état de l’art des surface
 
 ## G14 Sanim GHARBI, Leopold LANARD, Alan DUTEMS
 
-**Sujet non défini**
+**CTF sous une forme de cyber enquête**
+
+L'idée est de concevoir une enquête autour d'un enchainement de défis amenant à des flags et par extension des indices sur un cyberattaquant. Les participants seraient dans un role play d'enquêteurs chargés de résoudre le mystère autour de ce cyberattaquant. Des éléments les guideraient dans leur enquête comme des emails, logs, fichiers corrompus par exemple afin d'avancer vers la résolution finale.
+Les outils qu'on utiliserait seraient entre autre Wireshark, Nmap, Burp et potentiellement tout autre outils cyber qui nous semblerait pertinent d'integrer au défi.
+Mise en place d'un serveur pour heberger les défis si le temps le permet.
+
 
 # Soutenances 10/03/2025 après-midi
 
