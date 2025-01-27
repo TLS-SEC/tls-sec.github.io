@@ -12,11 +12,15 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2024-2025.
 
 ## G1 Armand CARRAZ-BILLAT, Daniel HENNIG, Samy SAAD CHAOUCH
 
+Tuteur : Jonathan Roux
+
 **OSINT et Social Engineering**
 
 L'idée est de concevoir un challenge OSINT en plusieurs étapes, inspiré des formats tels que ceux proposés par Ozint.eu. Ce challenge permettrait d'explorer de manière pratique et progressive l'ensemble des techniques OSINT disponibles. Il mettrait en lumière les biais cognitifs exploités, les approches techniques utilisées, ainsi que les moyens de se prémunir contre ces techniques. L'ensemble pourrait être structuré autour d'une simulation réaliste d'enquête, où les participants devraient suivre des indices pour traquer un individu ayant infiltré un système.
 
 ## G2 Mathis HYOUNET, Leonardo BLAVIGNAC, Apollinaire CRIQUET
+
+Tuteur : Vincent Migliore
 
 **Implantation d'un algorithme de cryptographie post-quantique**
 
@@ -38,6 +42,8 @@ Pour la phase d'implémentation, comme la difficulté nous est incertaine, nous 
   - Intégrer l'implémentation HDL avec notre implémentation C sur FPGA
 
 ## G3 Mathieu ZEIDLER, Mathieu MALAK
+
+Tuteur : Éric Alata
 
 **Automatisation des tests de pénétration WEB**
 
@@ -69,11 +75,15 @@ Nous essaierons également, à l'aide de techniques de rétro-ingénierie, de r�
 
 ## G5 Nolan CORBELLARI, Lucas THIETART, Yanis GUIRENE
 
+Tuteur : Jonathan Roux
+
 **Malware avec de l'extraction de donnée par Stéganographie**
 
 Nous allons mettre en place un malware pour de l'exfiltration de donnée et des mises à jour basé sur le principe de stéganographie. L'objectif est de démontrer comment la stéganographie peut être intégrée dans un cycle complet de fonctionnement d’un malware tout en évitant la détection par les outils de sécurité traditionnels.
 
 ## G6 Nathan LASCHON, Hugo BOUYER, Antoine GUILLERMIN
+
+Tuteur : Éric Alata
 
 **Développement d'un outil d’analyse statique de vulnérabilité pour le langage C**
 
@@ -84,6 +94,8 @@ Cet outil consisterait en :
   - éventuellement, une ouverture de l’outil permettant aux développeurs d’ajouter d’autres vulnérabilités et/ou langage à analyser (via une forme de standard)
 
 ## G7 Robin DIDENOT, Thomas EPAILLY, Nicolas PONTOIZEAU
+
+Tuteur : Jean-Christophe Deneuville
 
 **Ensuring data integrity and authenticity in commercial aviation flight recorders**
 
@@ -113,6 +125,8 @@ Objectives
 
 ## G8 Jules-Ian BARNAVON, Matis RAMARA
 
+Tuteur : Benoît Morgan
+
 **Challenges pour le CTF de la THCON**
 
 - Challenge forensic qui se base sur un dump memoire windows. 
@@ -136,6 +150,8 @@ trouver des bugs.
 
 ## G10 Robin AUGEREAU, Yohan TESTEMALE, Mathieu BENZERROUK
 
+Tuteur : Philippe Queinnec
+
 **Création d'une architecture de cloud hybride Zero Trust avec une distribution Debian personnalisée**
 
 Ce projet vise à concevoir et mettre en œuvre une infrastructure cloud hybride sécurisée basée sur le modèle Zero Trust. L’objectif est de développer une distribution Debian adaptée à un environnement professionnel et d’intégrer les services nécessaires au fonctionnement sécurisé des applications métiers.
@@ -152,6 +168,8 @@ Ce projet vise à concevoir et mettre en œuvre une infrastructure cloud hybride
       
 ## G11 Nino GAUTHIER, Mathieu BAUDON, Hugo SIMON
 
+Tuteur : Vincent Nicomette
+
 **Challenges pour la THCon 2025**
 
   - Un premier challenge de rétro-ingénierie qui serait écrit en Zig. L'idée
@@ -165,6 +183,8 @@ Ce projet vise à concevoir et mettre en œuvre une infrastructure cloud hybride
 
 ## G12 Daniel AUNAN, Alexandre CLERMONT-PEZOUS, Mohamed AITTALEB
 
+Tuteur : Romain Cayre
+
 **Vulnérabilités dans les infrastructures dites "cloud-native"**
 
 Nous partons du constat suivant : de plus en plus d'entreprises déploient leurs applications et leurs SI sur des ressources cloud, ou des infrastructures dites "hybrides".  Il nous semble donc pertinent de se questionner sur l'évolution des surfaces d'attaques dans ce contexte.
@@ -172,6 +192,8 @@ Nous partons du constat suivant : de plus en plus d'entreprises déploient leurs
 Le sujet de notre projet long prendra la forme d'un état de l’art des surfaces d'attaques dans le domaine du cloud, nous envisagerons possiblement la mise en œuvre d'un prototype d'architecture vulnérable, ainsi qu'une ou plusieurs attaques.
 
 ## G13 Julien MAIGNAN
+
+Tuteur : Philippe Queinnec
 
 **Création d'un réseau domotique sécurisé**
 
@@ -198,6 +220,8 @@ Le sujet de notre projet long prendra la forme d'un état de l’art des surface
 
 ## G14 Sanim GHARBI, Leopold LANARD, Alan DUTEMS
 
+Tuteur : Benoît Morgan
+
 **CTF sous une forme de cyber enquête**
 
 L'idée est de concevoir une enquête autour d'un enchainement de défis amenant à des flags et par extension des indices sur un cyberattaquant. Les participants seraient dans un role play d'enquêteurs chargés de résoudre le mystère autour de ce cyberattaquant. Des éléments les guideraient dans leur enquête comme des emails, logs, fichiers corrompus par exemple afin d'avancer vers la résolution finale.
@@ -215,7 +239,6 @@ Jurés :
   * EA : Éric Alata
   * JCD : Jean-Christophe Deneuville
   * JR : Jonathan Roux
-  * LH : Ladislas Hajnal
   * PQ : Philippe Queinnec
   * RC : Romain Cayre
   * VM : Vincent Migliore
