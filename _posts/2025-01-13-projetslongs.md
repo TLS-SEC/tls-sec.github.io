@@ -231,7 +231,7 @@ Mise en place d'un serveur pour heberger les défis si le temps le permet.
 
 # Soutenances 10/03/2025 après-midi
 
-20 minutes de présentation, 10 minutes de question.
+5 minutes d'installation, 20 minutes de présentation, 10 minutes de question, 10 minutes de délibération.
 
 Jurés :
 
@@ -244,22 +244,37 @@ Jurés :
   * VM : Vincent Migliore
   * VN : Vincent Nicomette
 
-Enseignants anglais :
+Enseignants anglais : Anne Bradshaw (AB), Emma Nelson-Levrero (ENL), Stephen Ryan (SR)
 
-### Jury 1 : Salle XXX
+### Jury 1 : Salle B006
 
-| Heure | Groupe | Tuteur          | Jurés |
-|-------|--------|-----------------|-------|
-|       |        |                 |       |
+| Heure | Groupe | Tuteur        | Jurés      |
+|-------|--------|---------------|------------|
+| 13:30 | G3     | Éric Alata    | EA, JR, AB |
+| 14:15 | G5     | Jonathan Roux |            |
+| 15:00 | G6     | Éric Alata    |            |
+| 15:45 | G1     | Jonathan Roux |            |
+| 16:30 | fin    |               |            |
 
-### Jury 2 : Salle XXX
+### Jury 2 : Salle B007
 
-| Heure | Groupe | Tuteur | Jurés |
-|-------|--------|--------|-------|
-|       |        |        |       |
+| Heure | Groupe | Tuteur                     | Jurés            |
+|-------|--------|----------------------------|------------------|
+| 13:30 | G8     | Benoît Morgan              | BM, JCD, VM, ENL |
+| 14:15 | G7     | Jean-Christophe Deneuville |                  |
+| 15:00 | G9     | Benoît Morgan              |                  |
+| 15:45 | G12    | Vincent Migliore           |                  |
+| 16:30 | G14    | Benoît Morgan              |                  |
+| 17:15 | fin    |                            |                  |
 
-### Jury 3 : Salle B209
+### Jury 3 : Salle C002
 
-| Heure | Groupe | Tuteur | Jurés |
-|-------|--------|--------|-------|
-|       |        |        |       |
+| Heure | Groupe | Tuteur            | Jurés          |
+|-------|--------|-------------------|----------------|
+| 13:30 | G12    | Romain Cayre      | PQ, RC, VN, SR |
+| 14:15 | G10    | Philippe Queinnec |                |
+| 15:00 | G11    | Vincent Nicomette |                |
+| 15:45 | G4     | Romain Cayre      |                |
+| 16:30 | G13    | Philippe Queinnec |                |
+| 17:15 | fin    |                   |                |
+
