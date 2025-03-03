@@ -248,24 +248,24 @@ Enseignants anglais : Anne Bradshaw (AB), Emma Nelson-Levrero (ENL), Stephen Rya
 
 ### Jury 1 : Salle B006
 
-| Heure | Groupe | Tuteur        | Jurés      |
-|-------|--------|---------------|------------|
-| 13:30 | G3     | Éric Alata    | EA, JR, AB |
-| 14:15 | G5     | Jonathan Roux |            |
-| 15:00 | G6     | Éric Alata    |            |
-| 15:45 | G1     | Jonathan Roux |            |
-| 16:30 | fin    |               |            |
+| Heure | Groupe | Tuteur                     | Jurés       |
+|-------|--------|----------------------------|-------------|
+| 13:30 | G3     | Éric Alata                 | EA, JCD, AB |
+| 14:15 | G5     | Jonathan Roux              |             |
+| 15:00 | G6     | Éric Alata                 |             |
+| 15:45 | G1     | Jonathan Roux              |             |
+| 16:30 | G7     | Jean-Christophe Deneuville |             |
+| 17:15 | fin    |                            |             |
 
 ### Jury 2 : Salle B007
 
-| Heure | Groupe | Tuteur                     | Jurés            |
-|-------|--------|----------------------------|------------------|
-| 13:30 | G8     | Benoît Morgan              | BM, JCD, VM, ENL |
-| 14:15 | G7     | Jean-Christophe Deneuville |                  |
-| 15:00 | G9     | Benoît Morgan              |                  |
-| 15:45 | G12    | Vincent Migliore           |                  |
-| 16:30 | G14    | Benoît Morgan              |                  |
-| 17:15 | fin    |                            |                  |
+| Heure | Groupe | Tuteur           | Jurés       |
+|-------|--------|------------------|-------------|
+| 13:30 | G8     | Benoît Morgan    | BM, VM, ENL |
+| 14:15 | G9     | Benoît Morgan    |             |
+| 15:00 | G12    | Vincent Migliore |             |
+| 15:45 | G14    | Benoît Morgan    |             |
+| 16:30 | fin    |                  |             |
 
 ### Jury 3 : Salle C002
 
