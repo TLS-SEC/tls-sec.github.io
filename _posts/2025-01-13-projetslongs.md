@@ -246,7 +246,7 @@ Jurés :
 
 Enseignants anglais : Anne Bradshaw (AB), Emma Nelson-Levrero (ENL), Stephen Ryan (SR)
 
-### Jury 1 : Salle B006
+### Jury 1 : Salle N7 B006
 
 | Heure | Groupe | Tuteur                     | Jurés       |
 |-------|--------|----------------------------|-------------|
@@ -257,7 +257,7 @@ Enseignants anglais : Anne Bradshaw (AB), Emma Nelson-Levrero (ENL), Stephen Rya
 | 16:30 | G7     | Jean-Christophe Deneuville |             |
 | 17:15 | fin    |                            |             |
 
-### Jury 2 : Salle B007
+### Jury 2 : Salle N7 B007
 
 | Heure | Groupe | Tuteur           | Jurés       |
 |-------|--------|------------------|-------------|
@@ -267,7 +267,7 @@ Enseignants anglais : Anne Bradshaw (AB), Emma Nelson-Levrero (ENL), Stephen Rya
 | 15:45 | G14    | Benoît Morgan    |             |
 | 16:30 | fin    |                  |             |
 
-### Jury 3 : Salle C002
+### Jury 3 : Salle N7 C002
 
 | Heure | Groupe | Tuteur            | Jurés          |
 |-------|--------|-------------------|----------------|
