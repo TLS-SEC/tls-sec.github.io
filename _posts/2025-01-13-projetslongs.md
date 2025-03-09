@@ -263,7 +263,7 @@ Enseignants anglais : Anne Bradshaw (AB), Emma Nelson-Levrero (ENL), Stephen Rya
 |-------|--------|------------------|-------------|
 | 13:30 | G8     | Benoît Morgan    | BM, VM, ENL |
 | 14:15 | G9     | Benoît Morgan    |             |
-| 15:00 | G12    | Vincent Migliore |             |
+| 15:00 | G2     | Vincent Migliore |             |
 | 15:45 | G14    | Benoît Morgan    |             |
 | 16:30 | fin    |                  |             |
 
