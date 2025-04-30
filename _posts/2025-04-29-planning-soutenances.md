@@ -62,7 +62,8 @@ Jury : Riadh Dhaou, Daniel Hagimont, tuteurs entreprise
 | 10h10 | HYOUNET Mathis    | Hagimont  |
 | 10h45 | PISENTI Teo       | Dhaou     |
 | 11h20 | AUGEREAU Robin    | Hagimont  |
-| 11h55 | fin               |           |
+| 11h55 | FOUQUET Gabin     | Hagimont  |
+| 12h30 | fin               |           |
 
 ### Vendredi 05/09/2025 après-midi - salle : ENSEEIHT C101
 
