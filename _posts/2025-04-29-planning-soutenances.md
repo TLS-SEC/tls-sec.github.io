@@ -131,14 +131,14 @@ Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
 ## Étudiants ENAC &amp; SupAéro
 
-### Jeudi 04/09/2025 - salle : ENAC XXX
+### Vendredi 05/09/2025 - salle : ENAC Amphithéatre Bréguet
 
 Jury : Jean-Christophe Deneuville, Jonathan Roux, tuteurs entreprise
 
-| Heure | Étudiant | Tuteur ENAC |
-|-------|----------|-------------|
-| 09h15 |          |             |
-| 10h00 |          |             |
-| 10h45 |          |             |
-| 11h30 |          |             |
-| 12h15 | fin      |             |
+| Heure | Étudiant           | Tuteur ENAC |
+|-------|--------------------|-------------|
+| 08h30 | Mathieu Baudon     |             |
+| 09h30 | Robin Didenot      |             |
+| 10h30 | Thomas Epailly     |             |
+| 11h30 | Nicolas Pontoizeau |             |
+| 12h30 | fin                |             |
