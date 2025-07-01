@@ -32,12 +32,11 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 
 | Heure | Étudiant         | Tuteur N7 |
 |-------|------------------|-----------|
-| 09h00 | MALAK Mathieu    | Queinnec  |
-| 09h35 | GAUTHIER Nino    | Fasson    |
-| 10h10 | CORBELLARI Nolan | Queinnec  |
-| 10h45 | ZEIDLER Mathieu  | Fasson    |
-| 11h20 | TESTEMALE Yohan  | Fasson    |
-| 11h55 | fin              |           |
+| 09h30 | GAUTHIER Nino    | Fasson    |
+| 10h05 | CORBELLARI Nolan | Queinnec  |
+| 10h40 | ZEIDLER Mathieu  | Fasson    |
+| 11h15 | TESTEMALE Yohan  | Fasson    |
+| 11h50 | fin              |           |
 
 ### Jeudi 04/09/2025 après-midi - salle : ENSEEIHT C004
 
