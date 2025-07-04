@@ -38,7 +38,7 @@ Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 | 11h15 | TESTEMALE Yohan  | Fasson    |
 | 11h50 | fin              |           |
 
-### Jeudi 04/09/2025 après-midi - salle : ENSEEIHT C004
+### Jeudi 04/09/2025 après-midi - salle : ENSEEIHT A304
 
 Jury : Julien Fasson, Philippe Queinnec, tuteurs entreprise
 
