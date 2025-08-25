@@ -78,7 +78,7 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 ## Étudiants INSA (FISE)
 
-### Jeudi 04/09/2025 matin - salle : INSA XXX
+### Jeudi 04/09/2025 matin - salle : INSA GEI-215
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
@@ -91,7 +91,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 | 11h45 |     NONE             |                         |
 | 12h30 | fin                  |             |
 
-### Jeudi 04/09/2025 après-midi - salle : INSA XXX
+### Jeudi 04/09/2025 après-midi - salle : INSA GEI-215
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
@@ -104,7 +104,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 | 16h45 | GHARBI Sanim          | Escriba Christophe      |
 | 17h30 | fin                   |                         |
 
-### Vendredi 05/09/2025 matin - salle : INSA XXX
+### Vendredi 05/09/2025 matin - salle : INSA GEI-215
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
@@ -117,7 +117,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 | 11h45 | DUTEMS Alan        | Lentz Antonin              |
 | 12h30 | fin                |                            |
 
-### Vendredi 05/09/2025 après-midi - salle : INSA XXX
+### Vendredi 05/09/2025 après-midi - salle : INSA GEI-215
 
 Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
