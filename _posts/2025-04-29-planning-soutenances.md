@@ -88,8 +88,8 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 | 09h30 | AUNAN Daniel         | Baron Claude            |
 | 10h15 | BENSABAA Achraf      | Abdellatif Slim         |
 | 11h00 | BLAVIGNAC Leonardo   | Abdellatif Slim         |
-| 11h45 |     NONE             |                         |
-| 12h30 | fin                  |             |
+| 11h45 | GHARBI Sanim         | Escriba Christophe      |
+| 12h30 | fin                  |                         |
 
 ### Jeudi 04/09/2025 après-midi - salle : INSA GEI-215
 
@@ -101,7 +101,7 @@ Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 | 14h30 | CLERMONT-PEZOUS       | Vernadat François       |
 | 15h15 | CRIQUET Appolinaire   | Cayre Romain            |
 | 16h00 | LASCHON Nathan        | Cayre Romain            |
-| 16h45 | GHARBI Sanim          | Escriba Christophe      |
+| 16h45 | NONE                  |                         |
 | 17h30 | fin                   |                         |
 
 ### Vendredi 05/09/2025 matin - salle : INSA GEI-215
