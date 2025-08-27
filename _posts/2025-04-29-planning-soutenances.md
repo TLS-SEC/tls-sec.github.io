@@ -123,8 +123,8 @@ Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant             | Tuteur INSA           |
 |-------|----------------------|-----------------------|
-| 13h45 | BARNAVON Jules-Ian   | Migliore Vincent      |
-| 14h30 | GUILLERMIN Antoine   | Huguet Marie-Jo       |
+| 13h45 | GUILLERMIN Antoine   | Huguet Marie-Jo       |
+| 14h30 | BARNAVON Jules-Ian   | Migliore Vincent      |
 | 15h15 | AIT-TALEB Mohamed    | Yanguy Sami           |
 | 16h00 | SAAD-CHAOUCH Samy    | Dragomirescu Daniela  |
 | 16h45 | fin                  |                       |
