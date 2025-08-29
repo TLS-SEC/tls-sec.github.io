@@ -130,7 +130,7 @@ Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
 ## Étudiants ENAC &amp; SupAéro
 
-### Vendredi 05/09/2025 - salle : ENAC Amphithéatre Bréguet
+### Vendredi 05/09/2025 - salle : ENAC Amphithéatre Boucher
 
 Jury : Jean-Christophe Deneuville, Jonathan Roux, tuteurs entreprise
 
