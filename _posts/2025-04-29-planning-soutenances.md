@@ -78,55 +78,56 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 ## Étudiants INSA (FISE)
 
-### Jeudi 04/09/2025 matin - salle : INSA XXX
+### Jeudi 04/09/2025 matin - salle : INSA GEI-215
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 08h30 |          |             |
-| 09h15 |          |             |
-| 10h00 |          |             |
-| 10h45 |          |             |
-| 11h30 |          |             |
-| 12h15 | fin      |             |
+| Heure | Étudiant             | Tuteur INSA             |
+|-------|----------------------|-------------------------|
+| 08h45 | SLAMNIA Enzo         | Baron Claude            |
+| 09h30 | AUNAN Daniel         | Baron Claude            |
+| 10h15 | BENSABAA Achraf      | Abdellatif Slim         |
+| 11h00 | BLAVIGNAC Leonardo   | Abdellatif Slim         |
+| 11h45 | GHARBI Sanim         | Escriba Christophe      |
+| 12h30 | fin                  |                         |
 
-### Jeudi 04/09/2025 après-midi - salle : INSA XXX
-
-Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
-
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 13h45 |          |             |
-| 14h30 |          |             |
-| 15h15 |          |             |
-| 16h00 |          |             |
-| 16h45 | fin      |             |
-
-### Vendredi 05/09/2025 matin - salle : INSA XXX
+### Jeudi 04/09/2025 après-midi - salle : INSA GEI-215
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 08h30 |          |             |
-| 09h15 |          |             |
-| 10h00 |          |             |
-| 10h45 |          |             |
-| 11h30 |          |             |
-| 12h15 | fin      |             |
+| Heure | Étudiant              | Tuteur INSA             |
+|-------|-----------------------|-------------------------|
+| 13h45 | CARRAZ-BILLAT Armand  | Auriol Guillaume        |
+| 14h30 | CLERMONT-PEZOUS       | Vernadat François       |
+| 15h15 | CRIQUET Appolinaire   | Cayre Romain            |
+| 16h00 | LASCHON Nathan        | Cayre Romain            |
+| 16h45 | NONE                  |                         |
+| 17h30 | fin                   |                         |
 
-### Vendredi 05/09/2025 après-midi - salle : INSA XXX
+### Vendredi 05/09/2025 matin - salle : INSA GEI-215
+
+Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
+
+| Heure | Étudiant           | Tuteur INSA                |
+|-------|--------------------|----------------------------|
+| 08h45 | GROSS Léane        | Leleux Philippe            |
+| 09h30 | HENNING Daniel     | Leleux Philippe            |
+| 10h15 | PITAULT Rémi       | Migliore Vincent           |
+| 11h00 | RAMARA MAthis      | Chassot Christophe         |
+| 11h45 | DUTEMS Alan        | Lentz Antonin              |
+| 12h30 | fin                |                            |
+
+### Vendredi 05/09/2025 après-midi - salle : INSA GEI-215
 
 Jury : V. Migliore, tuteurs INSA, tuteurs entreprise
 
-| Heure | Étudiant | Tuteur INSA |
-|-------|----------|-------------|
-| 13h45 |          |             |
-| 14h30 |          |             |
-| 15h15 |          |             |
-| 16h00 |          |             |
-| 16h45 | fin      |             |
+| Heure | Étudiant             | Tuteur INSA           |
+|-------|----------------------|-----------------------|
+| 13h45 | GUILLERMIN Antoine   | Huguet Marie-Jo       |
+| 14h30 | BARNAVON Jules-Ian   | Migliore Vincent      |
+| 15h15 | AIT-TALEB Mohamed    | Yanguy Sami           |
+| 16h00 | SAAD-CHAOUCH Samy    | Dragomirescu Daniela  |
+| 16h45 | fin                  |                       |
 
 ## Étudiants ENAC &amp; SupAéro
 
