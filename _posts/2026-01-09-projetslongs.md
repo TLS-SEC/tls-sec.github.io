@@ -58,17 +58,17 @@ serveur de contrôle des bombes obtenu (grâce au challenge 2), l'étape
 finale consiste à exploiter une vulnérabilité système pour passer "root"
 et exécuter le script de désactivation globale.
 
-## G3 Pierre SAUSSEREAU, Nathan WALLART 
+## G3 Pierre SAUSSEREAU, Nathan WALLART
 
 Tuteur : Jonathan Roux ?
 
 **Honeypots**
 
-Notre sujet concerne les honeypots, c'est-à-dire une partie d'un système d'information (machine, service, appli, base de données...) qui est volontairement non-sécurisé et facilement repérable par un attaquant pour être visé. L'objectif est que l'attaquant s'y connecte en premier lors de son intrusion dans un SI pour qu'une alerte soit levée par les outils de détection d'intrusion et qu'il soit repéré avant qu'il n'attaque d'autres éléments du système vraiment sensible. 
+Notre sujet concerne les honeypots, c'est-à-dire une partie d'un système d'information (machine, service, appli, base de données...) qui est volontairement non-sécurisé et facilement repérable par un attaquant pour être visé. L'objectif est que l'attaquant s'y connecte en premier lors de son intrusion dans un SI pour qu'une alerte soit levée par les outils de détection d'intrusion et qu'il soit repéré avant qu'il n'attaque d'autres éléments du système vraiment sensible.
 
-Notre projet comporterait tout d'abord une analyse de l'état de l'art des types d'honeypots. Ensuite, nous analyserons comment intégrer un honeypot dans un SI en fonction du type d'organisation, de sa taille, de son activité et des propriétés de son SI. Enfin, nous essaierons de construire un honeypot pour une organisation spécifique. 
+Notre projet comporterait tout d'abord une analyse de l'état de l'art des types d'honeypots. Ensuite, nous analyserons comment intégrer un honeypot dans un SI en fonction du type d'organisation, de sa taille, de son activité et des propriétés de son SI. Enfin, nous essaierons de construire un honeypot pour une organisation spécifique.
 
-L'objectif en somme de notre projet est de déterminer les éléments à prendre en considération dans la construction d'un honeypot pour qu'il soit le plus efficacement trouvé par un attaquant sans laisser paraitre qu'il est un piège. 
+L'objectif en somme de notre projet est de déterminer les éléments à prendre en considération dans la construction d'un honeypot pour qu'il soit le plus efficacement trouvé par un attaquant sans laisser paraitre qu'il est un piège.
 
 ## G4 Evann DREUMONT, Quentin POINTEAU
 
@@ -76,11 +76,11 @@ Tuteur : à venir
 
 **Extending BGP Security**
 
-Ce projet aborde la sécurité du protocole BGP (Border Gateway Protocol) qui permet l’échange d’informations de routage entre les systèmes autonomes (AS). Conçu à une époque où la confiance était implicite, le BGP présente des vulnérabilités majeures, comme le détournement de préfixes IP, les fuites de routes ou la manipulation des chemins AS, exploitées par des acteurs malveillants ou des erreurs de configuration.
+Ce projet aborde la sécurité du protocole BGP (Border Gateway Protocol), brique principale d'internet, qui permet l’échange d’informations de routage entre les systèmes autonomes (AS). Conçu à une époque où la confiance était implicite, le protocole présente des vulnérabilités majeures, comme le détournement de préfixes IP, les fuites de routes ou la manipulation de l'AS_PATH.
 
 Pour remédier à ces failles, des extensions de sécurité basées sur l’infrastructure RPKI (Resource Public Key Infrastructure) ont été introduites, notamment les ROA (Route Origin Authorization), qui valident l’AS origine d’un préfixe IP, et les ASPA (Autonomous System Provider Authorization), qui vérifient les relations entre AS. Cependant, ces mécanismes ne couvrent pas tous les risques.
 
-Le projet étudiera une nouvelle approche : la vérification des origines de routes basée sur des listes de préfixes signées (SPL), qui complète les ROA en permettant de valider les préfixes qu’un AS est autorisé à annoncer. L’objectif du projet est d’étudier cette proposition, de la mettre en œuvre dans un environnement de laboratoire BGP, et d’évaluer son efficacité face à des scénarios d’attaques non entièrement résolus par les mécanismes existants.
+Le projet étudiera une nouvelle approche : la vérification des origines de routes basée sur des listes de préfixes signées (SPL), qui complète les ROA en permettant de valider les préfixes qu’un AS est autorisé à annoncer. L’objectif du projet est d’étudier cette proposition, d'écrire une implémentation de cette nouvelle solution, et d’évaluer son efficacité face à des scénarios d’attaques non entièrement résolus par les mécanismes existants.
 
 ## Gx XXX
 
