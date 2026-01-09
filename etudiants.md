@@ -1,5 +1,15 @@
 ## Informations pour les étudiants de TLS-SEC
 
+### Année scolaire 2025-2026
+<ul>
+{% for post in site.categories["2025-2026"] %}
+<li>
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  {{ post.excerpt }}
+</li>
+{% endfor %}
+</ul>
+
 ### Année scolaire 2024-2025
 <ul>
 {% for post in site.categories["2024-2025"] %}
