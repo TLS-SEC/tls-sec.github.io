@@ -82,6 +82,84 @@ Pour remédier à ces failles, des extensions de sécurité basées sur l’infr
 
 Le projet étudiera une nouvelle approche : la vérification des origines de routes basée sur des listes de préfixes signées (SPL), qui complète les ROA en permettant de valider les préfixes qu’un AS est autorisé à annoncer. L’objectif du projet est d’étudier cette proposition, d'écrire une implémentation de cette nouvelle solution, et d’évaluer son efficacité face à des scénarios d’attaques non entièrement résolus par les mécanismes existants.
 
+## G5 Antoine LEBEAULT, Antoine REY
+
+Tuteur : à venir
+
+**Développement d'un Linux Security Module**
+
+Nous souhaitons améliorer notre compréhension des mécanismes de protection qui existent dans le noyau Linux. Historiquement, le noyau Linux ne support que des mécanismes de contrôle d’accès dit « discret », c’est-à-dire ne reposant que sur l’identité de l’utilisateur et de ses groupes.
+
+Le framework Linux Security Module (LSM) du noyau permet d’étendre ces capacités de contrôle d’accès, et d’implémenter un contrôle plus fin ou plus strict, tel que du MAC. Ce framework est notamment celui sur lequel repose par exemple SELinux, AppArmor ou encore Tomoyo, qui sont largement déployées.
+
+Nous proposons d’implémenter un LSM basique, permettant par exemple initialement de restreindre l’accès de certains programmes à certains fichier uniquement.
+L’objectif ambitieux serait ensuite d’étendre le module autant que possible afin de le rendre plus polyvalent, avec par exemple des restrictions à l’accès réseau, etc.
+
+## G6  Zacharie Igor TENE FOGANG, Aissata DIENG
+
+Tuteur : à venir
+
+**Développement d'un antimalware avec détection comportementale**
+
+Le projet vise à développer un outil de détection de malwares combinant plusieurs approches complémentaires :
+
+- Détection par signatures : Construction d'une base de données de hash (SHA256/MD5) issues de sources publiques (MalwareBazaar, VirusTotal) ; scan rapide par comparaison de hash
+- Analyse heuristique (statique) : Analyse du format Executable ; Détection d'imports d'API/syscalls suspects ; Identification de strings et métadonnées suspectes
+- Détection comportementale OU Machine Learning (selon avancement) :
+  - Option 1 : Détection comportementale (monitoring temps réel) : Monitoring des processus et connexions réseau ; Surveillance des mécanismes de persistance ; Détection de comportements malveillants (ransomware, injection)
+  - Option 2 : Machine Learning : Entraînement d'un classificateur Random Forest ; Utilisation d'un dataset
+
+L'outil intégrera un système de quarantaine, un logging détaillé et une interface CLI. Des tests comparatifs seront effectués avec des antivirus existant pour évaluer l'efficacité.
+
+## G7 Natalia MYASNIKOVA, Kais SELLAMI
+
+Tuteur : à venir
+
+**Rétro-ingénierie et évaluation offensive de la sécurité d’ampoules connectées**
+
+Notre objectif sera d’analyser la sécurité d’objets connectés de type ampoules intelligentes.
+Le travail consistera à dumper la mémoire de l’équipement, analyser le firmware, identifier d’éventuelles clés cryptographiques et mécanismes de protection, analyse du protocole de communication sans fil utilisé puis tester des scénarios d’attaque réalistes dans un cadre maîtrisé.
+Une phase de modification du firmware pourra être menée afin de contourner certaines limitations fonctionnelles imposées par le fabricant, notamment l’activation de fonctionnalités non accessibles par défaut comme des modes de couleurs étendus ou un changement dynamique de couleurs.
+
+## G8 Thomas CHIARBONELLO, Mathis DUFRENOIS,  Majdi SI SALAH
+
+Tuteur : à venir
+
+**Design and Implementation of Educational Capture The Flag Challenges for Security Awareness Training**
+
+This project focuses on the design, implementation, and pedagogical
+evaluation of Capture The Flag (CTF) challenges aimed at students following
+the SSI minor at ENAC. The objective is to create realistic, progressive,
+and educational challenges covering two complementary domains:
+
+- *OSINT (Open Source Intelligence)*: investigation scenarios involving public data collection, correlation, and analysis, highlighting common pitfalls and privacy risks.
+- *Prompt Injection Attacks on AI Agents*: hands-on challenges demonstrating how large language model–based agents can be manipulated, bypass safeguards, or leak sensitive information through crafted prompts.
+
+The project will emphasize learning objectives, difficulty progression, and
+reproducibility, with the goal of producing reusable CTF challenges
+suitable for academic training and potentially for integration into larger
+security events.
+
+## G9 Ambre LIABAT, Léna SEVELY
+
+Tuteur : à venir
+
+**Ingénierie sociale**
+
+Le projet porte sur l'ingénierie sociale. Pour cela, nous aimerions étudier
+les différents biais cognitifs et comment des personnes malveillantes
+peuvent en profiter. L’idée principale est de créer une campagne de
+phishing si la dsi nous y autorise. Ainsi que d’élargir le cercle d’étude en
+dehors du cadre étudiant et notamment étudier différentes tranches d’âge de
+différents milieux sociaux (entourages personnels, micro trottoirs..).
+L’objectif serait d’étudier les biais et leur importance, statistiquement
+parlant.
+
+Un autre pan du projet pourrait être sur la construction de “jeux” de
+sensibilisation de phishing/sécurité en général destiné à un public qui n’y
+est pas forcément sensible. Une étude statistique pourra également être
+faite sur ce sujet.
+
 ## Gx XXX
 
 Tuteur : à venir
