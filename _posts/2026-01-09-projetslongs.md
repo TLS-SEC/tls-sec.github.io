@@ -160,6 +160,58 @@ sensibilisation de phishing/sécurité en général destiné à un public qui n�
 est pas forcément sensible. Une étude statistique pourra également être
 faite sur ce sujet.
 
+## G10 Julie BOURGEAIS, Léa de LA BOURDONNAYE, Célia LAVERGNE
+
+Tuteur : à venir
+
+**sécurité des communications en champ proche**
+
+Dans le cadre du projet long, nous souhaitons explorer la sécurité des communications en champ proche (NFC). Notre objectif serait d'analyser en profondeur les mécanismes de ce protocole pour identifier et documenter ses failles potentielles.
+Possibles axes d'études (modifiables) :
+
+- modification de donnée
+- Usurpation d'identité
+- sécurité des transactions
+- respects de la réglementation DORA
+
+## G11 Hermas OBOU, Corentin COUSTY
+
+Tuteur : à venir
+
+**Développement d’une plateforme ZTNA : accès par ressource, révocation temps réel, audit**
+
+Nous proposons de développer une plateforme ZTNA (Zero Trust Network Access) comme alternative aux VPN classiques. L’accès distant sera « par ressource » : l’utilisateur ne rejoint pas le réseau interne ; il demande l’accès à une ressource nommée (web interne, SSH de maintenance, service applicatif) et une passerelle placée en DMZ applique la décision et relaie uniquement vers la ressource autorisée. L’objectif est de réduire la surface d’attaque (pas de pivot/mouvement latéral vers le LAN) tout en offrant une gestion opérationnelle de l’accès (durée limitée, révocation, traçabilité).
+
+Ce que nous comptons implémenter
+
+- Environnement virtualisé reproduisant une segmentation type WAN/DMZ/LAN (dimensionné selon l’avancement).
+- Control-plane : gestion des ressources et des politiques, délivrance d’accès temporaires.
+- Passerelle ZTNA (point d’entrée) : application des décisions d’accès et exposition contrôlée des services internes, avec gestion de sessions et audit.
+
+Si le temps le permet
+
+- Révocation temps réel avec propagation rapide vers la passerelle, y compris sur sessions actives.
+- Cache de décisions côté passerelle et invalidation lors des mises à jour de politiques.
+- Plusieurs passerelles (scalabilité/HA).
+
+## G12 Pierre DUROLLET, Ysabel FALLOT
+
+Tuteur : à venir
+
+**Développement d'un outil d'aide à l'analyse Forensic d'une machine**
+
+L'analyse forensic étant centrale afin de comprendre ce qui a été fait sur une machine compromise, celle-ci doit être menée au plus vite afin de pouvoir sécuriser le reste du SI. Mais cela peut également être fastidieux lorsque celui-ci est volumineux. L'idée est donc de développer un outil qui va lire des fichiers clés et qui affiche les informations obtenues.
+
+Le projet pourrait se dérouler de la manière suivante :
+
+- étude de l'art des outils existants afin de centrer les besoins ainsi que des idées techniques de solution et des distribitions les plus attaquées (Linux, Windows, éventuellement MAC OS).
+- Détermination des informations utiles à l'analyse forensic (OS avec version, processus tournant au moment de l'attaque dont les processus réseaux, extrait de logs utiles ,...) et développement d'un programme allant chercher ces informations en fonction des demandes de l'utilisateur (via des options en ligne de commnde), pour une distribution donnée (par exemple celle qui ressort de l'état de l'art)
+- Rédaction d'un petit wiki donnant les informations nécessaires à la bonne utilisation de l'outil.
+- Étendre le scope de l'outil pour d'autres distributions.
+- Création d'un interface graphique de l'outil pour rendre l'experience utilisateur plus agréable.
+- Extension pour l'analyse sur des réseaux? ou pas?
+- Mise en place de messages d'accompagnement
+
 ## Gx XXX
 
 Tuteur : à venir
