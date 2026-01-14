@@ -30,33 +30,13 @@ Tuteur : à venir
 
 **Challenges THCON 2026**
 
-Notre projet consiste en la création une série de quatre challenges
-(pour la THCON2026) simulant une opération d'infiltration physique
-réaliste suivie d'une phase d'analyse technique. L'objectif est de lier
-des compétences physiques, logicielles et d'investigation.
+Le projet consiste en la création une série de quatre challenges (pour la THCON2026) simulant une opération d’infiltration physique réaliste suivie d’une phase d’analyse technique. L’objectif est de lier des compétences physiques, logicielles et d’investigation.
 
-- Challenge 1 : Infiltration Physique. Les participants doivent
-s'introduire dans un bureau sécurisé (capteurs, caméras, etc.) en un
-temps limité. Ils devront détourner le flux vidéo, crocheter un
-coffre-fort pour récupérer des documents et une bombe factice à
-désamorcer (en exploitant une documentation trouvée dans le coffre), et
-extraire les données d'un poste de travail via une clé USB bootable.
+- Challenge 1 : Infiltration Physique. Les participants doivent s’introduire dans un bureau sécurisé (capteurs, caméras, etc.) en un temps limité. Ils devront détourner le flux vidéo, crocheter un coffre-fort pour récupérer des documents, trouver du matériel, et extraire les données d’un poste de travail via une clé USB bootable.
 
-- Challenge 2 : Analyse Forensic. À partir des données extraites du PC,
-les participants devront identifier la présence d'un enregistreur de
-frappe (keylogger) sur /dev/input. L'objectif est de développer un
-script pour décoder les entrées clavier et récupérer des identifiants de
-connexion SSH.
-
-- Challenge 3 : Investigation OSINT En utilisant les documents physiques
-photographiés dans le coffre-fort et les mails trouvés sur l'ordinateur,
-les participants devront mener une recherche en sources ouvertes pour
-identifier des complices extérieurs et localiser d'autres menaces.
-
-- Challenge 4 : Escalade de Privilèges (Linux) Une fois l'accès au
-serveur de contrôle des bombes obtenu (grâce au challenge 2), l'étape
-finale consiste à exploiter une vulnérabilité système pour passer "root"
-et exécuter le script de désactivation globale.
+- Challenge 2 : Analyse Forensic. À partir des données extraites du PC, les participants devront récupérer des identifiants de connexion SSH via une analyse forensique.
+- Challenge 3 : Investigation OSINT En utilisant les documents physiques photographiés dans le coffre-fort et les mails trouvés sur l’ordinateur, les participants devront mener une recherche en sources ouvertes pour identifier des complices extérieurs et localiser d’autres menaces.
+- Challenge 4 : Escalade de Privilèges. Une fois l’accès au serveur obtenu, l’étape finale consiste à exploiter une vulnérabilité pour escalader des privilèges et éradiquer la menace.
 
 ## G3 Pierre SAUSSEREAU, Nathan WALLART
 
