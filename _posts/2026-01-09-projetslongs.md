@@ -18,11 +18,11 @@ Tuteur : à venir
 
 Challenge THCON articulé en plusieurs étapes :
 
-- Accès initial : Page web vulnérable (panel admin) permettant d'obtenir un reverse shell.
-- Progression : Pivoting entre plusieurs machines via SSH et escalades de privilèges (il faudra contourner un SIEM style "Wazuh" en plus de pivoter/monter en privilèges).
-- Reverse Engineering & OSINT : Analyse d'un binaire sur la dernière machine. Le code source serait à retrouver via OSINT (ex: un post Reddit fictif).
-- Exploitation finale : Analyse sous GDB (buffer overflow ou attaque matérielle) pour exposer le dernier FLAG.
-- FLAG bonus : Utilisation de Web Archive pour récupérer une information sensible supprimée/modifié sur le même message Reddit.
+- Accès initial : Page web vulnérable permettant d'accéder a une première VM.
+- Progression : escalade de privilège et pivot entre plusieurs machine.
+- Reverse Engineering & OSINT : Analyse d’un binaire sur la dernière machine + OSINT pour s'aider.
+- Exploitation finale : Analyse sous GDB pour exposer le dernier FLAG.
+- FLAG bonus : Trouver une information pour justifier le fait qu'on a utilisé l'OSINT pour s'aider au débug.
 
 ## G2 Aurélien POUILLES, Leandro RODRIGUEZ, Killian MARTY
 
