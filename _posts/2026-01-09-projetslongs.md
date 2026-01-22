@@ -191,13 +191,18 @@ Le projet pourrait se dérouler de la manière suivante :
 - Extension pour l'analyse sur des réseaux? ou pas?
 - Mise en place de messages d'accompagnement
 
-## Gx XXX
+## G13 Haakon BOGEN, Maxime DEJEAN, Nathan DOS-REIS-RUBA
 
 Tuteur : à venir
 
-**Titre**
+**Sécurité de matériel audio non-filaires**
 
-Description
+- Analyser les mécanismes de communications et d'appairage
+- Analyser la surface d'attaque, pour lister des attaques passives et actives
+- Etude de la mémoire embarquée, évaluation de la possibilité de dump rom, injection de code dans le firmware.
+
+Le tout dans le but de réaliser différentes attaques expérimentales sur ces
+appareils.
 
 # Soutenances 12/03/2025 matin
 
