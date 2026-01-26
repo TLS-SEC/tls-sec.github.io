@@ -12,7 +12,7 @@ Vous trouverez ici la liste des projets longs de l'année scolaire 2025-2026.
 
 ## G1 Baptiste Rébillard, Ignacio ARROYO GARZA
 
-Tuteur : à venir
+Tuteur : Vincent Nicomette
 
 **Challenge THCON 2026**
 
@@ -26,7 +26,7 @@ Challenge THCON articulé en plusieurs étapes :
 
 ## G2 Aurélien POUILLES, Leandro RODRIGUEZ, Killian MARTY
 
-Tuteur : à venir
+Tuteur : Cyrius Nugier
 
 **Challenges THCON 2026**
 
@@ -39,7 +39,7 @@ Le projet consiste en la création une série de quatre challenges (pour la THCO
 
 ## G3 Pierre SAUSSEREAU, Nathan WALLART
 
-Tuteur : Jonathan Roux ?
+Tuteur : Jonathan Roux
 
 **Honeypots**
 
@@ -51,7 +51,7 @@ L'objectif en somme de notre projet est de déterminer les éléments à prendre
 
 ## G4 Evann DREUMONT, Quentin POINTEAU
 
-Tuteur : à venir
+Tuteur : Vincent Nicomette
 
 **Extending BGP Security**
 
@@ -63,7 +63,7 @@ Le projet étudiera une nouvelle approche : la vérification des origines de rou
 
 ## G5 Antoine LEBEAULT, Antoine REY
 
-Tuteur : à venir
+Tuteur : Vincent Migliore
 
 **Développement d'un Linux Security Module**
 
@@ -76,7 +76,7 @@ L’objectif ambitieux serait ensuite d’étendre le module autant que possible
 
 ## G6  Zacharie Igor TENE FOGANG, Aissata DIENG
 
-Tuteur : à venir
+Tuteur : Romain Cayre
 
 **Développement d'un antimalware avec détection comportementale**
 
@@ -92,7 +92,7 @@ L'outil intégrera un système de quarantaine, un logging détaillé et une inte
 
 ## G7 Natalia MYASNIKOVA, Kais SELLAMI
 
-Tuteur : à venir
+Tuteur : Jean-Christophe Deneuville
 
 **Rétro-ingénierie et évaluation offensive de la sécurité d’ampoules connectées**
 
@@ -102,7 +102,7 @@ Une phase de modification du firmware pourra être menée afin de contourner cer
 
 ## G8 Thomas CHIARBONELLO, Mathis DUFRENOIS,  Majdi SI SALAH
 
-Tuteur : à venir
+Tuteur : Cyrius Nugier
 
 **Design and Implementation of Educational Capture The Flag Challenges for Security Awareness Training**
 
@@ -121,7 +121,7 @@ security events.
 
 ## G9 Ambre LIABAT, Léna SEVELY
 
-Tuteur : à venir
+Tuteur : Jonathan Roux
 
 **Ingénierie sociale**
 
@@ -141,7 +141,7 @@ faite sur ce sujet.
 
 ## G10 Julie BOURGEAIS, Léa de LA BOURDONNAYE, Célia LAVERGNE
 
-Tuteur : à venir
+Tuteur : Vincent Migliore, Romain Cayre
 
 **sécurité des communications en champ proche**
 
@@ -155,7 +155,7 @@ Possibles axes d'études (modifiables) :
 
 ## G11 Hermas OBOU, Corentin COUSTY
 
-Tuteur : à venir
+Tuteur : Philippe Queinnec
 
 **Développement d’une plateforme ZTNA : accès par ressource, révocation temps réel, audit**
 
@@ -175,7 +175,7 @@ Si le temps le permet
 
 ## G12 Pierre DUROLLET, Ysabel FALLOT
 
-Tuteur : à venir
+Tuteur : Philippe Queinnec
 
 **Développement d'un outil d'aide à l'analyse Forensic d'une machine**
 
@@ -193,7 +193,7 @@ Le projet pourrait se dérouler de la manière suivante :
 
 ## G13 Haakon BOGEN, Maxime DEJEAN, Nathan DOS-REIS-RUBA
 
-Tuteur : à venir
+Tuteur : Romain Cayre
 
 **Sécurité de matériel audio non-filaires**
 
@@ -211,12 +211,13 @@ appareils.
 Jurés :
 
 - BM : Benoît Morgan
-- JCD : Jean-Christophe Deneuville
-- JR : Jonathan Roux
-- PQ : Philippe Queinnec
-- RC : Romain Cayre
-- VM : Vincent Migliore
-- VN : Vincent Nicomette
+- CN : Cyrius Nugier (ENAC)
+- JCD : Jean-Christophe Deneuville (ENAC)
+- JR : Jonathan Roux (ENAC)
+- PQ : Philippe Queinnec (ENSEEIHT)
+- RC : Romain Cayre (INSA)
+- VM : Vincent Migliore (INSA)
+- VN : Vincent Nicomette (INSA)
 
 Enseignants anglais : à définir
 
