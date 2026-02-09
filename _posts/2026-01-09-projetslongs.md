@@ -204,7 +204,7 @@ Tuteur : Romain Cayre
 Le tout dans le but de réaliser différentes attaques expérimentales sur ces
 appareils.
 
-# Soutenances 12/03/2025 matin
+# Soutenances 12/03/2025 matin - planning prévisionnel
 
 5 minutes d'installation, 20 minutes de présentation, 10 minutes de question, 10 minutes de délibération.
 
@@ -221,17 +221,31 @@ Jurés :
 
 Enseignants anglais : à définir
 
-### Jury 1 : Salle N7
+### Jury 1 : Salle C004
 
-| Heure | Groupe | Tuteur                     | Jurés       |
-|-------|--------|----------------------------|-------------|
+| Heure | Groupe     | Tuteur | Jurés       |
+|-------|------------|--------|-------------|
+| 8h30  | G1         | VN     | VN, CN      |
+| 9h15  | G2         | CN     |             |
+| 10h00 | G4         | VN     |             |
+| 10h45 | G8         | CN     |             |
+| 11h30 | MS approf. |        | VN,RC,CN,VM |
 
-### Jury 2 : Salle N7
+### Jury 2 : Salle C008
 
-| Heure | Groupe | Tuteur           | Jurés       |
-|-------|--------|------------------|-------------|
+| Heure | Groupe | Tuteur | Jurés       |
+|-------|--------|--------|-------------|
+| 8h30  | G11    | PQ     | PQ, JR, JCD |
+| 9h15  | G3     | JR     |             |
+| 10h00 | G7     | JCD    |             |
+| 10h45 | G12    | PQ     |             |
+| 11h30 | G9     | JR     |             |
 
-### Jury 3 : Salle N7
+### Jury 3 : Salle B206
 
-| Heure | Groupe | Tuteur            | Jurés          |
-|-------|--------|-------------------|----------------|
+| Heure | Groupe | Tuteur | Jurés  |
+|-------|--------|--------|--------|
+| 9h00  | G5     | VM     | VM, RC |
+| 9h45  | G6     | RC     |        |
+| 10h30 | G10    | VM, RC |        |
+| 11h15 | G13    | RC     |        |
