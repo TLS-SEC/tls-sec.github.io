@@ -219,13 +219,13 @@ Jurés :
 - VM : Vincent Migliore (INSA)
 - VN : Vincent Nicomette (INSA)
 
-Enseignants anglais : à définir
+Enseignants anglais : Ben Hansen (BN), Dimitri Tassigny (DT), Pat Anderson (PA)
 
 ### Jury 1 : Salle C004
 
 | Heure | Groupe     | Tuteur | Jurés       |
 |-------|------------|--------|-------------|
-| 8h30  | G1         | VN     | VN, CN      |
+| 8h30  | G1         | VN     | VN, CN, BN  |
 | 9h15  | G2         | CN     |             |
 | 10h00 | G4         | VN     |             |
 | 10h45 | G8         | CN     |             |
@@ -233,19 +233,19 @@ Enseignants anglais : à définir
 
 ### Jury 2 : Salle C008
 
-| Heure | Groupe | Tuteur | Jurés       |
-|-------|--------|--------|-------------|
-| 8h30  | G11    | PQ     | PQ, JR, JCD |
-| 9h15  | G3     | JR     |             |
-| 10h00 | G7     | JCD    |             |
-| 10h45 | G12    | PQ     |             |
-| 11h30 | G9     | JR     |             |
+| Heure | Groupe | Tuteur | Jurés           |
+|-------|--------|--------|-----------------|
+| 8h30  | G11    | PQ     | PQ, JR, JCD, DT |
+| 9h15  | G3     | JR     |                 |
+| 10h00 | G7     | JCD    |                 |
+| 10h45 | G12    | PQ     |                 |
+| 11h30 | G9     | JR     |                 |
 
 ### Jury 3 : Salle B206
 
-| Heure | Groupe | Tuteur | Jurés  |
-|-------|--------|--------|--------|
-| 9h00  | G5     | VM     | VM, RC |
-| 9h45  | G6     | RC     |        |
-| 10h30 | G10    | VM, RC |        |
-| 11h15 | G13    | RC     |        |
+| Heure | Groupe | Tuteur | Jurés      |
+|-------|--------|--------|------------|
+| 9h00  | G5     | VM     | VM, RC, PA |
+| 9h45  | G6     | RC     |            |
+| 10h30 | G10    | VM, RC |            |
+| 11h15 | G13    | RC     |            |
