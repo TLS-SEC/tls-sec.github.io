@@ -219,13 +219,13 @@ Jurés :
 - VM : Vincent Migliore (INSA)
 - VN : Vincent Nicomette (INSA)
 
-Enseignants anglais : Ben Hansen (BN), Dimitri Tassigny (DT), Pat Anderson (PA)
+Enseignants anglais : Ben Hansen (BH), Dimitri Tassigny (DT), Pat Anderson (PA)
 
 ### Jury 1 : Salle C004
 
 | Heure | Groupe     | Tuteur | Jurés       |
 |-------|------------|--------|-------------|
-| 8h30  | G1         | VN     | VN, CN, BN  |
+| 8h30  | G1         | VN     | VN, CN, BH  |
 | 9h15  | G2         | CN     |             |
 | 10h00 | G4         | VN     |             |
 | 10h45 | G8         | CN     |             |
