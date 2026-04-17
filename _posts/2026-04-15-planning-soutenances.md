@@ -47,7 +47,7 @@ Jury : Daniel Hagimont, Philippe Queinnec, tuteurs entreprise
 
 | Heure | Étudiant         | Tuteur N7         |
 |-------|------------------|-------------------|
-| 14h00 | Sevely Lena      | Philippe Queinnec |
+| 14h00 | Sevely Léna      | Philippe Queinnec |
 | 14h35 | Pointeau Quentin | Daniel Hagimont   |
 | 15h10 | Liabat Ambre     | Philippe Queinnec |
 | 15h45 | pause            |                   |
