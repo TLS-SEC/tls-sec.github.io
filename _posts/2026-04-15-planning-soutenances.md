@@ -47,7 +47,7 @@ Jury : Daniel Hagimont, Philippe Queinnec, tuteurs entreprise
 
 | Heure | Étudiant         | Tuteur N7         |
 |-------|------------------|-------------------|
-| 14h00 | Rey Antoine      | Philippe Queinnec |
+| 14h00 | Sevely Lena      | Philippe Queinnec |
 | 14h35 | Pointeau Quentin | Daniel Hagimont   |
 | 15h10 | Liabat Ambre     | Philippe Queinnec |
 | 15h45 | pause            |                   |
@@ -63,7 +63,7 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 |-------|---------------------------|-------------------|
 | 09h00 | Tene Fogang Zacharie Igor | Philippe Queinnec |
 | 09h35 | Fallot Ysabel             | Riadh Dhaou       |
-| 10h10 | Sevely Lena               | Philippe Queinnec |
+| 10h10 | Rey Antoine               | Philippe Queinnec |
 | 10h45 | pause                     |                   |
 | 10h50 | Lebeault Antoine          | Riadh Dhaou       |
 | 11h25 | Saussereau Pierre         | Philippe Queinnec |
