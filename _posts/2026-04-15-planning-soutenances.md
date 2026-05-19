@@ -27,7 +27,7 @@ Dans le cas où ils seraient absents, ils devront nous envoyer avant leur
 
 ## Étudiants ENSEEIHT FISE
 
-### Jeudi 03/09/2026 matin - salle : ENSEEIHT XXXX
+### Jeudi 03/09/2026 matin - salle : ENSEEIHT C101
 
 Jury : Riadh Dhaou, Daniel Hagimont, tuteurs entreprise
 
@@ -41,7 +41,7 @@ Jury : Riadh Dhaou, Daniel Hagimont, tuteurs entreprise
 | 11h25 | Dreumont Evann         | Daniel Hagimont |
 | 12h00 | fin                    |                 |
 
-### Jeudi 03/09/2026 après-midi - salle : ENSEEIHT XXXX
+### Jeudi 03/09/2026 après-midi - salle : ENSEEIHT C103
 
 Jury : Daniel Hagimont, Philippe Queinnec, tuteurs entreprise
 
@@ -55,7 +55,7 @@ Jury : Daniel Hagimont, Philippe Queinnec, tuteurs entreprise
 | 16h25 | Obou Hermas      | Philippe Queinnec |
 | 17h00 | fin              |                   |
 
-### Vendredi 04/09/2026 matin - salle : ENSEEIHT XXXX
+### Vendredi 04/09/2026 matin - salle : ENSEEIHT C102
 
 Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
