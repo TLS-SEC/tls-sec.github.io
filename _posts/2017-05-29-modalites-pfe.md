@@ -11,20 +11,19 @@ Vous trouverez ici les modalités pour le rendu du rapport de projet de fin d'é
   * Vous **pouvez** envoyer *par voie électronique* un plan du rapport *un mois* avant la soutenance pour obtenir un premier retour.
   * Selon les établissements, vous devez déposer sur Moodle ou envoyer *par voie électronique* une version complète et finalisée du rapport **une semaine** avant les soutenances.
   * Vous pouvez venir avec un exemplaire imprimé et relié le jour de la soutenanc, c'est agréable pour le jury.
-  * Vous pouvez choisir la langue que vous voulez pour la rédaction.
-  * Vous trouverez [ici]({{ site.url }}/documents/Modele_de_rapport_pfe.docx) un modèle de rapport que vous pouvez suivre.
-  * Le modèle de rapport est fourni à titre indicatif. Son objectif est de vous donner une idée des parties qui sont importantes à présenter dans le document. 
-  * Bien entendu, vous pouvez aussi basculer sur du latex pour sa rédaction, tout en conservant cet esprit.
+  * Vous pouvez choisir la langue que vous voulez pour la rédaction (français ou anglais).
+  * Vous pouvez suivre ce [modèle de rapport]({{ site.url }}/documents/Modele_de_rapport_pfe.docx).
+  * Le modèle de rapport est fourni à titre indicatif. Son objectif est de vous donner une idée des parties qui sont importantes à présenter dans le document.
+  * Bien entendu, vous pouvez aussi basculer sur du latex pour sa rédaction, tout en conservant cet esprit, ou en choisissant un plan différent.
 
 ## Soutenance
 
-Les soutenances auront normalement approximativement **début septembre**. Les
-dates définitives seront communiquées prochainement.
+Les soutenances auront lieu **début septembre**.
 
 La soutenance sera de 20 minutes plus 10 minutes de questions. Attention, le jury porte une attention particulière à l'utilisation de termes corrects en Français (pas de Franglais), notamment si votre rapport est en Anglais.
 
 Conseils:
-  * Attention vous présentez votre travail **pas un domaine**
+  * Attention vous présentez votre travail, **pas un domaine**
   * Prenez le temps de décrire les activités d'un niveau ingénieur (réflexion, analyse, prise de hauteur, etc.) plus que les gestes techniques 
 
 ## Évaluation
