@@ -84,26 +84,51 @@ Jury : Vincent Nicomette, Philippe Queinnec, XXXX, tuteurs entreprise
 
 ## Étudiants INSA FISE
 
-### Jeudi 03/09/2026 matin - salle : INSA XXXX
+### Jeudi 03/09/2026 matin - salle : INSA GEI-13
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant             | Tuteur INSA             |
 |-------|----------------------|-------------------------|
+| 9h30  | H. Bogen             | Valentin Bouziat        |
+| 10h15 | J. Bourgeais         | Didier Le Botlan        |
+| 11h00 | B. Rebillard         | Romain Cayre            |
+| 11h45 | L. De La Bourdonnaye | Guillaume Auriol        |
+| 12h30 | fin                  |                         |
 
-### Jeudi 03/09/2026 après-midi - salle : INSA XXXX
+### Jeudi 03/09/2026 après-midi - salle : INSA GEI-13
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant              | Tuteur INSA             |
 |-------|-----------------------|-------------------------|
+| 14h30 | C. Lavergne           | Guillaume Auriol        |
+| 15h15 | K. Marty              | Slim Abdellatif         |
+| 16h00 | fin                   |                         |
 
-### Vendredi 04/09/2026 matin - salle : INSA XXXX
+### Vendredi 04/09/2026 matin - salle : INSA GEI-215
 
 Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
 
 | Heure | Étudiant           | Tuteur INSA                |
 |-------|--------------------|----------------------------|
+| 9h30  | A. Pouilles        | Slim Abdellatif            |
+| 10h15 | M. Dejean          | Marie Jo Huguet            |
+| 11h00 | L. Rodriguez       | Mikael Cappelle            |
+| 11h45 | k. Sellami         | Vincent Migliore           |
+| 12h30 | fin                |                            |
+
+### Vendredi 04/09/2026 aprèes-midi - salle : INSA GEI-215
+
+Jury : V. Nicomette, tuteurs INSA, tuteurs entreprise
+
+| Heure | Étudiant           | Tuteur INSA                |
+|-------|--------------------|----------------------------|
+| 13h45 | N. Wallart         | Guillaume Auriol           |
+| 14h30 | A. Berger          | Philippe Lelex             |
+| 15h15 | N. Myasnikova      | Didier Le Botlan           |
+| 16h00 | fin                |                            |
+
 
 ## Étudiants ENAC
 
