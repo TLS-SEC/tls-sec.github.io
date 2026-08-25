@@ -77,11 +77,10 @@ Jury : Vincent Nicomette, Philippe Queinnec, XXXX, tuteurs entreprise
 
 | Heure | Étudiant         | Tuteur N7         |
 |-------|------------------|-------------------|
-| 15h00 | Clément Gauché   | Philippe Queinnec |
-| 15h40 | Youri Vassilieff | Philippe Queinnec |
-| 16h20 | Gregory Perna    | Philippe Queinnec |
-| 17h00 | Laurent Gendre   | Vincent Nicomette |
-| 17h40 | fin              |                   |
+| 16h00 | Clément Gauché   | Philippe Queinnec |
+| 16h40 | Youri Vassilieff | Philippe Queinnec |
+| 17h20 | Gregory Perna    | Philippe Queinnec |
+| 18h00 | fin              |                   |
 
 ## Étudiants INSA FISE
 
