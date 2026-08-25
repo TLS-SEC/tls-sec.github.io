@@ -71,7 +71,7 @@ Jury : Riadh Dhaou, Philippe Queinnec, tuteurs entreprise
 
 ## Étudiants Mastère Spécialisé
 
-### Vendredi 04/09/2026 - salle : INSA XXXX
+### Vendredi 04/09/2026 - salle : INSA GEI-215
 
 Jury : Vincent Nicomette, Philippe Queinnec, XXXX, tuteurs entreprise
 
