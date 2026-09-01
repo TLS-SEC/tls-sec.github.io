@@ -33,7 +33,6 @@ Jury : Riadh Dhaou, Daniel Hagimont, tuteurs entreprise
 
 | Heure | Étudiant               | Tuteur N7       |
 |-------|------------------------|-----------------|
-| 09h00 | Durollet Pierre        | Riadh Dhaou     |
 | 09h35 | Arroyo Garza Ignacio   | Daniel Hagimont |
 | 10h10 | Cousty Corentin        | Daniel Hagimont |
 | 10h45 | pause                  |                 |
